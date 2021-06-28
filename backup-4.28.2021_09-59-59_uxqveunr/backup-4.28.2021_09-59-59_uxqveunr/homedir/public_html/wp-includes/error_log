@@ -1,0 +1,76 @@
+[30-Jul-2020 20:37:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function feed_content_type() in /home/uxqveunr/public_html/wp-includes/feed-atom-comments.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/uxqveunr/public_html/wp-includes/feed-atom-comments.php on line 8
+[30-Jul-2020 20:37:55 UTC] PHP Fatal error:  Uncaught Error: Class 'IXR_Server' not found in /home/uxqveunr/public_html/wp-includes/class-wp-xmlrpc-server.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/uxqveunr/public_html/wp-includes/class-wp-xmlrpc-server.php on line 23
+[31-Jul-2020 02:47:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function is_main_site() in /home/uxqveunr/public_html/wp-includes/update.php:813
+Stack trace:
+#0 {main}
+  thrown in /home/uxqveunr/public_html/wp-includes/update.php on line 813
+[31-Jul-2020 10:41:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function feed_content_type() in /home/uxqveunr/public_html/wp-includes/feed-atom-comments.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/uxqveunr/public_html/wp-includes/feed-atom-comments.php on line 8
+[31-Jul-2020 18:01:04 UTC] PHP Fatal error:  Uncaught Error: Class 'IXR_Server' not found in /home/uxqveunr/public_html/wp-includes/class-wp-xmlrpc-server.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/uxqveunr/public_html/wp-includes/class-wp-xmlrpc-server.php on line 23
+[01-Aug-2020 21:53:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/uxqveunr/public_html/wp-includes/locale.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/uxqveunr/public_html/wp-includes/locale.php on line 11
+[03-Aug-2020 01:02:25 UTC] PHP Fatal error:  Uncaught Error: Class 'Walker' not found in /home/uxqveunr/public_html/wp-includes/class-walker-nav-menu.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/uxqveunr/public_html/wp-includes/class-walker-nav-menu.php on line 17
+[02-Sep-2020 19:37:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function feed_content_type() in /home/uxqveunr/public_html/wp-includes/feed-atom-comments.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/uxqveunr/public_html/wp-includes/feed-atom-comments.php on line 8
+[02-Sep-2020 20:28:57 UTC] PHP Fatal error:  Uncaught Error: Class 'IXR_Server' not found in /home/uxqveunr/public_html/wp-includes/class-wp-xmlrpc-server.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/uxqveunr/public_html/wp-includes/class-wp-xmlrpc-server.php on line 23
+[03-Sep-2020 00:31:09 UTC] PHP Fatal error:  Uncaught Error: Class 'IXR_Server' not found in /home/uxqveunr/public_html/wp-includes/class-wp-xmlrpc-server.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/uxqveunr/public_html/wp-includes/class-wp-xmlrpc-server.php on line 23
+[03-Sep-2020 00:31:09 UTC] PHP Fatal error:  Uncaught Error: Class 'IXR_Server' not found in /home/uxqveunr/public_html/wp-includes/class-wp-xmlrpc-server.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/uxqveunr/public_html/wp-includes/class-wp-xmlrpc-server.php on line 23
+[03-Sep-2020 00:31:13 UTC] PHP Fatal error:  Uncaught Error: Class 'IXR_Server' not found in /home/uxqveunr/public_html/wp-includes/class-wp-xmlrpc-server.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/uxqveunr/public_html/wp-includes/class-wp-xmlrpc-server.php on line 23
+[03-Sep-2020 00:31:15 UTC] PHP Fatal error:  Uncaught Error: Class 'IXR_Server' not found in /home/uxqveunr/public_html/wp-includes/class-wp-xmlrpc-server.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/uxqveunr/public_html/wp-includes/class-wp-xmlrpc-server.php on line 23
+[03-Sep-2020 00:31:25 UTC] PHP Fatal error:  Uncaught Error: Class 'IXR_Server' not found in /home/uxqveunr/public_html/wp-includes/class-wp-xmlrpc-server.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/uxqveunr/public_html/wp-includes/class-wp-xmlrpc-server.php on line 23
+[03-Sep-2020 00:31:30 UTC] PHP Fatal error:  Uncaught Error: Class 'IXR_Server' not found in /home/uxqveunr/public_html/wp-includes/class-wp-xmlrpc-server.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/uxqveunr/public_html/wp-includes/class-wp-xmlrpc-server.php on line 23
+[03-Sep-2020 00:31:43 UTC] PHP Fatal error:  Uncaught Error: Class 'IXR_Server' not found in /home/uxqveunr/public_html/wp-includes/class-wp-xmlrpc-server.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/uxqveunr/public_html/wp-includes/class-wp-xmlrpc-server.php on line 23
+[03-Sep-2020 00:31:47 UTC] PHP Fatal error:  Uncaught Error: Class 'IXR_Server' not found in /home/uxqveunr/public_html/wp-includes/class-wp-xmlrpc-server.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/uxqveunr/public_html/wp-includes/class-wp-xmlrpc-server.php on line 23
+[03-Sep-2020 14:46:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function is_main_site() in /home/uxqveunr/public_html/wp-includes/update.php:813
+Stack trace:
+#0 {main}
+  thrown in /home/uxqveunr/public_html/wp-includes/update.php on line 813
+[03-Sep-2020 14:46:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function is_main_site() in /home/uxqveunr/public_html/wp-includes/update.php:813
+Stack trace:
+#0 {main}
+  thrown in /home/uxqveunr/public_html/wp-includes/update.php on line 813
