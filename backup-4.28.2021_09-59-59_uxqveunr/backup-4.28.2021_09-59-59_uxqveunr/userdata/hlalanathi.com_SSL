@@ -1,0 +1,18 @@
+--- 
+documentroot: /home/uxqveunr/public_html
+group: uxqveunr
+hascgi: 0
+homedir: /home/uxqveunr
+ip: 129.232.242.194
+ipv6: ~
+owner: connectedi
+phpopenbasedirprotect: ~
+port: 443
+secruleengineoff: ~
+serveradmin: webmaster@hlalanathi.com
+serveralias: mail.hlalanathi.com www.hlalanathi.com
+servername: hlalanathi.com
+ssl: 1
+usecanonicalname: 'Off'
+user: uxqveunr
+userdirprotect: ''
