@@ -1,0 +1,45 @@
+[14-Feb-2020 15:41:41 Africa/Johannesburg] PHP Fatal error:  Class 'getid3_handler' not found in /home/uxqveunr/public_html/wp-includes/ID3/module.audio.ac3.php on line 18
+[09-May-2020 16:33:03 UTC] PHP Fatal error:  Uncaught Error: Class 'getid3_handler' not found in /home/uxqveunr/public_html/wp-includes/ID3/module.audio.ac3.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/uxqveunr/public_html/wp-includes/ID3/module.audio.ac3.php on line 18
+[15-May-2020 05:25:47 UTC] PHP Fatal error:  Uncaught Error: Class 'getid3_handler' not found in /home/uxqveunr/public_html/wp-includes/ID3/module.audio.ac3.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/uxqveunr/public_html/wp-includes/ID3/module.audio.ac3.php on line 18
+[17-May-2020 00:05:50 UTC] PHP Fatal error:  Uncaught Error: Class 'getid3_handler' not found in /home/uxqveunr/public_html/wp-includes/ID3/module.audio.ac3.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/uxqveunr/public_html/wp-includes/ID3/module.audio.ac3.php on line 18
+[24-May-2020 03:53:56 UTC] PHP Fatal error:  Uncaught Error: Class 'getid3_handler' not found in /home/uxqveunr/public_html/wp-includes/ID3/module.audio.ac3.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/uxqveunr/public_html/wp-includes/ID3/module.audio.ac3.php on line 18
+[27-May-2020 00:10:33 UTC] PHP Fatal error:  Uncaught Error: Class 'getid3_handler' not found in /home/uxqveunr/public_html/wp-includes/ID3/module.audio.ac3.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/uxqveunr/public_html/wp-includes/ID3/module.audio.ac3.php on line 18
+[10-Jun-2020 23:15:51 UTC] PHP Fatal error:  Uncaught Error: Class 'getid3_handler' not found in /home/uxqveunr/public_html/wp-includes/ID3/module.audio.ac3.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/uxqveunr/public_html/wp-includes/ID3/module.audio.ac3.php on line 18
+[30-Jun-2020 02:24:47 UTC] PHP Fatal error:  Uncaught Error: Class 'getid3_handler' not found in /home/uxqveunr/public_html/wp-includes/ID3/module.audio.ac3.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/uxqveunr/public_html/wp-includes/ID3/module.audio.ac3.php on line 18
+[01-Jul-2020 22:22:10 UTC] PHP Fatal error:  Uncaught Error: Class 'getid3_handler' not found in /home/uxqveunr/public_html/wp-includes/ID3/module.audio.ac3.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/uxqveunr/public_html/wp-includes/ID3/module.audio.ac3.php on line 18
+[04-Jul-2020 10:07:52 UTC] PHP Fatal error:  Uncaught Error: Class 'getid3_handler' not found in /home/uxqveunr/public_html/wp-includes/ID3/module.audio.ac3.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/uxqveunr/public_html/wp-includes/ID3/module.audio.ac3.php on line 18
+[19-Jul-2020 02:54:35 UTC] PHP Fatal error:  Uncaught Error: Class 'getid3_handler' not found in /home/uxqveunr/public_html/wp-includes/ID3/module.audio.ac3.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/uxqveunr/public_html/wp-includes/ID3/module.audio.ac3.php on line 18
+[18-Aug-2020 18:03:54 UTC] PHP Fatal error:  Uncaught Error: Class 'getid3_handler' not found in /home/uxqveunr/public_html/wp-includes/ID3/module.audio.ac3.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/uxqveunr/public_html/wp-includes/ID3/module.audio.ac3.php on line 18

@@ -1,0 +1,32 @@
+[31-Jul-2020 02:32:11 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Control' not found in /home/uxqveunr/public_html/wp-includes/customize/class-wp-widget-form-customize-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/uxqveunr/public_html/wp-includes/customize/class-wp-widget-form-customize-control.php on line 17
+[31-Jul-2020 02:32:17 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Control' not found in /home/uxqveunr/public_html/wp-includes/customize/class-wp-widget-form-customize-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/uxqveunr/public_html/wp-includes/customize/class-wp-widget-form-customize-control.php on line 17
+[31-Jul-2020 02:32:27 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Control' not found in /home/uxqveunr/public_html/wp-includes/customize/class-wp-widget-form-customize-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/uxqveunr/public_html/wp-includes/customize/class-wp-widget-form-customize-control.php on line 17
+[31-Jul-2020 03:04:34 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Control' not found in /home/uxqveunr/public_html/wp-includes/customize/class-wp-customize-theme-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/uxqveunr/public_html/wp-includes/customize/class-wp-customize-theme-control.php on line 17
+[31-Jul-2020 11:59:30 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Control' not found in /home/uxqveunr/public_html/wp-includes/customize/class-wp-widget-form-customize-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/uxqveunr/public_html/wp-includes/customize/class-wp-widget-form-customize-control.php on line 17
+[31-Jul-2020 11:59:34 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Control' not found in /home/uxqveunr/public_html/wp-includes/customize/class-wp-widget-form-customize-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/uxqveunr/public_html/wp-includes/customize/class-wp-widget-form-customize-control.php on line 17
+[31-Jul-2020 12:02:26 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Control' not found in /home/uxqveunr/public_html/wp-includes/customize/class-wp-customize-theme-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/uxqveunr/public_html/wp-includes/customize/class-wp-customize-theme-control.php on line 17
+[31-Jul-2020 12:02:57 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Control' not found in /home/uxqveunr/public_html/wp-includes/customize/class-wp-customize-theme-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/uxqveunr/public_html/wp-includes/customize/class-wp-customize-theme-control.php on line 17
