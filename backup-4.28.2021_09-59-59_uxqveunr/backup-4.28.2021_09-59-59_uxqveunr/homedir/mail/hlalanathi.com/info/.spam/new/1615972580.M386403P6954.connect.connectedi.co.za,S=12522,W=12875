@@ -1,0 +1,353 @@
+Return-Path: <vinaykumar859427@gmail.com>
+Delivered-To: info+spam@hlalanathi.com
+Received: from connect.connectedi.co.za
+	by connect.connectedi.co.za with LMTP
+	id AKCFFuTIUWAqGwAA03Y0oA
+	(envelope-from <vinaykumar859427@gmail.com>)
+	for <info+spam@hlalanathi.com>; Wed, 17 Mar 2021 11:16:20 +0200
+Return-path: <vinaykumar859427@gmail.com>
+Envelope-to: info@hlalanathi.com
+Delivery-date: Wed, 17 Mar 2021 11:16:20 +0200
+Received: from mail-pj1-f66.google.com ([209.85.216.66]:35589)
+	by connect.connectedi.co.za with esmtps  (TLS1.2) tls TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256
+	(Exim 4.93)
+	(envelope-from <vinaykumar859427@gmail.com>)
+	id 1lMSHm-0002gN-Bz
+	for info@hlalanathi.com; Wed, 17 Mar 2021 11:16:20 +0200
+Received: by mail-pj1-f66.google.com with SMTP id ga23-20020a17090b0397b02900c0b81bbcd4so2895762pjb.0
+        for <info@hlalanathi.com>; Wed, 17 Mar 2021 02:15:53 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20161025;
+        h=from:to:subject:date:message-id:mime-version:thread-index
+         :content-language;
+        bh=zsb/6cz4VOVox2KQCzU+6w3e4fF2ODZXlokHRICnpDw=;
+        b=dXB3kLZrr1q1DgTRQ/Qq5olU/JZWkut1LWe1qVFx3oEsSI+sKC8QOONNVuNFDSO1bx
+         LdoRgBxThDXIS6bWloP4d68RDFl35mXWVQCpcKh0WxUKkqj0WZKudq7V/pKdMlu+85Y0
+         lMXrJcWCNeEHm0hrRRfl8rHFr3jHZXCTCGE1ZxWb81sqvP6ojXoe+auW0Qu+u/PYCRzK
+         r/I2XWtINBV7R/eWv0wRkJ3p7BEqGYP/E3bzUvDj074w2jLYBa6PhdFBRMRcJ3veoMPD
+         Lsxjf0fPneZ0YBTmO+QhORVPp3w0r+WjxqrIS15yefeMGW8JQKVy0NCJQyKc6UL1bTi6
+         A/pQ==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:from:to:subject:date:message-id:mime-version
+         :thread-index:content-language;
+        bh=zsb/6cz4VOVox2KQCzU+6w3e4fF2ODZXlokHRICnpDw=;
+        b=EL9k03ONBMulYbSwrBZpqclpnE28cjIu8ynBDvnlSNGUMgn3y+aBoOSAJzSeyaL/T1
+         TRLqweHaIoUeatssd5BJ2m+7l9ESUFtLe3be8Gbeac+zWU+CjA8bQXi0rVWW8TyeUKtq
+         Ut2DzXhsI8vliqiOxUBwcULq3lnSAqbemk0Y5GIwJKe72AkMaN933Oyct1V3gtBNalgo
+         8LuKvzvr3lyMkD2MVULXBglWulJGA68fNLPPdbhtvcjK39+aXsIc0j9qYzIFqvvHKfdf
+         kdwTId/6/IZzaWf92OkGh4S2j+4xPhX0DoOXO+vUDb4Z9iLty3ac4ZbN8lfYGJCc4w+l
+         ILqw==
+X-Gm-Message-State: AOAM531Yr/u2ATkhjv1mUywfKKYl57ffupWmnYcZOshfn5oMIRxMGNHC
+	yMP4H2U0LzsCCZd8MMBUQQWuSzvU4qA=
+X-Google-Smtp-Source: ABdhPJzuSmszGTuAyhS77nqMDOkco7S5AhD60hq/NGyLWVHQyWLAPPqa+qLMhjJ1P+DjWsB9UsuxGw==
+X-Received: by 2002:a17:903:2286:b029:e6:6499:8c2d with SMTP id b6-20020a1709032286b02900e664998c2dmr3424917plh.17.1615972529268;
+        Wed, 17 Mar 2021 02:15:29 -0700 (PDT)
+Received: from NaveenlPC ([103.69.217.90])
+        by smtp.gmail.com with ESMTPSA id y7sm11252913pfq.70.2021.03.17.02.15.27
+        for <info@hlalanathi.com>
+        (version=TLS1 cipher=ECDHE-ECDSA-AES128-SHA bits=128/128);
+        Wed, 17 Mar 2021 02:15:28 -0700 (PDT)
+From: "Vinay" <vinaykumar859427@gmail.com>
+To: <info@hlalanathi.com>
+Date: Wed, 17 Mar 2021 14:45:24 +0530
+Message-ID: <003c01d71b0e$12322fd0$36968f70$@com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_003D_01D71B3C.2BEA6BD0"
+X-Mailer: Microsoft Office Outlook 12.0
+Thread-Index: AdcbDgqDntn8IXuETMC5ZOfuRAgYfg==
+Content-Language: en-us
+X-Spam-Status: Yes, score=5.9
+X-Spam-Score: 59
+X-Spam-Bar: +++++
+X-Spam-Report: Spam detection software, running on the system "connect.connectedi.co.za",
+ has identified this incoming email as possible spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ Content preview:  Hi, Hope you are doing great! I came across your website www.hlalanathi.com
+    and noticed that you were not ranking well for certain keyword phrases. 
+ Content analysis details:   (5.9 points, 2.5 required)
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+  0.0 URIBL_BLOCKED          ADMINISTRATOR NOTICE: The query to URIBL was
+                             blocked.  See
+                             http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+                              for more information.
+                             [URIs: hlalanathi.com]
+  0.2 FREEMAIL_ENVFROM_END_DIGIT Envelope-from freemail username ends
+                             in digit
+                             [vinaykumar859427[at]gmail.com]
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+  0.0 FREEMAIL_FROM          Sender email is commonly abused enduser mail
+                             provider
+                             [vinaykumar859427[at]gmail.com]
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily
+                             valid
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+ -0.1 DKIM_VALID_AU          Message has a valid DKIM or DK signature from
+                             author's domain
+ -0.1 DKIM_VALID_EF          Message has a valid DKIM or DK signature from
+                             envelope-from domain
+  0.8 CPANEL_LOTS_OF_EMPTY_LINE RAW: Spam that has large block of
+                             empty lines
+  5.0 KAM_SEARCH             Spammers hawking SEO
+  0.0 T_KAM_HTML_FONT_INVALID Test for Invalidly Named or Formatted
+                             Colors in HTML
+X-Spam-Flag: YES
+Subject:  ***SPAM***  Rank high for more customers $$?
+
+This is a multipart message in MIME format.
+
+------=_NextPart_000_003D_01D71B3C.2BEA6BD0
+Content-Type: text/plain;
+	charset="us-ascii"
+Content-Transfer-Encoding: 7bit
+
+Hi,
+
+Hope you are doing great!
+
+I came across your website www.hlalanathi.com and noticed that you were not
+ranking well for certain keyword phrases.
+
+I would like to send you a comprehensive SEO strategy & Proposal to help
+improve your Google rankings dramatically.
+
+Would that be okay? If so, I can send it to you sometime this week.
+
+Regards,
+
+Vinay, 
+
+PS:  I will be happy to send the "Proposal" and "Pricing" further more...
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+------=_NextPart_000_003D_01D71B3C.2BEA6BD0
+Content-Type: text/html;
+	charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml" =
+xmlns:o=3D"urn:schemas-microsoft-com:office:office" =
+xmlns:w=3D"urn:schemas-microsoft-com:office:word" =
+xmlns:m=3D"http://schemas.microsoft.com/office/2004/12/omml" =
+xmlns=3D"http://www.w3.org/TR/REC-html40">
+
+<head>
+<META HTTP-EQUIV=3D"Content-Type" CONTENT=3D"text/html; =
+charset=3Dus-ascii">
+<meta name=3DGenerator content=3D"Microsoft Word 12 (filtered medium)">
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Cambria;
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin-top:0in;
+	margin-right:0in;
+	margin-bottom:10.0pt;
+	margin-left:0in;
+	line-height:115%;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:purple;
+	text-decoration:underline;}
+p.MsoNoSpacing, li.MsoNoSpacing, div.MsoNoSpacing
+	{mso-style-priority:1;
+	margin:0in;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";}
+span.MsoIntenseEmphasis
+	{mso-style-priority:21;
+	color:#4F81BD;
+	font-weight:bold;
+	font-style:italic;}
+.MsoChpDefault
+	{mso-style-type:export-only;}
+.MsoPapDefault
+	{mso-style-type:export-only;
+	margin-bottom:10.0pt;
+	line-height:115%;}
+@page Section1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;}
+div.Section1
+	{page:Section1;}
+-->
+</style>
+<!--[if gte mso 9]><xml>
+ <o:shapedefaults v:ext=3D"edit" spidmax=3D"1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <o:shapelayout v:ext=3D"edit">
+  <o:idmap v:ext=3D"edit" data=3D"1" />
+ </o:shapelayout></xml><![endif]-->
+</head>
+
+<body lang=3DEN-US link=3Dblue vlink=3Dpurple>
+
+<div class=3DSection1>
+
+<p class=3DMsoNormal><span class=3DMsoIntenseEmphasis><span =
+style=3D'line-height:
+115%;font-family:"Cambria","serif";color:windowtext;font-weight:normal'>H=
+i,<o:p></o:p></span></span></p>
+
+<p class=3DMsoNormal><span class=3DMsoIntenseEmphasis><span =
+style=3D'line-height:
+115%;font-family:"Cambria","serif";color:windowtext;font-weight:normal'>H=
+ope
+you are doing great!<o:p></o:p></span></span></p>
+
+<p class=3DMsoNormal><span class=3DMsoIntenseEmphasis><span =
+style=3D'line-height:
+115%;font-family:"Cambria","serif";color:windowtext;font-weight:normal'>I=
+ came
+across your website </span></span><i><span =
+style=3D'line-height:115%;font-family:
+"Cambria","serif";background:yellow;mso-highlight:yellow'>www.hlalanathi.=
+com</span></i><span
+class=3DMsoIntenseEmphasis><span =
+style=3D'line-height:115%;font-family:"Cambria","serif";
+color:windowtext;font-weight:normal'> and noticed that you were not =
+ranking
+well for certain keyword phrases.</span></span><i><span =
+style=3D'line-height:
+115%;font-family:"Cambria","serif"'><o:p></o:p></span></i></p>
+
+<p class=3DMsoNormal><span class=3DMsoIntenseEmphasis><span =
+style=3D'line-height:
+115%;font-family:"Cambria","serif";color:windowtext;font-weight:normal'>I=
+ would
+like to send you a comprehensive SEO strategy &amp; Proposal to help =
+improve
+your Google rankings dramatically.<o:p></o:p></span></span></p>
+
+<p class=3DMsoNormal><span class=3DMsoIntenseEmphasis><span =
+style=3D'line-height:
+115%;font-family:"Cambria","serif";color:windowtext;background:lime;mso-h=
+ighlight:
+lime;font-weight:normal'>Would that be okay? If so, I can send it to you
+sometime this week.</span></span><i><span =
+style=3D'line-height:115%;font-family:
+"Cambria","serif"'><o:p></o:p></span></i></p>
+
+<p class=3DMsoNormal><span class=3DMsoIntenseEmphasis><span =
+style=3D'line-height:
+115%;font-family:"Cambria","serif";color:windowtext;font-weight:normal'>R=
+egards,</span></span><i><span
+style=3D'line-height:115%;font-family:"Cambria","serif"'><o:p></o:p></spa=
+n></i></p>
+
+<p class=3DMsoNormal><span class=3DMsoIntenseEmphasis><span =
+style=3D'line-height:
+115%;font-family:"Cambria","serif";color:#00B0F0;font-weight:normal'>Vina=
+y</span></span><span
+class=3DMsoIntenseEmphasis><span =
+style=3D'line-height:115%;font-family:"Cambria","serif";
+color:windowtext;font-weight:normal'>, </span></span><i><span =
+style=3D'line-height:
+115%;font-family:"Cambria","serif"'><o:p></o:p></span></i></p>
+
+<p class=3DMsoNormal><i><span =
+style=3D'line-height:115%;font-family:"Cambria","serif";
+background:yellow;mso-highlight:yellow'>PS:&nbsp; I will be happy to =
+send the
+&quot;Proposal&quot; and &quot;Pricing&quot; further =
+more...</span></i><i><span
+style=3D'line-height:115%;font-family:"Cambria","serif"'><o:p></o:p></spa=
+n></i></p>
+
+<p class=3DMsoNormal><i><span =
+style=3D'line-height:115%;font-family:"Cambria","serif"'><o:p>&nbsp;</o:p=
+></span></i></p>
+
+<p class=3DMsoNormal><span =
+style=3D'line-height:115%;font-family:"Cambria","serif"'><o:p>&nbsp;</o:p=
+></span></p>
+
+<p class=3DMsoNormal><span =
+style=3D'line-height:115%;font-family:"Cambria","serif"'><o:p>&nbsp;</o:p=
+></span></p>
+
+<p class=3DMsoNormal><span =
+style=3D'line-height:115%;font-family:"Cambria","serif"'><o:p>&nbsp;</o:p=
+></span></p>
+
+<p class=3DMsoNormal><span =
+style=3D'line-height:115%;font-family:"Cambria","serif"'><o:p>&nbsp;</o:p=
+></span></p>
+
+<p class=3DMsoNormal><span =
+style=3D'line-height:115%;font-family:"Cambria","serif"'><o:p>&nbsp;</o:p=
+></span></p>
+
+<p class=3DMsoNormal><span =
+style=3D'line-height:115%;font-family:"Cambria","serif"'><o:p>&nbsp;</o:p=
+></span></p>
+
+<p class=3DMsoNormal><span =
+style=3D'line-height:115%;font-family:"Cambria","serif"'><o:p>&nbsp;</o:p=
+></span></p>
+
+<p class=3DMsoNormal><span =
+style=3D'line-height:115%;font-family:"Cambria","serif"'><o:p>&nbsp;</o:p=
+></span></p>
+
+<p class=3DMsoNormal><span class=3DMsoIntenseEmphasis><span =
+style=3D'font-family:
+"Cambria","serif";color:windowtext;font-weight:normal;font-style:normal'>=
+<o:p>&nbsp;</o:p></span></span></p>
+
+<p class=3DMsoNormal><span class=3DMsoIntenseEmphasis><span =
+style=3D'font-family:
+"Cambria","serif";color:windowtext;font-weight:normal;font-style:normal'>=
+<o:p>&nbsp;</o:p></span></span></p>
+
+</div>
+
+</body>
+
+</html>
+
+------=_NextPart_000_003D_01D71B3C.2BEA6BD0--
+

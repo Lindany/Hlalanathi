@@ -1,0 +1,185 @@
+Return-Path: <marques@seoaustralian.com>
+Delivered-To: info+spam@hlalanathi.com
+Received: from connect.connectedi.co.za
+	by connect.connectedi.co.za with LMTP
+	id UGCzGa86IWBnSQAA03Y0oA
+	(envelope-from <marques@seoaustralian.com>)
+	for <info+spam@hlalanathi.com>; Mon, 08 Feb 2021 15:20:47 +0200
+Return-path: <marques@seoaustralian.com>
+Envelope-to: info@hlalanathi.com
+Delivery-date: Mon, 08 Feb 2021 15:20:47 +0200
+Received: from [69.30.229.36] (port=60098 helo=mail.seoaustralian.com)
+	by connect.connectedi.co.za with esmtps  (TLS1.2) tls TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384
+	(Exim 4.93)
+	(envelope-from <marques@seoaustralian.com>)
+	id 1l96T5-0005HE-Kf
+	for info@hlalanathi.com; Mon, 08 Feb 2021 15:20:47 +0200
+Received: by mail.seoaustralian.com (Postfix, from userid 500)
+	id 8426AB62C53; Mon,  8 Feb 2021 18:45:56 +0530 (IST)
+DKIM-Filter: OpenDKIM Filter v2.11.0 mail.seoaustralian.com 8426AB62C53
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=seoaustralian.com;
+	s=default; t=1612790399;
+	bh=kQP/OI0m6IwRozAeZ1HzUcmoKynq3YLLXJrkMuf6H2c=;
+	h=Date:From:To:Subject:From;
+	b=RUIgwH80wpo5cMRcHOSgK8PzwT53GQkOdAwYC+L6yFKP2Xo/YNNHu12qY/6vaY566
+	 h/PaIOZ+l+lYybvrRyydfy0ucFzDkSzGXEuy5Rb7f7UGrT/epRBzFuCzGW80VfJnRp
+	 M509iTmDLaHgpgb0WmxcAD/S2NUQR9XlgkhFaiRE=
+Received: by mail.seoaustralian.com for <info@hlalanathi.com>; Mon,  8 Feb 2021 13:14:56 GMT
+Message-ID: <20210208165403-1.1.e.lscx.0.2jkp38bhid@openemm.net>
+Date: Mon,  8 Feb 2021 13:14:56 GMT
+From: "Marques Domingos" <marques@seoaustralian.com>
+To: <info@hlalanathi.com>
+X-Mailer: OpenEMM V2015_R3
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="-==AGNITASOUTER164240059B2900000E=="
+X-Spam-Status: Yes, score=2.5
+X-Spam-Score: 25
+X-Spam-Bar: ++
+X-Spam-Report: Spam detection software, running on the system "connect.connectedi.co.za",
+ has identified this incoming email as possible spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ Content preview:  Hi,​ ​ We would like to share our observations related
+    to your operational website. Though, your website is great and has all the
+    information that prospective customers of your niche will search f [...] 
+ Content analysis details:   (2.5 points, 2.5 required)
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+  0.0 URIBL_BLOCKED          ADMINISTRATOR NOTICE: The query to URIBL was
+                             blocked.  See
+                             http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+                              for more information.
+                             [URIs: seoaustralian.com]
+ -0.0 SPF_HELO_PASS          SPF: HELO matches SPF record
+  0.0 T_SPF_PERMERROR        SPF: test of record failed (permerror)
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+  0.7 HTML_IMAGE_ONLY_20     BODY: HTML: images with 1600-2000 bytes of
+                             words
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily
+                             valid
+ -0.1 DKIM_VALID_EF          Message has a valid DKIM or DK signature from
+                             envelope-from domain
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+ -0.1 DKIM_VALID_AU          Message has a valid DKIM or DK signature from
+                             author's domain
+  2.0 RDNS_NONE              Delivered to internal network by a host with no rDNS
+  0.0 T_REMOTE_IMAGE         Message contains an external image
+X-Spam-Flag: YES
+Subject:  ***SPAM***  Website Promotion - Free Trial
+
+This is a multi-part message in MIME format.
+
+---==AGNITASOUTER164240059B2900000E==
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hi,=E2=80=8B
+ =E2=80=8B
+We would like to share our observations related to your operational
+website. Though, your website is
+great and has all the information that prospective customers of your
+niche will search for. However, it has
+a lot of scope for getting optimized in line with Search Engine
+Guidelines so as to come on the first page
+in search results.  =E2=80=8B
+ =E2=80=8B
+We have conducted a meticulous SEO audit of your website and found that
+it can give you more return
+than it might be giving you at present.=E2=80=8B
+ =E2=80=8B
+We would be happy to share our detailed SEO audit report so that you
+can have a clear picture of what
+can be done to make your website more search engine friendly and
+optimized.  =E2=80=8B
+ =E2=80=8B
+Once you complete the analysis of the report, you can discuss how we
+can help you in driving substantial
+traffic to your website by making it Search Engine Optimized.=E2=80=8B
+ =E2=80=8B
+Respond to this mail with contact details (Phone, Skype) so that we can
+discuss the possibilities for your
+website and share the testimonials of our esteemed clients.
+=E2=80=8B
+ A NEW 15 day=E2=80=99s trial offer on any of your project!=E2=80=8B
+Let me know if you are interested, I will send you our SEO Packages and
+price list, Methodologies,
+past work details and client Testimonials.=E2=80=8B
+ =E2=80=8B
+Looking forward to hearing from you.=E2=80=8B
+ =E2=80=8B
+Thanks,=E2=80=8B
+Marques
+---==AGNITASOUTER164240059B2900000E==
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<img src=3D"http://localhost:8080/g.html?uid=3D1.e.lscx.0.j97n4xowij" alt=
+=3D"" border=3D"0" height=3D"1" width=3D"1"/><div>
+	Hi,=E2=80=8B</div>
+<div>
+	&nbsp;=E2=80=8B</div>
+<div>
+	We would like to share our observations related to your operational webs=
+ite. Though, your website is&nbsp;</div>
+<div>
+	great and has all the information that prospective customers of your nic=
+he will search for. However, it has&nbsp;</div>
+<div>
+	a lot of scope for getting optimized in line with Search Engine Guidelin=
+es so as to come on the first page&nbsp;</div>
+<div>
+	in search results. &nbsp;=E2=80=8B</div>
+<div>
+	&nbsp;=E2=80=8B</div>
+<div>
+	We have conducted a meticulous SEO audit of your website and found that =
+it can give you more return&nbsp;</div>
+<div>
+	than it might be giving you at present.=E2=80=8B</div>
+<div>
+	&nbsp;=E2=80=8B</div>
+<div>
+	We would be happy to share our detailed SEO audit report so that you can=
+ have a clear picture of what&nbsp;</div>
+<div>
+	can be done to make your website more search engine friendly and optimiz=
+ed. &nbsp;=E2=80=8B</div>
+<div>
+	&nbsp;=E2=80=8B</div>
+<div>
+	Once you complete the analysis of the report, you can discuss how we can=
+ help you in driving substantial&nbsp;</div>
+<div>
+	traffic to your website by making it Search Engine Optimized.=E2=80=8B</=
+div>
+<div>
+	&nbsp;=E2=80=8B</div>
+<div>
+	Respond to this mail with contact details (Phone, Skype) so that we can =
+discuss the possibilities for your&nbsp;</div>
+<div>
+	website and share the testimonials of our esteemed clients.&nbsp;</div>
+<div>
+	=E2=80=8B</div>
+<div>
+	&nbsp;A NEW 15 day&rsquo;s trial offer on any of your project!=E2=80=8B<=
+/div>
+<div>
+	Let me know if you are interested, I will send you our SEO Packages and =
+price list, Methodologies,&nbsp;</div>
+<div>
+	past work details and client Testimonials.=E2=80=8B</div>
+<div>
+	&nbsp;=E2=80=8B</div>
+<div>
+	Looking forward to hearing from you.=E2=80=8B</div>
+<div>
+	&nbsp;=E2=80=8B</div>
+<div>
+	Thanks,=E2=80=8B</div>
+<div>
+	Marques</div>
+---==AGNITASOUTER164240059B2900000E==--
+

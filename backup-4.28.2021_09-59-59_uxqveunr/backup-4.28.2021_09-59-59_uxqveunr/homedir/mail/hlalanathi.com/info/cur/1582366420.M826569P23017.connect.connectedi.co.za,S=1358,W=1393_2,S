@@ -1,0 +1,35 @@
+Return-Path: <uxqveunr@connect.connectedi.co.za>
+Delivered-To: info@hlalanathi.com
+Received: from connect.connectedi.co.za
+	by connect.connectedi.co.za with LMTP
+	id qOAnMdT+UF7pWQAA03Y0oA
+	(envelope-from <uxqveunr@connect.connectedi.co.za>)
+	for <info@hlalanathi.com>; Sat, 22 Feb 2020 12:13:40 +0200
+Return-path: <uxqveunr@connect.connectedi.co.za>
+Envelope-to: info@hlalanathi.com
+Delivery-date: Sat, 22 Feb 2020 12:13:40 +0200
+Received: from uxqveunr by connect.connectedi.co.za with local (Exim 4.92)
+	(envelope-from <uxqveunr@connect.connectedi.co.za>)
+	id 1j5Rn2-0006VZ-MU
+	for info@hlalanathi.com; Sat, 22 Feb 2020 12:13:40 +0200
+To: info@hlalanathi.com
+Subject: Hlalanathi Housing Association "Test, just a test"
+X-PHP-Script: www.hlalanathi.com/index.php for 176.57.69.61
+X-PHP-Originating-Script: 1145:class-phpmailer.php
+Date: Sat, 22 Feb 2020 10:13:40 +0000
+From: JamesLup <wordpress@hlalanathi.com>
+Reply-To: mamedoviuracysq@mail.ru
+Message-ID: <ae3cebdfaf42b80a9aea0f49314454bf@www.hlalanathi.com>
+X-Mailer: PHPMailer 5.2.27 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+
+From: JamesLup <mamedoviuracysq@mail.ru>
+Subject: Test, just a test
+
+Message Body:
+http://hydra-smoke.com/
+
+-- 
+This e-mail was sent from a contact form on Hlalanathi Housing  Association  (http://www.hlalanathi.com)
+

@@ -1,0 +1,79 @@
+Return-Path: <lkceowy@cuisir.com>
+Delivered-To: info+spam@hlalanathi.com
+Received: from connect.connectedi.co.za
+	by connect.connectedi.co.za with LMTP
+	id zvsOKYqK9l9yZwAA03Y0oA
+	(envelope-from <lkceowy@cuisir.com>)
+	for <info+spam@hlalanathi.com>; Thu, 07 Jan 2021 06:14:02 +0200
+Return-path: <lkceowy@cuisir.com>
+Envelope-to: info@hlalanathi.com
+Delivery-date: Thu, 07 Jan 2021 06:14:02 +0200
+Received: from [110.185.10.77] (port=45634 helo=mail.cuisir.com)
+	by connect.connectedi.co.za with esmtps  (TLS1.2) tls TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384
+	(Exim 4.93)
+	(envelope-from <lkceowy@cuisir.com>)
+	id 1kxMgR-00069i-Nm
+	for info@hlalanathi.com; Thu, 07 Jan 2021 06:14:02 +0200
+Received: from mail.cuisir.com (unknown [198.46.189.171])
+	by mail.cuisir.com (Postfix) with ESMTP id 0DFF0190687A;
+	Thu,  7 Jan 2021 10:52:17 +0800 (CST)
+From: "Custom Solar" <lkceowy@cuisir.com>
+To: info@hlalanathi.com
+Content-Type: text/plain
+Reply-To: contactarinfos@gmail.com
+Date: Wed, 6 Jan 2021 18:52:30 -0800
+X-Spam-Status: Yes, score=8.3
+X-Spam-Score: 83
+X-Spam-Bar: ++++++++
+X-Spam-Report: Spam detection software, running on the system "connect.connectedi.co.za",
+ has identified this incoming email as possible spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ Content preview:  If you live in Florida, we have the best Solar Power solution.
+    Custom Solar is a full service solar provider. Solar Power can benefit Florida
+    Homeowners in many ways: 
+ Content analysis details:   (8.3 points, 2.5 required)
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+  2.0 PYZOR_CHECK            Listed in Pyzor
+                             (https://pyzor.readthedocs.io/en/latest/)
+  2.0 RDNS_NONE              Delivered to internal network by a host with no rDNS
+  1.0 KAM_LAZY_DOMAIN_SECURITY Sending domain does not have any
+                             anti-forgery methods
+  0.8 KAM_ASCII_DIVIDERS     Spam that uses ascii formatting tricks
+  0.0 FSL_BULK_SIG           Bulk signature with no Unsubscribe
+  2.5 FREEMAIL_FORGED_REPLYTO Freemail in Reply-To, but not From
+  0.0 T_FILL_THIS_FORM_SHORT Fill in a short form with personal
+                             information
+X-Spam-Flag: YES
+Subject:  ***SPAM***  The Best Solar Power Solution
+
+
+If you live in Florida, we have the best Solar Power solution.
+
+Custom Solar is a full service solar provider.
+
+Solar Power can benefit Florida Homeowners in many ways: 
+
+- Federal Tax Credits. 
+- Money savings over power company rate increases. 
+- Battery storage for power outages. 
+- Independence from power company monopoly. 
+- Harness free energy from our Sun.
+
+To learn more, answer this email with the following data:
+
+-----------------------------------------------
+Name:
+Email:
+Phone:
+WhatsApp:
+-----------------------------------------------
+
+We are waiting for you!
+
+Best regards,
+
+Custom Solar
+

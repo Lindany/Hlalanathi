@@ -1,0 +1,109 @@
+Return-Path: <roselinedeklerk4@gmail.com>
+Delivered-To: info+spam@hlalanathi.com
+Received: from connect.connectedi.co.za
+	by connect.connectedi.co.za with LMTP
+	id QeNAG0xiFF4KTwAA03Y0oA
+	(envelope-from <roselinedeklerk4@gmail.com>)
+	for <info+spam@hlalanathi.com>; Tue, 07 Jan 2020 12:49:48 +0200
+Return-path: <roselinedeklerk4@gmail.com>
+Envelope-to: info@hlalanathi.com
+Delivery-date: Tue, 07 Jan 2020 12:49:48 +0200
+Received: from mail-lj1-f181.google.com ([209.85.208.181]:35305)
+	by connect.connectedi.co.za with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.92)
+	(envelope-from <roselinedeklerk4@gmail.com>)
+	id 1iomQk-0004wp-RT
+	for info@hlalanathi.com; Tue, 07 Jan 2020 12:49:48 +0200
+Received: by mail-lj1-f181.google.com with SMTP id j1so46813449lja.2
+        for <info@hlalanathi.com>; Tue, 07 Jan 2020 02:49:26 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20161025;
+        h=date:subject:message-id:importance:from:to:mime-version;
+        bh=xgqjvoBYaS7kKotvSKHhS/+iEK5cYzfOWkduqkZLe/w=;
+        b=bEueJ58VO5uHlOBoe/Uk3jB9fTZQF8qn2/v3VZ1Vhq7Xm9aYvUr+Gl09H1jxJ8UtE8
+         4LF2DlQl9SXS+IK/qbPpEuMvShRlvuzpglSBp6GoUE0oWnZSsuqvU741j13OSxLSTcDk
+         DxDAWdqnhDkJsoIw3haL0QwomFann1+GOZyVAmp4PYmp23Yg4eJv8Ym9gdcgVPslwTkt
+         Ozq7X7aR9tZrPDgZw+/7bh6HnrGJAbr8rMTSxM/fcL2QUmaZUTNHDeW9gocdgndV/MGy
+         gZDE/BMohJLmZbF3emWXKJRXKoZN/bj1MZrUCYXy9PRAQpfeVGKY1oE2valTABFS2HXW
+         yjJA==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:date:subject:message-id:importance:from:to
+         :mime-version;
+        bh=xgqjvoBYaS7kKotvSKHhS/+iEK5cYzfOWkduqkZLe/w=;
+        b=pIT6zQUuglpkMCLxsK1Of3QUI5fivlwJ+5/TPXO5mFwXrrjgJwenZSfMh8ikhyuawE
+         Qkie2y3h0FNWQJ6Weuq3NiUSfods2S6sBt5oH9g83v/YpixsHIOjK+b3Q82esBxndUMH
+         ny6Spe0pkhOWMKH4Wyqpr4wYNvywDDWpF97DYV4UkGsUzxC4PM8MSLxy3ELT6cGgBSw2
+         kWgMKTpERGAApgJMxD5jFh0N77PyUSjxka2iEO2VoRqiOTvfVBXQTtYCZe0uvQHBWj35
+         YrfOfqHV5uyVqlKYQJ5YXVDp85OvxUy3JFSNZ3n+vnqjoEcpmassHRUHvb+RucG2jqKW
+         iPvQ==
+X-Gm-Message-State: APjAAAV8Hv0eauIX/l/R0QmeME45Q6rh9zzaJFlpVFqEni8vkI2UzYLV
+	Bk7GAlUOaRLD0o3LK+vEqPnfqo9F
+X-Google-Smtp-Source: APXvYqwJlwffSKRQCJ2qIXb8EYGnpmPYtCCvc+B+LDlZW2U8hRnnlfoWH6/bJMdZsribT3Nhq5Dtog==
+X-Received: by 2002:a2e:a168:: with SMTP id u8mr54937443ljl.5.1578394143332;
+        Tue, 07 Jan 2020 02:49:03 -0800 (PST)
+Received: from [100.98.251.1] ([41.13.254.172])
+        by smtp.gmail.com with ESMTPSA id y7sm30419794lfe.7.2020.01.07.02.49.01
+        for <info@hlalanathi.com>
+        (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Tue, 07 Jan 2020 02:49:02 -0800 (PST)
+Date: Tue, 07 Jan 2020 12:47:35 +0200
+Message-ID: <dom89apf8sc6i6il72jv7m59.1578394055292@email.android.com>
+Importance: normal
+From: roselinedeklerk4 <roselinedeklerk4@gmail.com>
+To: info@hlalanathi.com
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="--_com.samsung.android.email_25083391711410"
+X-Spam-Status: Yes, score=3.0
+X-Spam-Score: 30
+X-Spam-Bar: +++
+X-Spam-Report: Spam detection software, running on the system "connect.connectedi.co.za",
+ has identified this incoming email as possible spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ Content preview:  Sent from my Samsung Galaxy smartphone. Sent from my Samsung
+    Galaxy smartphone. 
+ Content analysis details:   (3.0 points, 2.5 required)
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+  0.2 FREEMAIL_ENVFROM_END_DIGIT Envelope-from freemail username ends
+                             in digit
+                             [roselinedeklerk4[at]gmail.com]
+  0.0 FREEMAIL_FROM          Sender email is commonly abused enduser mail
+                             provider
+                             [roselinedeklerk4[at]gmail.com]
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+ -0.1 DKIM_VALID_EF          Message has a valid DKIM or DK signature from
+                             envelope-from domain
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily
+                             valid
+ -0.1 DKIM_VALID_AU          Message has a valid DKIM or DK signature from
+                             author's domain
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+  2.0 PYZOR_CHECK            Listed in Pyzor
+                             (https://pyzor.readthedocs.io/en/latest/)
+  0.9 FSL_BULK_SIG           Bulk signature with no Unsubscribe
+X-Spam-Flag: YES
+Subject:  ***SPAM***  Is there still flat avaiable
+
+----_com.samsung.android.email_25083391711410
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: base64
+
+U2VudCBmcm9tIG15IFNhbXN1bmcgR2FsYXh5IHNtYXJ0cGhvbmUu
+
+----_com.samsung.android.email_25083391711410
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: base64
+
+PGh0bWw+PGhlYWQ+PG1ldGEgaHR0cC1lcXVpdj0iQ29udGVudC1UeXBlIiBjb250ZW50PSJ0ZXh0
+L2h0bWw7IGNoYXJzZXQ9VVRGLTgiPjwvaGVhZD48Ym9keT48ZGl2Pjxicj48L2Rpdj48ZGl2Pjxi
+cj48L2Rpdj48ZGl2Pjxicj48L2Rpdj48ZGl2Pjxicj48L2Rpdj48ZGl2IGlkPSJjb21wb3Nlcl9z
+aWduYXR1cmUiPjxkaXYgc3R5bGU9ImZvbnQtc2l6ZTo4NSU7Y29sb3I6IzU3NTc1NyIgZGlyPSJh
+dXRvIj5TZW50IGZyb20gbXkgU2Ftc3VuZyBHYWxheHkgc21hcnRwaG9uZS48L2Rpdj48L2Rpdj48
+L2JvZHk+PC9odG1sPg==
+
+----_com.samsung.android.email_25083391711410--
+

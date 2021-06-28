@@ -1,0 +1,86 @@
+Return-Path: <ssdutg@insd.bf>
+Delivered-To: info+spam@hlalanathi.com
+Received: from connect.connectedi.co.za
+	by connect.connectedi.co.za with LMTP
+	id osVLJPMVHmAjIAAA03Y0oA
+	(envelope-from <ssdutg@insd.bf>)
+	for <info+spam@hlalanathi.com>; Sat, 06 Feb 2021 06:07:15 +0200
+Return-path: <ssdutg@insd.bf>
+Envelope-to: info@hlalanathi.com
+Delivery-date: Sat, 06 Feb 2021 06:07:15 +0200
+Received: from [41.223.232.115] (port=37870 helo=mail.insd.bf)
+	by connect.connectedi.co.za with esmtps  (TLS1.2) tls TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384
+	(Exim 4.93)
+	(envelope-from <ssdutg@insd.bf>)
+	id 1l8EsI-0003IZ-Ro
+	for info@hlalanathi.com; Sat, 06 Feb 2021 06:07:15 +0200
+Received: from localhost (localhost [127.0.0.1])
+	by mail.insd.bf (Postfix) with ESMTP id 42E6C492F69F;
+	Sat,  6 Feb 2021 02:30:45 +0000 (GMT)
+Received: from mail.insd.bf ([127.0.0.1])
+	by localhost (mail.insd.bf [127.0.0.1]) (amavisd-new, port 10032)
+	with ESMTP id 2ht7Q6TOR-H4; Sat,  6 Feb 2021 02:30:44 +0000 (GMT)
+Received: from localhost (localhost [127.0.0.1])
+	by mail.insd.bf (Postfix) with ESMTP id 83ECB492A8B4;
+	Sat,  6 Feb 2021 02:30:33 +0000 (GMT)
+X-Virus-Scanned: amavisd-new at insd.bf
+Received: from mail.insd.bf ([127.0.0.1])
+	by localhost (mail.insd.bf [127.0.0.1]) (amavisd-new, port 10026)
+	with ESMTP id fdNHEPjtR-zC; Sat,  6 Feb 2021 02:30:33 +0000 (GMT)
+Received: from mail.insd.bf (_gateway [41.223.232.115])
+	by mail.insd.bf (Postfix) with ESMTP id B77D1492EAD8;
+	Sat,  6 Feb 2021 02:30:12 +0000 (GMT)
+From: "Advanced Smart Mask" <ssdutg@insd.bf>
+To: info@hkproduction.com
+Content-Type: text/plain
+Date: Fri, 5 Feb 2021 18:30:17 -0800
+Message-Id: <20210206023012.B77D1492EAD8@mail.insd.bf>
+X-Spam-Status: Yes, score=5.0
+X-Spam-Score: 50
+X-Spam-Bar: +++++
+X-Spam-Report: Spam detection software, running on the system "connect.connectedi.co.za",
+ has identified this incoming email as possible spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ Content preview:  The most technologically Advanced Smart Mask http://bit.ly/2Mj9wzX
+    Ultramasx Technologies is launching on the market the most technologically
+    advanced electrically ventilated The Ultramasx UltraOneTM respirator mask
+    on earth. 
+ Content analysis details:   (5.0 points, 2.5 required)
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+  0.0 URIBL_BLOCKED          ADMINISTRATOR NOTICE: The query to URIBL was
+                             blocked.  See
+                             http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+                              for more information.
+                             [URIs: bit.ly]
+  2.0 PYZOR_CHECK            Listed in Pyzor
+                             (https://pyzor.readthedocs.io/en/latest/)
+  2.0 RDNS_NONE              Delivered to internal network by a host with no rDNS
+  0.0 KAM_SHORT              Use of a URL Shortener for very short URL
+  1.0 KAM_LAZY_DOMAIN_SECURITY Sending domain does not have any
+                             anti-forgery methods
+  0.0 FSL_BULK_SIG           Bulk signature with no Unsubscribe
+X-Spam-Flag: YES
+Subject:  ***SPAM***  Your Ultimate Protection against COVID-19. US FDA Registered
+
+
+The most technologically Advanced Smart Mask
+
+http://bit.ly/2Mj9wzX
+
+Ultramasx Technologies is launching on the market the most technologically advanced electrically ventilated  The Ultramasx UltraOneTM respirator mask on earth.
+
+http://bit.ly/2Mj9wzX
+
+Excellent for everyday use or even for sports activities, especially in warm and humid climates.
+No more vapor fogging your glasses. 
+Re-chargeable via USB and re-usable,the mask lasts years.
+
+OUR MISSION WAS TO DESIGN THE MOST TECHNOLOGICALLY ADVANCED
+VENTILATED MASK ON EARTH. WE SUCCEEDED.
+
+Click below and protect yourself:
+http://bit.ly/2Mj9wzX
+

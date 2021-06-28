@@ -1,0 +1,88 @@
+Return-Path: <ttzbtzmq@onlinedatacab.com>
+Delivered-To: info+spam@hlalanathi.com
+Received: from connect.connectedi.co.za
+	by connect.connectedi.co.za with LMTP
+	id JMjiCYZEDGASSwAA03Y0oA
+	(envelope-from <ttzbtzmq@onlinedatacab.com>)
+	for <info+spam@hlalanathi.com>; Sat, 23 Jan 2021 17:45:10 +0200
+Return-path: <ttzbtzmq@onlinedatacab.com>
+Envelope-to: info@hlalanathi.com
+Delivery-date: Sat, 23 Jan 2021 17:45:10 +0200
+Received: from [120.50.44.6] (port=61054 helo=6.44.50.120.static.idc.qala.com.sg)
+	by connect.connectedi.co.za with esmtp (Exim 4.93)
+	(envelope-from <ttzbtzmq@onlinedatacab.com>)
+	id 1l3L62-0004R1-4f
+	for info@hlalanathi.com; Sat, 23 Jan 2021 17:45:10 +0200
+Received: from mail.onlinedatacab.com (104-168-71-124-host.colocrossing.com [104.168.71.124]) by 6.44.50.120.static.idc.qala.com.sg with SMTP;
+   Fri, 22 Jan 2021 07:16:40 +0800
+From: Compramos seu =?ISO-8859-1?Q?cons=F3rcio?= <ttzbtzmq@onlinedatacab.com>
+To: info@hkqiqiang.com
+Content-Type: text/plain
+Reply-To: contactarinfos@gmail.com
+Date: Thu, 21 Jan 2021 15:16:48 -0800
+X-Spam-Status: Yes, score=17.0
+X-Spam-Score: 170
+X-Spam-Bar: +++++++++++++++++
+X-Spam-Report: Spam detection software, running on the system "connect.connectedi.co.za",
+ has identified this incoming email as possible spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ Content preview:  NÓS COMPRAMOS SEU CONSÓRCIO ! Compramos seu Consórcio sem
+   burocracia da forma que estiver: Contemplado, não contemplado, com atraso,
+    e até cancelado com mais de 30% pago. Compramos consórcio de automóvel, imóvel
+    e caminhão em todo o Brasil. 
+ Content analysis details:   (17.0 points, 2.5 required)
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+  2.9 HELO_DYNAMIC_SPLIT_IP  Relay HELO'd using suspicious hostname
+                             (Split IP)
+  0.6 HK_RANDOM_ENVFROM      Envelope sender username looks random
+  1.0 HK_RANDOM_FROM         From username looks random
+  0.5 FROM_LOCAL_NOVOWEL     From: localpart has series of non-vowel
+                             letters
+  2.7 RCVD_IN_PSBL           RBL: Received via a relay in PSBL
+                             [120.50.44.6 listed in psbl.surriel.com]
+  0.0 PP_MIME_FAKE_ASCII_TEXT BODY: MIME text/plain claims to be ASCII
+                              but isn't
+  2.0 PYZOR_CHECK            Listed in Pyzor
+                             (https://pyzor.readthedocs.io/en/latest/)
+  0.8 KAM_ASCII_DIVIDERS     Spam that uses ascii formatting tricks
+  1.0 CTE_8BIT_MISMATCH      Header says 7bits but body disagrees
+  2.0 RDNS_NONE              Delivered to internal network by a host with no rDNS
+  1.0 KAM_LAZY_DOMAIN_SECURITY Sending domain does not have any
+                             anti-forgery methods
+  2.5 FREEMAIL_FORGED_REPLYTO Freemail in Reply-To, but not From
+  0.0 FSL_BULK_SIG           Bulk signature with no Unsubscribe
+  0.0 T_FILL_THIS_FORM_SHORT Fill in a short form with personal
+                             information
+X-Spam-Flag: YES
+Subject:  ***SPAM***  =?ISO-8859-1?Q?N=D3S?= COMPRAMOS SEU =?ISO-8859-1?Q?CONS=D3RCIO?= !
+     (l.e.a.d)
+
+
+NÓS COMPRAMOS SEU CONSÓRCIO !
+
+Compramos seu Consórcio sem burocracia da forma que estiver:
+Contemplado, não contemplado, com atraso, e até cancelado com mais de 30% pago.
+
+Compramos consórcio de automóvel, imóvel e caminhão em todo o Brasil.
+
+Para mais informações sem compromisso, responda esse email com os dados abaixo:
+
+------------------------------------------------
+Nome:
+Email:
+Telefone:
+WhatsApp:
+
+Valor do crédito:
+Saldo devedor:
+Porcentagem paga(%):
+-------------------------------------------------
+
+Nossa equipe, com anos de experiência, está pronta para ajudar você a ter o melhor ganho.
+
+Esperamos por você!
+
+

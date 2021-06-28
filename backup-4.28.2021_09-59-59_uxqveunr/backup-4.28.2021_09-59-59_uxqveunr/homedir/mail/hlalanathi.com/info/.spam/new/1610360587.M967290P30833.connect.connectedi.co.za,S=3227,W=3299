@@ -1,0 +1,72 @@
+Return-Path: <qzsdh@mail.yjlglobal.com>
+Delivered-To: info+spam@hlalanathi.com
+Received: from connect.connectedi.co.za
+	by connect.connectedi.co.za with LMTP
+	id 8I9BOQsn/F9xeAAA03Y0oA
+	(envelope-from <qzsdh@mail.yjlglobal.com>)
+	for <info+spam@hlalanathi.com>; Mon, 11 Jan 2021 12:23:07 +0200
+Return-path: <qzsdh@mail.yjlglobal.com>
+Envelope-to: info@hlalanathi.com
+Delivery-date: Mon, 11 Jan 2021 12:23:07 +0200
+Received: from [183.251.50.162] (port=53930 helo=mail.yjlglobal.com)
+	by connect.connectedi.co.za with esmtp (Exim 4.93)
+	(envelope-from <qzsdh@mail.yjlglobal.com>)
+	id 1kyuLp-0004JC-97
+	for info@hlalanathi.com; Mon, 11 Jan 2021 12:23:07 +0200
+Received: from mail.yjlglobal.com ([198.46.189.171]) by mail.yjlglobal.com with Microsoft SMTPSVC(10.0.14393.0);
+	 Mon, 11 Jan 2021 16:15:34 +0800
+From: "Steve" <qzsdh@yjlglobal.com>
+To: info@hk-water.com
+Content-Type: text/plain
+Date: Mon, 11 Jan 2021 00:15:34 -0800
+Message-ID: <WIN-JGQN57PVAN6JFcU000b1577@mail.yjlglobal.com>
+X-OriginalArrivalTime: 11 Jan 2021 08:15:34.0912 (UTC) FILETIME=[EFBA8000:01D6E7F1]
+X-Spam-Status: Yes, score=8.8
+X-Spam-Score: 88
+X-Spam-Bar: ++++++++
+X-Spam-Report: Spam detection software, running on the system "connect.connectedi.co.za",
+ has identified this incoming email as possible spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ Content preview:  Hi Discover My Shortcut To Turning $25 Into $1000 Over and
+    Over Again! ( Yes it's for real, Pay Very Close Attention to the short video
+    I made for you ) 
+ Content analysis details:   (8.8 points, 2.5 required)
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+  1.3 RCVD_IN_RP_RNBL        RBL: Relay in RNBL,
+                             https://senderscore.org/blacklistlookup/
+                            [183.251.50.162 listed in bl.score.senderscore.com]
+  0.0 URIBL_BLOCKED          ADMINISTRATOR NOTICE: The query to URIBL was
+                             blocked.  See
+                             http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+                              for more information.
+                             [URIs: clkmg.com]
+  2.0 PYZOR_CHECK            Listed in Pyzor
+                             (https://pyzor.readthedocs.io/en/latest/)
+  1.0 KAM_LAZY_DOMAIN_SECURITY Sending domain does not have any
+                             anti-forgery methods
+  2.0 RDNS_NONE              Delivered to internal network by a host with no rDNS
+  0.0 FSL_BULK_SIG           Bulk signature with no Unsubscribe
+  2.5 KAM_LINKBAIT           Short messages containing little more than a link,
+                             from a domain with no security in place
+X-Spam-Flag: YES
+Subject:  ***SPAM***  Discover My Shortcut To Turning $25 Into $1000 Over and Over Again!
+
+
+Hi 
+ 
+Discover My Shortcut To Turning $25 Into $1000
+Over and Over Again!
+ 
+( Yes it's for real, Pay Very Close Attention to the short video I made for you )
+ 
+PLUS I'M GIVING YOU THE SAME WEBSITE FREE!!!
+ 
+Click Here To Learn More:
+https://www.clkmg.com/sale/mil2
+ 
+Thank You
+Steve
+
