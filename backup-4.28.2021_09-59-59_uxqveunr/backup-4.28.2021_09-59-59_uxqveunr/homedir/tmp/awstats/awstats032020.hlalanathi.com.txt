@@ -1,0 +1,1729 @@
+AWSTATS DATA FILE 7.7 (build 20180105)
+# If you remove this file, all statistics for date 202003 will be lost/reset.
+# Last config file used to build this data file was /home/uxqveunr/tmp/awstats/awstats.hlalanathi.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2011                
+POS_TIME 2690                
+POS_VISITOR 31508               
+POS_DAY 58317               
+POS_DOMAIN 3618                
+POS_LOGIN 4577                
+POS_ROBOT 4759                
+POS_WORMS 5621                
+POS_EMAILSENDER 5752                
+POS_EMAILRECEIVER 5895                
+POS_SESSION 59207               
+POS_SIDER 59420               
+POS_FILETYPES 6030                
+POS_DOWNLOADS 6360                
+POS_OS 6502                
+POS_BROWSER 6860                
+POS_SCREENSIZE 9521                
+POS_UNKNOWNREFERER 9595                
+POS_UNKNOWNREFERERBROWSER 10398               
+POS_ORIGIN 11002               
+POS_SEREFERRALS 11142               
+POS_PAGEREFS 11305               
+POS_SEARCHWORDS 11547               
+POS_KEYWORDS 11699               
+POS_MISC 2354                
+POS_ERRORS 11758               
+POS_CLUSTER 4433                
+POS_SIDER_404 11943               
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20200401010133 91 18746 15851322562483
+FirstTime 20200301003302
+LastTime 20200331233658
+LastUpdate 20200401143231 91 0 90 0 0
+TotalVisits 1170                
+TotalUnique 640                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 701                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+RealPlayerSupport 0 0 0
+JavaEnabled 0 0 0
+QuickTimeSupport 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 0 0
+TotalMisc 0 0 0
+JavascriptDisabled 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 108 131 4438050 98 123 593977
+1 106 111 2591344 81 93 948692
+2 100 128 11819257 105 123 452537
+3 118 148 3707076 99 116 369054
+4 125 149 8413041 144 183 940904
+5 100 100 1998677 141 165 614935
+6 150 173 4381946 125 174 1401583
+7 102 104 2018934 149 181 950637
+8 96 105 2058169 122 129 644446
+9 46 49 1107905 38 66 1507745
+10 117 179 13519349 83 91 378716
+11 174 208 4314436 140 167 937502
+12 109 180 8974057 112 121 1196900
+13 140 225 14163141 109 120 1523829
+14 103 140 14023420 81 98 413789
+15 137 181 5152290 112 148 846373
+16 115 164 3492093 93 110 469941
+17 108 134 2504541 91 110 1229742
+18 124 173 6253851 159 221 1308762
+19 117 153 3690387 102 117 527319
+20 103 124 2993341 112 146 1196269
+21 99 114 2467491 103 139 924327
+22 128 136 2600679 177 212 2171376
+23 103 123 5671204 89 109 793254
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 50
+za 1477 1619 12694779
+us 308 621 37258350
+ru 300 328 26492504
+ua 114 114 5503392
+gb 90 182 24246959
+fr 82 82 3776534
+ca 58 88 3320507
+de 38 46 4630161
+in 37 53 3111935
+cn 25 26 732257
+ro 18 18 766392
+it 18 36 1223754
+bg 16 17 926694
+se 16 16 412779
+si 12 12 692148
+nl 12 12 634872
+tw 11 11 317194
+id 11 60 1530296
+at 10 10 576790
+md 7 7 403753
+lr 4 4 230716
+tr 4 4 185392
+no 4 4 173440
+au 4 4 127712
+br 4 4 230716
+ng 0 1 36844
+pt 1 1 57679
+dk 3 3 173037
+es 1 1 57679
+kz 1 1 57679
+bd 3 3 173037
+lt 3 3 173037
+vn 1 1 46027
+gr 2 2 1604
+il 3 3 119573
+eg 1 1 12354
+zz 3 3 127712
+nz 1 1 57679
+by 3 3 173037
+cz 2 2 58515
+jp 3 3 70033
+sc 2 2 24706
+lu 1 1 57679
+sa 2 2 24709
+my 1 1 25952
+sk 1 1 57679
+ie 2 6 160775
+ee 1 1 57679
+eu 4 5 222236
+ch 3 3 127712
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 1
+admin 4 4 0 20200315071503
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 18
+Googlebot/ 80 884304 20200329020844 0
+bot[\s_+:,\.\;\/\\-] 66 1296015 20200330055313 0
+AhrefsBot/ 26 303983 20200331083347 0
+(firefox/)([0-9]\.|[0-1][0]\.) 22 92411 20200330065923 0
+spider 21 260812 20200312152145 0
+no_user_agent 17 877538 20200331165750 0
+DuckDuckGo\-Favicons\-Bot/ 16 129470 20200331212653 0
+bingbot/ 13 4586134 20200330090415 0
+aiHitBot/ 13 157014 20200304042222 0
+msnbot/ 12 144688 20200311200743 0
+YandexBot/ 10 123535 20200330182036 0
+DotBot/ 5 2195723 20200331231908 0
+facebookexternalhit/ 5 97893 20200331224035 0
+MJ12bot/ 4 42726 20200331034600 0
+bingpreview 4 55936 20200311210845 0
+Python\-urllib/ 3 4158 20200326071159 0
+Googlebot\-Image/ 2 0 20200323222835 0
+MegaIndex\.ru/ 1 12354 20200321193657 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 14
+png 100 3502269 0 0
+xml 62 58950 0 0
+woff2 31 576948 0 0
+gif 13 11011 0 0
+pdf 12 978516 0 0
+php 1566 926319 0 0
+css 124 3337386 0 0
+jpg 83 49654672 0 0
+js 261 5769204 0 0
+html 1058 49566491 0 0
+woff 7 163400 0 0
+cgi 4 20267 0 0
+txt 1 7292 0 0
+jpeg 110 17781954 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 2
+/wp-content/uploads/Rental-Application-Form-Ocean-View.pdf 13 0 1060059
+/license.txt 1 0 7292
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 22
+linuxandroid 84 8
+linux 436 102
+macosx11 4 4
+macosx9 1 1
+win2003 6 2
+win8 10 10
+j2me 30 8
+winlong 6 6
+win2000 1 1
+win8.1 172 116
+ios_ipad 1 1
+winvista 1 1
+win10 605 512
+Unknown 1519 1496
+macosx6 2 2
+macosx8 1 1
+win7 427 363
+macosx10 12 12
+macosx12 3 3
+winxp 65 60
+ios_iphone 4 1
+macosx 42 18
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 125
+chrome75.0.3770.80 1 1
+chrome68.0.3440.106 97 75
+chrome79.0 23 23
+firefox66.0 2 2
+opera55.0.2994.44 22 22
+firefox36.0 6 6
+firefox11.0 5 0
+chrome75.0.3770.100 15 15
+firefox56.0 3 3
+chrome60.0.3112.107 1 1
+chrome71.0.3578.98 1 1
+chrome78.0.3904.70 1 1
+opera53.0.2907.68 29 29
+chrome72.0.3626.109 12 4
+chrome34.0.1847.131 1 1
+msie7.0 8 4
+opera46.0.2254.145391 52 5
+firefox68.0 2 2
+firefox38.0 1 1
+safari13.0.5 3 0
+opera54.0.2952.51 24 24
+firefox58.0 3 3
+chrome80.0.3987.106 1 1
+firefox71.0 4 4
+chrome68.0.3440.84 47 47
+firefox64.0 59 59
+chrome77.0.3827.0 22 4
+opera12.16 30 8
+chrome65.0.3325.146 11 11
+chrome49.0.2623.75 2 1
+chrome37.0.2049.0 1 1
+firefox54.0 1 1
+firefox46.0 1 1
+firefox63.0 1 1
+chrome72.0.3626.121 2 1
+chrome49.0.2623.112 13 13
+msie8.0 3 3
+Unknown 1492 1488
+safari13.0.1 2 0
+firefox24.0 1 1
+chrome73.0.3683.103 1 1
+chrome69.0.3497.81 1 1
+chrome80.0.3987.122 2 1
+opera62.0.3331.99 8 8
+chrome67.0.3396.99 69 69
+chrome41.0.2228.0 2 2
+firefox28.0 37 37
+safari9.1.2 2 2
+nokia 1 0
+chrome67.0.3396.87 59 59
+chrome78.0.3904.108 14 13
+opera49.0.2361.133821 1 0
+firefox48.0 3 3
+chrome41.0.2225.0 2 2
+safari12.0 1 1
+firefox50.0 6 6
+chrome65.0.3325.181 115 22
+chrome79.0.3945.59 25 25
+chrome75.0.3770.143 1 0
+firefox47.0 2 2
+opera8.50 4 4
+chrome79.0.3945.88 3 3
+chrome41.0.2272.89 1 1
+chrome80.0.3987.149 53 10
+opera54.0.2952.71 24 24
+safari11.1.2 1 1
+safari11.0.3 1 1
+opera47.0.2254.146760 1 0
+firefox70.0 1 1
+chrome38.0.1025.166 22 0
+chrome34.0.1847.132 1 1
+chrome74.0.3729.131 2 2
+chrome34.0.1847.116 1 1
+chrome67.0.3396.10 1 1
+chrome62.0.3202.94 10 10
+firefox62.0 6 5
+opera12.15 1 1
+firefox55.0 2 2
+firefox40.1 1 1
+safari9.0 2 2
+opera54.0.2952.54 25 25
+chrome69.0.3497.100 1 1
+chrome79.0.3945.130 22 4
+chrome67.0.3396.79 29 29
+edge16 10 10
+mozilla 31 12
+firefox73.0 28 6
+chrome26.0.1410.65 1 1
+chrome67.0.3396.103 1 1
+chrome58.0.3029.110 2 2
+chrome62.0.3202.75 1 1
+chrome80.0.3904.108 4 4
+chrome39.0.2171.95 3 3
+chrome74.0.3729.169 36 4
+chrome68.0.3440.75 10 10
+chrome78.0.3904.97 11 11
+android 2 1
+chrome58.0.1145.75 3 3
+opera53.0.2907.99 41 41
+safari7.0.4 1 1
+firefox59.0 2 2
+opera54.0.2952.64 34 34
+msie6.0 35 35
+opera28.0.2254.119213 1 0
+chrome36.0.1985.143 48 14
+chrome67.0.3396.62 14 14
+opera36.0.2130.32 8 8
+chrome66.0.3359.170 204 24
+chrome45.0.2454.94 1 1
+chrome59.0.3071.115 9 1
+chrome66.0.3359.181 113 113
+edge18 1 0
+chrome45.0.2454.101 4 4
+chrome46.0.2490.80 1 1
+firefox45.0 2 2
+chrome76.0.3809.132 19 19
+opera53.0.2907.106 17 17
+edge15 54 10
+msie11.0 20 3
+chrome32.0.1700.102 2 2
+chrome63.0.3239.132 32 32
+edge17 20 20
+chrome80.0.3987.132 30 6
+chrome76.0.3809.100 1 1
+chrome56.0.2896.3 3 2
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 15
+Mozilla/5.0_(compatible;_Dataprovider.com) 20200329153212
+cortex/1.0 20200331224110
+python-requests/2.22.0 20200327213343
+python-requests/2.18.3 20200331170436
+python-requests/2.23.0 20200326011009
+CATExplorador/1.0beta_(sistemes_at_domini_dot_cat;_http://domini.cat/catexplorador.html) 20200318154944
+WhatsApp/2.20.22_i 20200302093525
+adreview/1.0 20200331224108
+WhatsApp/2.19.360_A 20200326124140
+Go-http-client/1.1 20200329021631
+WordPress/5.3.2;_https://www.hlalanathi.com 20200331233658
+Scrapy/1.4.0_(_http://scrapy.org) 20200318220425
+python-requests/2.18.4 20200330055843
+Mozilla/5.0_(compatible;_ips-agent) 20200317062320
+Mozilla/5.0_(compatible;_NetcraftSurveyAgent/1.0;__info@netcraft.com) 20200302134128
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 12
+python-requests/2.18.3 20200331170436
+python-requests/2.22.0 20200327213343
+cortex/1.0 20200331224110
+python-requests/2.18.4 20200330055843
+Go-http-client/1.1 20200329021631
+Scrapy/1.4.0_(_http://scrapy.org) 20200318220425
+WordPress/5.3.2;_https://www.hlalanathi.com 20200331233658
+WhatsApp/2.19.360_A 20200326124140
+adreview/1.0 20200331224108
+WhatsApp/2.20.22_i 20200302093525
+CATExplorador/1.0beta_(sistemes_at_domini_dot_cat;_http://domini.cat/catexplorador.html) 20200318154944
+python-requests/2.23.0 20200326011009
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 497 669
+From1 3 3
+From2 2 4
+From3 6 6
+From4 2220 2750
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+www_google_com 2 4
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 3
+http://%20www.hlalanathi.com 3 3
+http://anti-crisis-seo.com 2 2
+http://every-lang-seo.com 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 8
+500 11 10200
+403 129 1236414
+404 1475 3435716
+405 4 228
+302 107 8853
+400 15 315
+503 338 6384779
+301 852 1410
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 472
+/wp-info.php 1 -
+/site/.env 1 -
+/wp-content/plugins/history-collection/download.php 1 -
+/wp-content/plugins/attachment-manager/readme.txt 2 -
+/dev/license.txt 1 -
+/wp-content/plugins/plugins/404.php 1 -
+/wp-content/plugins/squace-mobile-publishing-plugin-for-wordpress/uploadify.php 1 -
+//wp-content/plugins/themegrill-demo-importer/readme.txt 2 -
+/wp-config.phpoldd 1 -
+/wp-content/plugins/e-preview.php 1 http://www.facebook.net/
+//wp-config.php_bak 1 -
+/configuration.bak 4 -
+/wp-content/plugins/formcraft/file-upload/server/php/files/199877.php 1 -
+/main/ 3 -
+/wallet.dat 2 -
+/Old/ 1 -
+//fckeditor/editor/filemanager/connectors/php/upload.php 3 -
+/oldwp/ 1 -
+//wp-content/plugins/mm-plugin/inc/vendors/vendor/phpunit/phpunit/build.xml 3 -
+/configuration.php_new 4 -
+/wp-json/wp/v2/users 9 -
+/idnex.php 1 hlalanathi.com
+/wp-content/themes/u-design/scripts/admin/uploadify/uploadify.php 1 -
+/profile/register/ 3 -
+/.wp-config.php.swo 1 -
+//phpMyAdmin 1 -
+//wp-content/uploads/2020/02/settings_auto.php 2 -
+/wp-json/wp/v2/posts/None 3 -
+/admin/.env 1 -
+/wp-interst.php 1 http://www.facebook.net/
+/wp-content/plugins/barclaycart/uploadify/settings_auto.php 3 -
+/wp-content/plugins/formcraft/file-upload/server/php/ 1 -
+/misc/geq.php 1 -
+/configuration.php.new 4 -
+/contact-us/ 1 -
+/wp-content/themes/theagency/includes/uploadify/uploadify.php 1 -
+/wp-content/plugins/simple-fields/js/chosen/chosen.css 1 -
+/wp-content/plugins/ft-quicklogin/uploadify/uploadify.php 1 -
+/application/.env 1 -
+/demo/ 2 -
+//wp-content/plugins/dzs-videogallery/class_parts/vendor/phpunit/phpunit/build.xml 3 -
+/wp-content/plugins/wp-symposium/server/php/unRlSbeAsNGnQO.php 1 -
+/app/.env 1 -
+//.env 3 -
+/wp-content/plugins/mac-photo-gallery/macdownload.php 1 -
+/project/.env 1 -
+/new/license.txt 1 -
+/wp-includes/modules.php 1 -
+/contact/ 1 -
+/bd.sql 1 -
+/tmp/license.txt 1 -
+/wp-content/plugins/image-export/download.php 1 -
+/wp-content/uploads/upload_index.php 3 -
+/shop/ 1 -
+/wp-content/plugins/cherry-plugin/admin/import-export/settings_auto.php 2 -
+/test.php 1 -
+/home/ 2 -
+/wp-content/plugins/candidate-application-form/downloadpdffile.php 2 -
+/wp-content/themes/linenity/functions/download.php 1 -
+/wp-config.php_OLD_BK 1 -
+/wp-content/wp-moud.php 1 -
+/wp-content/plugins/uploader/uploadify/uploadify.php 1 -
+//wp-json/wp/v2/users/1 3 -
+/wp-content/plugins/pods/js/uploadify.php 1 -
+/wp-content/plugins/themegrill-demo-importer/readme.txt 1 -
+/.env 7 -
+/wp-content/themes/zcool-like/uploadify.php 1 -
+/wp3/ 1 -
+/wp-content/plugins/wp-crm/third-party/uploadify/uploadify.php 1 -
+/jm-ajax/upload_file/ 3 -
+/wp-content/plugins/brizy/public/static/css/style.css 1 hlalanathi.com
+/wp-content/plugins/cherry-plugin/admin/css/cherry-admin-plugin.css 2 -
+//wp-config.php.old 1 -
+//wp-content/plugins/formcraft/file-upload/server/content/upload.php 6 -
+/test/web.config.txt 1 -
+/wp-content/themes/lote27/download.php 1 -
+/wp-content/plugins/wp-front-end-repository/js/uploadify/uploadify.php 1 -
+/wp-json/wp/v2/users/ 33 -
+//wp-config.php.bak 1 -
+/wp-content/plugins/cloudflare/vendor/phpunit/phpunit/build.xml 2 -
+/private/.env 1 -
+/wp-content/themes/parallelus-salutation/framework/utilities/download/getfile.php 1 -
+/wp-content/plugins/4nton-extensions/readme.txt 2 -
+/wp-content/themes/aim-theme/lib/js/old/uploadify.php 1 -
+/wp-content/plugins/wp-mobile-detector/resize.php 3 -
+/wp-content/plugins/eshop-magic/download.php 4 -
+/wp-config%20fix 1 -
+//wp-content/plugins/contabileads/integracoes/mautic/api-library/vendor/phpunit/phpunit/build.xml 3 -
+/wp-content/themes/felici/sprites/js/uploadify/uploadify.php 1 -
+/wp-content/themes/epic/includes/download.php 1 -
+/wp-content/themes/MichaelCanthony/download.php 1 -
+/framework/.env 1 -
+//jm-ajax/upload_file/ 3 -
+/wp-content/plugins/smart-google-code-inserter/screenshot1.jpg 1 -
+/wp-content/uploads/file-manager/log.txt 1 -
+//wp-content/plugins/viral-optins/api/uploader/file-uploader.php 3 -
+/local/.env 1 -
+/website/ 1 -
+/wp-content/plugins/dzs-videogallery/ajax.php 2 -
+/wp-content/plugins/mail-masta/readme.txt 1 -
+/wp-content/themes/mTheme-Unus/css/css.php 2 -
+/wp-content/plugins/popup-builder/public/js/Popup.js 2 -
+/wordpress/license.txt 1 -
+/config4 1 -
+/wp-content/plugins/profile-builder/readme.txt 1 -
+/WP/ 1 -
+//wp-json/wp/v2/posts/ 3 -
+/ 112 -
+//wp-admin/vuln.php 3 -
+/wp-content/plugins/wpmarketplace/uploadify/uploadify.php 1 -
+/news/ 1 -
+/wordpress/ 5 -
+/wp-content/plugins/barclaycart/uploadify/uploadify.php 4 -
+/backup.sql 1 -
+//wp-content/plugins/drag-and-drop-multiple-file-upload-contact-form-7/readme.txt 1 -
+/email.sql 1 -
+//wp-content/plugins/prh-api/vendor/phpunit/phpunit/build.xml 3 -
+/wp-content/plugins/blockspluginn/blockspluginn.php 1 http://hlalanathi.com/wp-content/plugins/blockspluginn/blockspluginn.php
+/wp-content/plugins/wp-live-chat-software-for-wordpress/plugin_files/js/livechat.js 1 -
+/wp-content/plugins/bp-cover/css/readme.txt 2 -
+/beta/ 1 -
+/development/.env 1 -
+/wp-content/plugins/bulletproof-security/admin/uploadify/uploadify.php 1 -
+/wp-content/plugins/formcraft/file-upload/server/php/upload.php 2 -
+//wp-config.php_old 1 -
+/backup/wallet.dat 2 -
+/wp-content/plugins/flexible-checkout-fields/assets/js/admin.js 2 -
+//vendor/phpunit/phpunit/build.xml 3 -
+/vod_installer/.env 1 -
+/wp-content/plugins/wp-symposium/uploadify/uploadify.php 1 -
+/wp-config.d 1 -
+/wp-content/themes/u/design/scripts/admin/uploadify/uploadify.php 1 -
+//wp-content/plugins/woocommerce-software-license-manager/vendor/phpunit/phpunit/build.xml 3 -
+/cms/license.txt 1 -
+//wp-config.php-bak 1 -
+/wp-content/plugins/formcraft/file-upload/server/content/upload.php 6 -
+/temp/ 1 -
+/cp/.env 1 -
+/config3 1 -
+/sftp-config.json 1 -
+/wp-config.php* 1 -
+/vendor/phpunit/phpunit/build.xml 5 -
+/wp-content/plugins/trx_addons/css/font-icons/css/trx_addons_icons-embedded.css 7 -
+/wp-content/themes/enfold-child/update_script/vendor/phpunit/phpunit/build.xml 2 -
+/xx.php 1 -
+/configuration.php_Old 4 -
+/en/ 1 -
+//vendor/phpunit/phpunit/phpunit.xsd 1 -
+/wp-content/themes/TheLoft/download.php 1 -
+/Mkms.php 1 -
+/wp-content/plugins/xlen/wsp.php 1 -
+/.ftpconfig 1 -
+/configs 1 -
+/graphql 2 -
+/robots.txt 300 -
+//wp-content/plugins/wp-support-plus-responsive-ticket-system/includes/admin/downloadAttachment.php 3 -
+/xmlrpcs.php 2 hlalanathi.com
+/deployment/.env 1 -
+/wp/wp-admin/install.php 1 -
+/portal/ 2 -
+/wp-content/plugins/downloads-manager/img/unlock.gif 3 -
+/wp-content/themes/AdvanceImage5/functions.php 1 https://google.com
+/config1 1 -
+//wp-content/plugins/wp-file-upload/readme.txt 1 -
+/wp-config.php- 1 -
+/wp-content/plugins/pricing-table-by-supsystic/modules/tables/css/frontend.tables.css 4 -
+/wp-content/themes/churchope/lib/downloadlink.php 1 -
+/public/.env 1 -
+//_input_3_vuln.htm 3 -
+/adminer.php 2 -
+/old/license.txt 1 -
+/dependencies/.env 1 -
+/wp-config.php.old 1 -
+/wp-content/themes/NativeChurch/download/download.php 1 -
+/wp-content/plugins/viral-optins/api/uploader/file-uploader.php 3 -
+/wallet/wallet.dat 2 -
+/wp-admin/wp-login.php 7 \"><script%20type=text/javascript%20src='https://clon.collectfasttracks.com/hos
+/installer-backup.php 2 -
+/config/.env 1 -
+/dev/.env 1 -
+/wp-content/plugins/wp-levoslideshow/readme.txt 2 -
+/searchreplacedb2.php 1 -
+/mysql.sql 1 -
+/installer.php 2 -
+//wp-content/plugins/category-page-icons/css/menu.css 3 -
+/wp-content/plugins/dzs-zoomsounds/ajax.php 2 -
+/v1/ 1 -
+/wp-content/plugins/fb-messenger-live-chat/assets/js/main.js 1 -
+/wp-register.php 1 -
+/captcha.php 1 -
+/wp-content/plugins/wp-dreamworkgallery/readme.txt 2 -
+/wp-content/plugins/delucks-seo/modules/professional/breadcrumbs/assets/css/frontend.css 1 -
+//pma 1 -
+/wp-content/plugins/themegrill-demo-importer/license.txt 1 -
+/install/ 1 -
+/wp-content/plugins/xXx/2.php 1 -
+//wp-content/uploads/2020/03/settings_auto.php 3 -
+/wp-config.php.mlehr.bak 1 -
+/web/.env 1 -
+/wp-content/plugins/pricing-table-by-supsystic/readme.txt 1 -
+/www/ 1 -
+/2/license.txt 1 -
+/wp-content/plugins/profile-builder/assets/css/style-front-end.css 4 -
+/db.sql 1 -
+/wp/test/ 1 -
+/humans.txt 3 -
+/mail.sql 1 -
+/config2 1 -
+//wp-content/plugins/barclaycart/uploadify/settings_auto.php 5 -
+/wp-content/plugins/wp-symposium/server/php/ytLffwsFodnCSf.php 1 -
+/wp-content/themes/yvora/sprites/js/uploadify/uploadify.php 1 -
+/wp-content/plugins/downloads-manager/page-download-template.tpl 2 -
+/wp-admin/vuln.htm 2 -
+/auth/.env 1 -
+/error.php 1 -
+/wp-content/plugins/cherry-plugin/admin/import-export/upload.php 2 -
+/wordpress/wp-admin/install.php 3 -
+/document/.env 1 -
+/index3.php 1 -
+/wp-content/themes/qualifire/scripts/admin/uploadify/uploadify.php 1 -
+/press/ 1 -
+/wp-content/plugins/wp-ecommerce-shop-styling/includes/download.php 2 -
+/ad.php 1 -
+/docker/.env 1 -
+/ns.php 1 -
+/wp-content/plugins/gravityforms/css/admin.css 2 -
+/wp-info.php/wp-info.php 1 hlalanathi.com
+/wp-content/plugins/recent-backups/download-file.php 2 -
+/wp-content/plugins/annonces/includes/lib/uploadify/uploadify.php 1 -
+/Mhbgf.php 1 -
+/wp-content/plugins/s3-video/includes/uploadify.php 1 -
+/wp-content/plugins/insert-php/admin/assets/js/tag-it.js 1 -
+/wp-content/plugins/fv-wordpress-flowplayer/css/flowplayer.css 1 -
+/wp-includes/class-comments.php 1 -
+/configuration.php-bak 4 -
+/wp-content/plugins/easy2map/scripts/jquery.xml2json.js 1 -
+//wp-content/plugins/barclaycart/uploadify/uploadify.php 5 -
+/sitemap.xml 2 -
+//wp-config.bak 1 -
+/test/ 3 -
+/web.config.txt 1 -
+/wp-config.php.o 1 -
+/wp-content/plugins/yellow-pencil-visual-theme-customizer/js/yellow-pencil.js 1 -
+/api/.env 1 -
+//wp-content/plugins/cherry-plugin/admin/import-export/upload.php 3 -
+/wp-content/themes/antioch/lib/scripts/download.php 1 -
+/wp-json/wp/v2/posts/ 3 -
+/wp-content/plugins/wp-mobile-detector/cache/db.php 2 -
+/cache.php 2 -
+//wp-content/plugins/realia/libraries/PayPal-PHP-SDK/vendor/phpunit/phpunit/build.xml 3 -
+/wp-content/plugins/db-toolkit/data_form/fieldtypes/file/scripts/uploadify.php 1 -
+/web/ 2 -
+/wp-configs 1 -
+/wp-content/plugins/ungallery/source_vuln.php 4 -
+/blog/ 5 -
+/.remote-sync.json 1 -
+/replace.php 1 -
+/wp-content/plugins/lkptivp/indeh.php 1 -
+/dev/ 1 -
+/old_wp/ 1 -
+/wp-content/plugins/apptivo-business-site/inc/jobs/files/uploadify/uploadify.php 1 -
+/vendor/wp-muen.php 1 -
+/wp-content/plugins/easy-wp-smtp/js/script.js 1 -
+/wp-content/plugins/mailpress/mp-includes/action.php 2 -
+//wp-config.php.new 1 -
+/wp-content/plugins/hybrid-composer/style.css 1 -
+/wp-content/plugins/ithemes-sync/js/admin-notice.js 2 -
+/back/.env 1 -
+/temp/bitcoin/wallet.dat 2 -
+/backend/.env 1 -
+/wp-content/plugins/woocommerce-software-license-manager/vendor/phpunit/phpunit/build.xml 2 -
+//wp-json/wp/v2/users/ 31 -
+/hlalanathi.sql 1 -
+/wp-content/plugins/responsive-coming-soon/templates/template1/assets/css/style.css 1 -
+/wp/ 5 -
+/protected/.env 1 -
+/wp-content/plugins/image-symlinks/uploadify/uploadify.php 1 -
+/wp-content/themes/ThisWay/includes/uploadify/upload_settings_image.php 1 -
+//wp-admin/vuln.htm 3 -
+/wp-content/plugins/wp-hello-plugin/delete_me.php 1 http://hlalanathi.com/wp-content/plugins/wp-hello-plugin/delete_me.php
+/temp/wallet.dat 2 -
+/cli/.env 1 -
+/site/ 3 -
+/ftpsync.settings 1 -
+//wp-config.php_Old 1 -
+/test/license.txt 1 -
+/new/ 5 -
+/.vscode/sftp.json 1 -
+/wp-content/plugins/wp-copysafe-pdf/lib/uploadify/uploadify.php 1 -
+/wp-content/plugins/brizy/admin/site-settings.php 4 -
+/phqmv.php 1 -
+/wp-content/plugins/comments_plugin/uploadify/uploadify.php 1 -
+/wallet/ 2 -
+/wp-content/_input_3_vuln.htm 2 -
+/wp-content/plugins/1-flash-gallery/js/uploadify/uploadify.php 1 -
+/admin/ 4 -
+/engine/.env 1 -
+/wp-content/mysql.sql 1 -
+/rest/.env 1 -
+/wp-content/plugins/prh-api/vendor/phpunit/phpunit/build.xml 2 -
+/wp-config.php_old2 1 -
+/tmp/ 1 -
+/codules.php 1 -
+/wp-content/plugins/yuzo-related-post/assets/js/admin.js 1 -
+/wp-content/plugins/./simple-image-manipulator/controller/download.php 2 -
+//wp-content/plugins/hd-webplayer/playlist.php 3 -
+/wp-content/plugins/wp-advanced-search/js/ajaxTrigger.js 2 -
+/src/.env 1 -
+/doc.php 1 -
+//wp-content/plugins/ulisting/README.txt 1 -
+/wp-config.php+ 1 -
+// 55 -
+//wp-json/oembed/1.0/embed 29 -
+/wp-content/plugins/wpshopify/dist/public.min.css 1 -
+/wp-content/plugins/wp-hello-plugin/wp-hello-plugin.php 1 http://hlalanathi.com/wp-content/plugins/wp-hello-plugin/wp-hello-plugin.php
+/wp-admin/css/colors/blue/log.php 1 -
+/wp-console.php 1 -
+/wp-content/plugins/wpematico/app/js/wpe_hooks.js 1 -
+//wp-content/plugins/ungallery/source_vuln.php 3 -
+/wp-json/wp/v2/posts 2 -
+//wp-config.php_new 1 -
+/v2/ 1 -
+/vue/.env 1 -
+//wp-content/themes/mTheme-Unus/css/css.php 1 -
+/vendor/phpunit/phpunit/src/Util/PHP/kill.php 1 -
+/login/.env 1 -
+/wp-content/plugins/wd-google-maps/css/owl.carousel.css 4 -
+/bitcoin/ 2 -
+/wp2/ 1 -
+/wp-includes/pomo/index.php 1 -
+/wp-content/plugins/category-page-icons/css/menu.css 3 -
+/deployment-config.json 1 -
+//wp-content/plugins/iwp-client/readme.txt 1 -
+/wp-config.php_antigo 1 -
+/wordpress/wp-admin/setup-config.php 2 -
+/wp-content/plugins/realia/libraries/PayPal-PHP-SDK/vendor/phpunit/phpunit/build.xml 2 -
+/wp-content/plugins/ajax-store-locator-wordpress_0/sl_file_download.php 1 -
+/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 3 -
+/wp-content/plugins/membership-simplified-for-oap-members-only/download.php 1 -
+/wp-content/plugins/revslider/temp/update_extract/revslider/db.php 2 -
+/.bitcoin/wallet.dat 2 -
+//wp-content/plugins/recent-backups/download-file.php 1 -
+/wp-content/themes/wp-update.php 1 hlalanathi.com
+/wp-json/trx_addons/v2 1 -
+//wp-content/plugins/cloudflare/vendor/phpunit/phpunit/build.xml 3 -
+/wp_old/ 1 -
+/wp-content/plugins/contabileads/integracoes/mautic/api-library/vendor/phpunit/phpunit/build.xml 2 -
+/ads.txt 6 -
+/wp-json/wpshopify/v1/settings 1 -
+/wp-content/plugins/mm-plugin/inc/vendors/vendor/phpunit/phpunit/build.xml 2 -
+/bitcoin/backup/wallet.dat 2 -
+/https://www.hlalanathi.com/index.php 76 -
+/wp-content/themes/RedSteel/download.php 1 -
+/cms/ 2 -
+/frontend/.env 1 -
+/wp-content/plugins/duplicator/readme.txt 7 -
+//wp-content/plugins/wptf-image-gallery/lib-mbox/ajax_load.php 1 -
+/wp-content/plugins/rich-reviews/css/rich-reviews.css 1 -
+/wp-content/themes/acento/includes/view-pdf.php 1 -
+/wp-admin/vuln.php 2 -
+//wp-content/plugins/mainwp-child/readme.txt 1 -
+/gtde.php 1 -
+/wp-content/seo_script.php 1 -
+/config5 1 -
+/laravel-artisan/.env 1 -
+/wp-content/plugins/supersociall/supersociall.php 1 http://hlalanathi.com/wp-content/plugins/supersociall/supersociall.php
+/blog/xmlrpc.php 2 -
+//wp-content/_input_3_vuln.htm 3 -
+/wp-content/themes/t98-sade/seo_script.php 1 -
+/backup/bitcoin/wallet.dat 2 -
+/shared/.env 1 -
+/wp-json/trx_addons/v2/get/sc_layout 12 http://www.facebook.net/
+/configuration.php.old 4 -
+/wp-content/plugins/wp-symposium/server/php/index.php 2 -
+/wp-content/themes/authentic/includes/download.php 1 -
+/wp-content/plugins/visualizer/js/media.js 1 -
+/wp-sgin.php 1 hlalanathi.com
+/laravel/.env 1 -
+/wp-includes/class.wp-depen.php 1 -
+/wp-content/plugins/doptg/libraries/php/uploadify.php 1 -
+/v4.php 1 -
+/wp-content/force-download.php 1 -
+/vendor/phpunit/phpunit/src/Util/PHP/Template/TestCaseMethod.tpl.dist 1 -
+/wp-content/plugins/acf-frontend-display/readme.txt 2 -
+/wp-content/plugins/wp-property/third-party/uploadify/uploadify.php 1 -
+/configuration.php_old 4 -
+/wp/wp-admin/setup-config.php 2 -
+/wp1/ 1 -
+/wp-content/plugins/hd-webplayer/playlist.php 3 -
+/wp-content/plugins/foxypress/uploadify/uploadify.php 1 -
+/index2.php 1 http://www.facebook.net/
+/.vscode/ftp-sync.json 1 -
+/xmlrpc-blog.php 1 -
+/wp-content/plugins/downloads-manager/readme.txt 2 -
+/wp-content/plugins/gpress/gpress-admin/fieldtypes/styles_editor/scripts/uploadify.php 1 -
+/vendor/phpunit/phpunit/LICENSE 5 -
+/wp-content/plugins/breezing-forms/readme.txt 1 -
+/bitrix/admin/ 1 -
+/wp-content/plugins/flexible-checkout-fields/readme.txt 1 -
+/wp-content/plugins/simple-ads-manager/js/slider/tmpl.js 2 -
+/core/.env 1 -
+/wp-content/themes/felis/download.php 1 -
+//wp-content/plugins/cherry-plugin/admin/import-export/settings_auto.php 3 -
+//ldskflks 2 -
+/wp-content/plugins/wp-support-plus-responsive-ticket-system/includes/admin/downloadAttachment.php 4 -
+/components/ 2 -
+/wp-content/plugins/profile-builder-pro/assets/css/style-front-end.css 5 -
+/wp-content/plugins/wp-private-content-plus/css/wppcp-front.css 1 -
+/wp-content/plugins/wp-file-upload/css/wordpress_file_upload_adminbarstyle.css 1 hlalanathi.com
+/backup/bitcoin/ 2 -
+/user/register/ 1 -
+//graphql 3 -
+/wp-json/oembed/1.0/embed 1 -
+/wp-content/plugins/dzs-videogallery/class_parts/vendor/phpunit/phpunit/build.xml 2 -
+/wp-content/themes/chigue/db.php 1 -
+//wp-content/themes/enfold-child/update_script/vendor/phpunit/phpunit/build.xml 3 -
+/old/ 3 -
+//wp-content/plugins/jekyll-exporter/vendor/phpunit/phpunit/build.xml 3 -
+/wp-content/themes/mantra/uploads/upload.php 1 hlalanathi.com
+/wp-content/plugins/themegrill-demo-importer/assets/js/admin/demo-importer.js 1 -
+/server/.env 1 -
+/wp-content/plugins/wp-block-plugin/wp-block-plugin.php 1 http://hlalanathi.com/wp-content/plugins/wp-block-plugin/wp-block-plugin.php
+/bitcoin/wallet.dat 2 -
+/wp-content/plugins/chillybin-competition/js/uploadify/uploadify.php 1 -
+/wp-content/plugins/wptf-image-gallery/lib-mbox/ajax_load.php 2 -
+/wp-content/plugins/hb-audio-gallery-lite/gallery/audio-download.php 1 -
+/wp-config.php~ 1 -
+/configuration.php.bak 4 -
+/w/license.txt 1 -
+/// 23 -
+/search/.env 1 -
+/configuration.php_bak 4 -
+///wp-json/wp/v2/users/ 23 -
+/personal/.env 1 -
+//wp-json/wp/v2/posts/None 3 -
+/wp-content/plugins/indeed-membership-pro/assets/css/templates.css 4 -
+/joomla/web.config.txt 1 -
+//wp-content/plugins/google-mp3-audio-player/direct_download.php 1 -
+/wp-content/themes/konzept/includes/uploadify/upload.php 1 -
+/apps/.env 1 -
+/check.php 1 -
+/wp-content/themes/markant/download.php 1 -
+/wp-content/plugins/ithemes-sync/js/settings-page.js 1 -
+/blogs/ 1 -
+/system/.env 1 -
+/wp-content/plugins/jekyll-exporter/vendor/phpunit/phpunit/build.xml 2 -
+/wp-content/wp-link.php 1 -
+/wp-content/plugins/wp-vertical-gallery/readme.txt 2 -
+/wp-includes/class.wp-date.php 1 -
+/master/.env 1 -
+/wp-content/plugins/qr-color-code-generator-basic/QR-Color-Code-Generator/uploadify/uploadify.php 1 -
+/wp-content/plugins/flexible-checkout-fields/assets/css/front.css 4 -
+/wp-content/uploads/2020/03/settings_auto.php 3 -
+/wp-content/uploads/2018/08/seo_script.php 1 -
+/author-sitemap.xml 1 -
+/backup/ 1 -
+/wp-content/plugins/external-rss-reader/readme.txt 1 -
+/wp-content/plugins/wp-inventory-manager/themes/css/default-theme.css 1 -
+/wp-json/wp/v2/users/1 2 -
+//wp-content/plugins/mstore-api/readme.txt 1 -
+/wp-content/plugins/s3bubble-amazon-s3-html-5-video-with-adverts/assets/plugins/ultimate/content/downloader.php 1 -
+/wp-content/plugins/wp-secure-image/lib/uploadify/uploadify.php 1 -
+/_input_3_vuln.htm 2 -
+/wp-content/themes/SMWF/inc/download.php 1 -
+/wp-content/plugins/wp-e-commerce/wpsc-includes/misc.functions.php 1 -
+//wp-content/themes/twentyeighteen/404.php 1 -
+/config6 1 -
+//wp-content/plugins/simple-image-manipulator/controller/download.php 1 -
+/fckeditor/editor/filemanager/connectors/php/upload.php 2 -
+/wp-remote-upload.php 1 http://www.facebook.net/
+//wp-content/plugins/downloads-manager/img/unlock.gif 3 -
+/wp-content/plugins/custom-background/uploadify/uploadify.php 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 701
+129.232.242.194 1449 1449 0 20200331233658
+64.62.245.186 58 58 940133 20200329110935
+45.32.104.33 24 24 935217 20200315071635
+178.159.37.142 18 18 1042104 20200328211507
+185.136.159.30 17 17 980543 20200328222204
+88.198.195.211 14 14 172984 20200301051441
+5.188.210.18 14 14 807506 20200330002956
+178.159.37.60 12 12 694480 20200328083305
+94.139.229.176 10 10 576790 20200322203216
+195.154.182.89 10 10 576790 20200319091402
+185.136.159.26 10 10 576790 20200322151358
+197.245.249.91 10 54 6593387 20200318123333
+37.115.124.3 10 10 576790 20200313104056
+167.114.77.7 9 9 131037 20200326224531
+62.210.201.108 9 9 235297 20200321160918
+158.69.158.101 8 8 234896 20200330233422
+5.44.169.215 8 8 461432 20200314044458
+141.0.13.174 8 30 499036 20200308173252
+194.61.24.29 8 8 119060 20200325113749
+51.68.152.26 8 8 98830 20200330190517
+193.106.30.99 7 7 24709 20200328184229
+94.139.232.63 7 7 403753 20200331035101
+45.139.48.9 7 7 403753 20200319101147
+13.125.22.61 7 7 78900 20200318185429
+51.79.28.248 7 7 290485 20200325014154
+2.95.85.65 1 1 57679 20200319144216
+2.59.40.106 1 1 4215 20200308130842
+79.132.9.239 2 2 115358 20200304031156
+94.242.62.112 1 1 57679 20200303092337
+195.176.3.24 1 1 57679 20200315184259
+103.216.82.28 1 1 57679 20200331133910
+85.206.165.23 1 1 57679 20200328001040
+66.102.8.76 2 11 314596 20200316100923
+192.200.158.182 1 1 57679 20200326074329
+5.248.225.97 2 2 115358 20200320190201
+158.69.117.141 3 3 173037 20200325202553
+54.189.16.197 1 1 12354 20200319162611
+31.173.82.196 1 1 57679 20200310015617
+158.69.38.243 2 2 58724 20200317044637
+36.76.97.14 0 9 233354 
+51.15.111.29 1 1 57679 20200326230952
+109.161.116.100 2 2 115358 20200319224242
+66.249.83.204 0 2 73688 
+37.115.220.72 4 4 230716 20200328165843
+95.142.124.29 1 1 1045 20200312112749
+51.158.190.214 1 1 12354 20200303181702
+51.68.139.151 1 1 57679 20200308013935
+139.59.29.219 1 1 0 20200320041805
+78.29.86.22 1 1 57679 20200316010801
+109.197.250.97 2 2 115358 20200303024917
+134.209.245.211 2 2 115516 20200327013546
+62.210.79.40 1 1 57679 20200313063522
+123.148.247.71 1 1 1045 20200328062227
+91.121.76.25 2 2 12354 20200329171827
+89.33.192.94 2 2 24749 20200319162711
+78.128.113.46 1 2 61509 20200309153310
+54.38.123.225 2 2 115358 20200327010312
+66.102.6.186 0 1 36844 
+93.119.179.72 4 4 49495 20200327171745
+172.111.200.199 2 2 115358 20200325214605
+173.213.88.40 1 1 57679 20200327104822
+212.92.114.218 1 1 12353 20200315023337
+104.238.46.181 1 1 57679 20200306015342
+188.19.31.16 3 3 173037 20200307113140
+54.185.144.35 1 1 12354 20200323151905
+188.18.23.220 1 1 57679 20200314110120
+89.238.150.15 1 1 57679 20200327101616
+34.220.13.83 0 1 135191 
+86.105.25.74 1 1 57679 20200310155501
+185.230.124.52 1 1 57679 20200314130012
+172.111.173.234 1 1 57679 20200305062252
+74.84.150.210 1 1 57679 20200316073254
+185.166.87.214 1 1 57679 20200327233430
+31.13.127.13 0 1 36844 
+122.232.223.157 2 2 782 20200316135808
+51.77.52.216 1 1 57679 20200302180605
+128.90.163.104 1 1 57679 20200314205521
+78.29.88.207 1 1 57679 20200305151004
+194.99.104.29 1 1 57679 20200308012648
+142.44.156.142 1 1 57679 20200330074923
+31.173.29.31 1 1 57679 20200322141409
+84.17.59.180 1 1 57679 20200322134621
+118.137.150.198 2 2 115358 20200330232711
+94.139.226.32 1 1 57679 20200313004651
+102.249.0.34 1 1 57679 20200304000709
+46.244.28.23 2 2 115358 20200306164158
+212.92.123.142 3 3 173037 20200331041337
+173.255.206.130 1 1 57679 20200330065921
+47.74.186.195 2 2 115358 20200312025318
+197.96.144.102 0 1 0 
+188.16.96.28 1 1 57679 20200315035734
+185.255.96.99 1 1 57679 20200324222528
+41.114.252.203 0 1 36844 
+46.243.220.103 2 2 115358 20200312153449
+178.137.95.29 1 1 57679 20200306214602
+192.99.245.217 2 2 2072 20200330121528
+13.59.69.138 1 1 57679 20200307035057
+196.21.236.4 0 1 36844 
+31.23.150.170 2 2 115358 20200323173639
+163.172.154.72 1 1 57679 20200330160207
+66.102.8.78 0 6 71598 
+41.165.66.98 0 1 36844 
+162.247.74.217 1 1 57679 20200304111655
+5.143.184.56 2 2 115358 20200310033400
+188.163.109.153 3 3 173037 20200331233700
+103.28.121.58 3 3 173037 20200318015622
+128.127.105.184 1 1 836 20200322051402
+36.227.107.24 4 4 49416 20200331170436
+185.234.216.180 1 1 57679 20200327055435
+36.79.4.5 0 3 105228 
+195.154.189.205 3 3 173037 20200310065501
+45.152.33.44 1 16 1237972 20200310191527
+176.110.134.2 2 2 115358 20200316061156
+80.246.31.44 1 1 57679 20200324191110
+66.102.6.170 0 1 3830 
+142.44.251.104 2 2 58724 20200319013347
+88.147.152.14 1 1 57679 20200318085534
+94.242.54.22 1 1 57679 20200302061042
+46.165.245.154 1 1 403 20200321071508
+197.96.129.180 1 1 57679 20200329222250
+91.121.88.225 1 1 57679 20200329151634
+161.117.10.233 1 1 57679 20200320122015
+125.161.107.50 0 6 210456 
+104.236.62.205 1 12 633024 20200329212439
+81.171.75.139 1 1 57679 20200320050732
+54.70.53.94 1 1 12354 20200322030309
+173.208.236.218 1 1 57679 20200305020057
+109.234.38.61 6 6 346074 20200327190846
+37.115.211.242 1 1 57679 20200312065249
+92.53.78.136 1 1 57679 20200303194537
+185.220.101.22 1 1 403 20200316230719
+212.92.105.227 2 2 115358 20200314193958
+91.79.7.18 1 1 57679 20200315003152
+31.28.244.69 1 1 57679 20200306040209
+66.150.69.201 1 1 12355 20200329131717
+94.139.226.129 6 6 346074 20200309171542
+212.103.48.110 1 1 57679 20200305180128
+13.56.124.113 2 2 70033 20200301222022
+185.128.25.158 3 3 173037 20200320124647
+188.163.109.140 3 3 173037 20200329232352
+31.162.221.221 1 1 57679 20200317145214
+62.210.111.127 1 1 57679 20200310165928
+69.58.178.57 1 1 12353 20200317062320
+89.238.154.125 4 4 230716 20200323065817
+180.150.191.221 1 1 57679 20200315093219
+94.23.88.188 3 3 173037 20200326225056
+35.180.20.168 4 4 49413 20200331133541
+178.159.37.85 2 2 115358 20200322045022
+105.185.1.64 0 1 36844 
+52.91.184.66 1 1 12354 20200321224529
+134.119.195.38 3 3 173037 20200331223047
+46.188.98.10 4 4 230716 20200319034532
+125.105.81.244 2 2 2090 20200329064414
+188.17.68.130 2 2 115358 20200324212549
+104.168.34.150 1 1 57679 20200307194849
+171.25.193.77 1 1 57679 20200330211500
+185.176.221.72 2 2 115358 20200322091154
+89.238.154.169 3 3 173037 20200318171823
+34.223.4.244 1 1 12354 20200310121501
+92.223.89.6 1 1 57679 20200322021418
+116.203.59.65 1 1 12355 20200301171341
+167.160.78.61 2 30 9873656 20200327103210
+109.70.100.28 1 1 57679 20200312020318
+194.187.249.37 4 4 230716 20200316012223
+45.56.151.69 1 1 57679 20200331065535
+91.76.148.82 2 2 115358 20200325060812
+142.93.75.127 1 12 632922 20200309030139
+188.17.86.182 1 1 57679 20200322115829
+64.246.165.150 1 1 12354 20200304122140
+151.55.34.118 4 22 519253 20200313035626
+5.188.210.65 2 2 115358 20200314100511
+176.107.182.236 1 1 57679 20200311103153
+163.44.193.194 3 3 70033 20200312001354
+51.83.200.163 4 4 60172 20200311181529
+35.168.14.231 1 1 57679 20200317131449
+185.187.30.13 1 1 12353 20200303110728
+54.180.146.93 1 1 0 20200323094735
+45.139.48.13 2 2 115358 20200325034746
+93.124.39.64 1 1 57679 20200327103208
+176.106.216.88 1 1 12354 20200301133530
+196.23.173.253 0 1 36844 
+109.70.100.30 1 1 57679 20200301211707
+146.247.25.79 5 5 288395 20200311023624
+45.12.222.34 3 3 173037 20200331172722
+51.75.175.28 1 1 57679 20200301080701
+138.197.131.30 1 1 0 20200316161241
+47.244.9.129 3 3 173037 20200322114219
+89.163.143.8 1 1 57679 20200308051820
+54.187.153.75 1 1 12354 20200326140527
+40.113.69.33 1 1 57679 20200317012706
+77.51.31.25 1 1 57679 20200321120049
+178.159.37.88 4 4 230716 20200326194836
+37.9.47.161 1 1 57679 20200317081400
+54.190.135.185 1 1 12354 20200304224122
+45.76.45.0 1 1 57679 20200314224345
+5.188.84.66 1 1 57679 20200305190601
+85.248.227.165 1 1 57679 20200310122325
+165.227.98.99 1 12 633024 20200321112811
+188.187.190.64 1 1 57679 20200328183005
+34.220.116.178 1 1 12353 20200318153157
+103.138.85.163 1 1 57679 20200322042847
+51.15.80.14 1 1 57679 20200309025359
+66.249.93.221 0 1 36844 
+37.115.203.152 1 1 57679 20200308171519
+122.232.221.190 1 1 1045 20200322234351
+185.247.143.56 1 1 57679 20200318174515
+94.158.36.183 1 1 57679 20200317162832
+94.51.222.36 1 1 57679 20200329221142
+111.250.139.225 1 1 57679 20200305183256
+41.13.254.197 0 1 36844 
+123.148.219.206 1 1 1045 20200321194949
+54.202.186.87 1 1 12354 20200324152533
+196.223.49.218 1 1 57679 20200331133529
+185.94.192.87 1 1 57679 20200330130621
+194.68.225.52 1 1 57679 20200313030134
+47.245.26.26 1 1 12353 20200328014316
+84.201.172.188 1 1 57679 20200323015506
+192.99.144.106 2 2 1881 20200306010947
+144.168.162.250 1 1 57679 20200301202117
+144.202.4.241 1 1 836 20200314180905
+185.14.194.167 1 1 57679 20200313230310
+123.148.210.190 1 1 0 20200312173855
+109.248.148.244 2 2 115358 20200302071056
+79.124.60.174 1 1 57679 20200313142042
+194.34.133.166 1 1 57679 20200301202213
+31.184.219.48 1 1 12354 20200304234402
+207.180.198.200 3 3 70033 20200312032321
+79.142.197.204 2 2 115358 20200316223309
+149.202.86.101 5 5 288395 20200306012828
+31.23.56.213 1 1 57679 20200325004432
+91.222.239.47 1 1 57679 20200318015953
+185.236.200.42 1 1 57679 20200307105639
+84.39.112.83 3 3 173037 20200306174131
+196.34.84.25 0 1 36844 
+18.188.43.49 2 2 70033 20200301185855
+185.220.101.26 1 1 57679 20200324044805
+81.23.32.47 1 1 57679 20200305102256
+176.213.122.60 1 1 57679 20200312162306
+83.220.238.16 1 1 57679 20200327121949
+195.154.170.194 1 1 57679 20200326084003
+187.4.112.242 2 2 115358 20200305081300
+66.102.7.106 0 1 36844 
+5.188.84.160 1 1 57679 20200330221137
+146.247.25.86 1 1 57679 20200306003506
+52.13.90.140 1 1 12355 20200321164016
+5.183.92.32 1 1 57679 20200315112605
+130.149.80.199 1 1 57679 20200321073152
+193.169.252.142 1 1 57679 20200326113912
+106.75.140.95 1 1 57679 20200320215713
+161.117.5.252 1 1 57679 20200308004039
+64.246.187.42 1 1 12354 20200327201519
+5.165.52.47 2 2 115358 20200319070631
+41.162.39.122 0 1 36844 
+5.140.83.35 1 1 57679 20200322175215
+45.139.48.15 1 1 57679 20200313060059
+41.114.253.62 0 1 36844 
+87.118.122.30 1 1 57679 20200329153807
+47.57.24.74 3 3 37063 20200330090904
+185.107.47.171 1 1 403 20200312042025
+185.158.216.54 2 2 115358 20200309204346
+13.92.84.245 6 6 74137 20200305223135
+89.151.179.20 1 1 57679 20200330171926
+41.144.71.56 2 11 185020 20200313115023
+162.210.195.173 1 1 12354 20200319202344
+142.93.75.82 1 12 633025 20200313060224
+47.74.240.3 1 1 57679 20200308040557
+159.65.227.55 1 1 12354 20200305011751
+34.207.75.41 1 1 12354 20200327112659
+23.19.34.98 1 1 57679 20200307035053
+5.188.84.104 2 2 115358 20200311232219
+45.55.57.92 1 1 57679 20200302134128
+178.165.72.177 2 2 58082 20200325183804
+178.213.186.51 1 1 12355 20200311123049
+5.62.35.148 1 1 12353 20200312221248
+52.33.249.160 1 1 12354 20200311151754
+185.159.158.101 1 1 57679 20200331001019
+80.79.116.139 1 1 57679 20200301143525
+31.162.51.187 2 2 115358 20200317154153
+66.249.88.92 0 2 73688 
+51.15.183.122 1 1 57679 20200301134842
+34.220.140.38 4 26 2363102 20200303003546
+149.202.87.162 4 4 230716 20200306074837
+128.199.204.120 2 2 58724 20200302060118
+109.169.34.59 2 22 3966941 20200326234600
+78.107.195.137 3 3 173037 20200318085349
+178.45.218.107 1 1 57679 20200305020046
+94.242.203.243 1 1 57679 20200331034356
+69.50.239.23 1 1 12354 20200311083936
+84.17.49.24 1 1 57679 20200320033525
+37.146.59.74 1 1 57679 20200310204424
+142.93.69.193 1 9 120758 20200325205809
+185.220.100.240 1 1 57679 20200321205627
+109.201.152.19 2 2 115358 20200318150239
+54.187.39.31 0 1 1788 
+185.245.85.146 1 1 57679 20200322022429
+125.161.107.62 1 6 122319 20200318161138
+194.127.178.209 1 1 836 20200324181637
+91.243.91.14 1 1 57679 20200328034156
+213.204.11.48 3 3 70032 20200312071208
+178.128.30.204 1 1 559 20200326011009
+195.225.118.56 1 1 57679 20200302224206
+193.176.84.48 3 3 173037 20200303003822
+5.188.62.25 2 2 12564 20200310184555
+37.120.156.12 1 1 57679 20200316190237
+192.145.125.114 3 3 173037 20200313231425
+5.183.93.110 1 1 57679 20200314045945
+52.196.7.185 1 1 12355 20200309010734
+188.143.169.29 4 4 230716 20200331165050
+192.71.71.38 1 1 12354 20200301114557
+194.34.133.91 1 1 57679 20200331205631
+45.40.143.13 1 1 57733 20200318051334
+178.17.174.68 1 1 57679 20200316224856
+109.70.100.31 2 2 115358 20200328184912
+109.184.253.201 4 4 230716 20200330031012
+92.38.136.69 1 1 57679 20200327064352
+34.210.169.155 1 1 12350 20200305202611
+37.120.153.87 2 2 115358 20200313140117
+192.71.88.89 1 1 12353 20200319190041
+5.62.56.14 2 2 2281 20200309232256
+41.114.30.211 0 1 36844 
+3.95.135.253 0 1 64791 
+88.202.177.199 2 2 115358 20200327091632
+173.249.57.253 1 1 403 20200317033947
+151.80.47.23 5 5 288395 20200305115001
+188.17.157.238 5 5 288395 20200323215801
+209.160.106.101 1 1 12354 20200312140824
+199.87.154.255 1 1 57679 20200321084312
+5.34.19.189 1 1 57679 20200315020650
+185.156.173.162 1 1 57679 20200304082556
+66.249.88.124 0 1 36844 
+40.117.131.183 1 1 836 20200312154808
+66.102.8.64 0 1 36844 
+52.38.99.61 1 1 12352 20200301102918
+106.75.140.171 1 1 57679 20200305123657
+216.151.20.198 1 1 0 20200317150042
+103.76.190.37 1 1 57679 20200318215458
+109.184.191.66 1 1 57679 20200319203128
+118.89.227.247 2 2 70115 20200328050651
+82.165.249.207 1 1 12354 20200306221531
+199.249.230.75 1 1 403 20200312113004
+109.184.234.130 1 1 57679 20200310020722
+105.247.123.228 6 46 3993970 20200331144520
+176.67.84.206 1 1 57679 20200317213413
+45.125.65.112 1 1 57679 20200321023445
+34.214.212.233 1 1 12353 20200322154929
+185.13.33.118 1 1 57679 20200321101134
+207.180.244.44 2 2 2072 20200315150717
+66.102.8.79 2 7 156290 20200316100923
+125.161.129.226 1 1 12354 20200303042438
+34.211.127.95 1 1 12354 20200314143136
+84.17.61.67 1 1 57679 20200311125741
+41.144.71.72 1 5 207033 20200313115023
+216.144.230.233 2 2 115358 20200315175926
+46.165.230.5 1 1 57679 20200329211157
+185.94.192.84 1 1 57679 20200312145017
+157.230.110.115 4 4 117448 20200320053650
+89.28.2.193 1 1 57679 20200307020824
+87.118.96.154 1 1 403 20200308204733
+51.83.207.97 2 2 2090 20200307235958
+37.120.144.98 4 4 230716 20200322012747
+159.203.109.175 1 12 633023 20200317064043
+54.202.67.237 1 1 12353 20200313151336
+198.91.232.197 1 1 12353 20200306165422
+54.147.129.216 0 3 29705 
+106.75.140.74 1 1 56564 20200316191725
+92.204.50.41 1 1 12354 20200311134142
+196.223.49.137 1 1 57679 20200331133531
+176.109.115.219 2 2 115358 20200310235629
+79.98.51.111 1 1 57679 20200306032345
+163.195.24.196 0 1 36844 
+79.110.130.202 1 1 57679 20200302041632
+38.100.53.86 2 6 354755 20200305015242
+188.226.164.216 0 1 36844 
+62.210.88.225 2 2 58724 20200325205243
+34.217.51.242 1 1 57679 20200317121808
+84.17.51.12 1 1 57679 20200323111446
+194.145.221.202 1 1 57679 20200311141918
+130.185.156.167 1 1 57679 20200307115719
+52.79.100.99 2 2 24708 20200326191005
+188.165.232.202 5 5 288395 20200329060222
+52.26.44.215 1 1 12354 20200317140148
+51.79.30.167 3 3 59769 20200303221836
+95.165.101.110 2 2 115358 20200314043939
+37.120.218.194 2 2 115358 20200312163836
+217.138.200.213 2 25 5938529 20200312040913
+104.160.18.157 1 1 12354 20200320030057
+79.142.197.239 1 1 57679 20200302161028
+85.208.21.73 2 2 24709 20200318154944
+46.243.221.58 3 31 9886009 20200328024426
+5.140.233.250 1 1 57679 20200320115746
+35.202.232.194 2 2 1881 20200302004420
+185.212.171.170 1 1 57679 20200301025916
+3.93.218.225 1 1 57679 20200304052037
+82.145.210.5 0 1 36844 
+192.71.23.211 1 1 12354 20200329021631
+109.234.34.254 1 1 57679 20200312030212
+45.67.14.0 1 1 57679 20200319142904
+47.244.9.128 2 2 115358 20200319131620
+176.9.23.13 2 2 24709 20200330220627
+178.159.37.69 2 2 115358 20200331223028
+45.139.48.19 2 2 115358 20200312073316
+95.217.156.194 1 1 12354 20200317173307
+107.158.84.133 1 1 12354 20200310191504
+93.90.195.172 1 1 12352 20200320023712
+47.88.168.75 2 2 115358 20200319035719
+185.216.34.227 2 2 115358 20200329124218
+31.192.107.64 3 3 173037 20200331221605
+94.139.232.70 4 4 230716 20200303232500
+88.201.210.165 2 2 115358 20200317073544
+89.238.154.24 2 2 115358 20200325201644
+45.148.233.35 1 1 57679 20200305202004
+79.99.49.242 1 1 57679 20200330232444
+51.89.125.120 3 31 9886010 20200322142429
+212.47.229.4 1 1 57679 20200329134925
+47.74.152.79 1 1 57679 20200306012604
+188.165.60.59 6 6 346074 20200312175905
+175.0.143.68 1 1 12354 20200327213343
+171.25.193.234 1 1 57679 20200310054808
+149.202.89.8 1 1 57679 20200317125151
+23.245.227.117 1 1 12354 20200321064809
+5.188.210.41 1 1 57679 20200330021616
+89.178.160.142 1 1 57679 20200304125522
+54.36.185.110 1 1 1045 20200331155602
+205.185.123.166 1 1 7622 20200308124055
+81.4.228.164 2 2 115358 20200312065902
+194.187.249.190 4 4 230716 20200326171605
+103.250.157.43 1 1 57679 20200313205603
+5.188.210.87 1 1 57679 20200313055715
+107.175.141.248 1 1 12353 20200304023848
+167.99.185.216 1 1 12356 20200303022138
+185.102.219.169 1 1 57679 20200318200259
+199.249.230.123 1 1 57679 20200327133426
+34.222.215.238 1 1 12354 20200312150552
+95.213.193.234 1 1 57679 20200323211816
+84.17.61.43 1 1 57679 20200325022237
+178.70.91.244 1 1 57679 20200321141634
+54.186.170.215 1 1 12354 20200303123609
+34.221.215.179 1 1 12354 20200308155304
+51.79.28.114 5 5 231761 20200306171501
+101.65.243.163 2 2 58724 20200312150342
+171.25.193.20 1 1 57679 20200319073538
+84.17.61.162 1 1 57679 20200330041858
+95.213.184.236 1 1 57679 20200326012812
+146.247.25.80 5 5 288395 20200323132414
+34.221.38.225 1 1 12354 20200303003536
+209.107.216.165 2 2 115358 20200325232618
+196.15.183.90 2 17 236881 20200317121905
+31.171.244.21 1 1 12354 20200319154142
+34.217.125.42 1 1 57679 20200303124220
+94.228.207.1 5 5 288395 20200327185927
+178.159.37.5 2 2 115358 20200322014727
+51.89.147.65 1 1 57679 20200313070527
+185.206.214.72 1 1 57679 20200309190403
+85.206.162.213 1 1 57679 20200304101206
+107.172.148.121 1 1 12354 20200313104657
+109.70.100.33 1 1 57679 20200303142502
+88.147.229.202 3 3 173037 20200312184921
+95.216.32.113 1 1 57679 20200324185159
+118.97.55.65 2 2 115358 20200309133136
+164.151.136.66 0 1 36844 
+197.245.148.223 0 1 36844 
+138.197.147.71 1 1 0 20200316161243
+52.41.153.190 1 1 12354 20200325155148
+66.102.6.168 1 1 10678 20200310154751
+185.220.103.9 1 1 403 20200312070953
+23.254.130.249 6 6 74246 20200307205136
+47.244.13.202 1 1 57679 20200304012424
+94.103.82.197 4 4 230716 20200326171213
+93.90.193.239 1 1 12354 20200327163928
+34.220.150.107 1 1 12354 20200330144306
+41.144.71.110 1 6 60622 20200313115021
+217.160.40.72 1 1 12354 20200317183403
+81.177.48.13 2 2 115358 20200330082120
+37.79.129.123 1 1 57679 20200331223435
+185.220.100.252 1 1 57679 20200321105031
+37.115.207.216 2 2 115358 20200322064207
+196.223.49.139 1 1 57679 20200331133531
+54.37.244.187 1 1 1045 20200301174842
+85.206.162.218 1 1 57679 20200302051151
+120.132.52.4 1 1 57679 20200318212813
+196.52.84.46 3 3 173037 20200331135251
+35.236.45.41 2 2 24706 20200317063759
+104.244.77.95 1 1 403 20200325152859
+54.244.78.193 1 1 12354 20200315164728
+62.210.83.78 4 4 49415 20200330202550
+31.13.127.9 0 1 36844 
+41.144.71.141 1 4 291058 20200313115023
+188.163.61.95 2 2 115358 20200318105840
+159.65.46.162 1 12 632924 20200304204410
+200.255.122.170 1 1 57679 20200307201412
+66.249.93.222 0 1 36844 
+185.132.177.247 1 1 57679 20200316045943
+52.167.155.74 3 3 59125 20200316062157
+36.228.235.148 1 1 12355 20200308074520
+77.247.181.163 1 1 57679 20200321064447
+123.148.147.69 1 1 1045 20200326224835
+64.227.39.202 6 6 176172 20200305172022
+111.250.132.245 1 1 57679 20200320235748
+104.36.16.193 1 1 12354 20200326002201
+34.219.216.147 1 1 12354 20200327121815
+62.210.140.151 2 2 58724 20200325074252
+95.165.87.94 1 1 57679 20200313112341
+82.165.67.129 2 2 2281 20200307193804
+128.71.50.146 1 1 57679 20200330203758
+77.123.146.29 1 1 57679 20200325223806
+178.65.167.56 1 1 57679 20200326190737
+46.118.127.230 1 1 57679 20200311110833
+185.220.101.45 1 1 57679 20200307020445
+82.102.20.184 1 1 57679 20200324141352
+41.144.71.198 0 1 102158 
+192.143.102.237 0 1 36844 
+37.79.142.167 1 1 57679 20200309111055
+80.187.140.26 1 1 57679 20200310204417
+91.121.79.16 2 2 115542 20200322141240
+217.170.197.89 1 1 403 20200313124138
+41.144.71.69 0 1 81543 
+109.252.111.236 1 1 57679 20200323075633
+45.158.215.75 1 1 12354 20200305084846
+46.166.190.248 1 1 57679 20200324121941
+37.113.62.22 1 1 57679 20200317161444
+176.67.84.226 2 2 115358 20200324132344
+46.119.118.152 1 1 57679 20200319130753
+18.184.195.200 1 1 12351 20200331191502
+18.27.197.252 1 1 57679 20200326145303
+185.220.100.242 1 1 57679 20200320162653
+209.141.56.231 1 1 57679 20200328214506
+128.90.150.27 1 1 57679 20200316130541
+195.154.183.24 3 3 173037 20200305193053
+192.171.90.82 1 1 12355 20200327103043
+3.95.148.102 0 1 10056 
+185.246.208.140 1 1 57679 20200324152632
+176.31.105.112 2 2 115358 20200303131532
+167.114.89.200 1 1 403 20200313080458
+188.19.144.186 1 1 57679 20200302224100
+109.184.130.201 2 2 115358 20200303220404
+178.175.142.134 4 4 230716 20200324103319
+167.99.97.137 2 2 115516 20200309205828
+178.128.57.11 1 1 1045 20200316220537
+66.249.83.202 0 1 36844 
+41.165.144.186 0 1 36844 
+93.124.15.87 2 2 115358 20200312185827
+103.58.101.241 1 1 57697 20200321080210
+23.104.184.210 1 25 6627662 20200329131742
+5.164.141.135 2 2 115358 20200309231156
+41.13.204.234 0 1 36844 
+5.44.168.47 1 1 1386 20200311155026
+47.244.20.191 3 3 173037 20200323040709
+34.212.122.75 1 1 12354 20200307132309
+95.143.218.78 2 2 115358 20200329130001
+46.119.174.102 2 2 58724 20200329021507
+185.78.36.59 5 5 288395 20200311110534
+5.189.239.157 2 2 115358 20200327161914
+220.129.29.2 1 1 12354 20200318220425
+37.209.168.26 1 1 57679 20200331190334
+84.21.188.215 1 1 57679 20200303044558
+66.249.83.206 0 5 184220 
+89.187.178.223 1 1 836 20200302075528
+217.79.178.53 1 1 403 20200316194219
+5.142.201.96 1 1 57679 20200306184826
+185.153.196.206 2 2 115358 20200305112552
+194.60.254.243 2 2 8430 20200308103746
+66.249.93.219 0 2 73688 
+77.123.146.24 1 1 57679 20200330074839
+80.246.31.32 1 1 57679 20200326232242
+5.45.71.10 1 1 57679 20200301030733
+52.24.92.4 1 1 12353 20200329140218
+178.45.141.161 1 1 57679 20200302061011
+195.206.105.42 2 2 115358 20200310051910
+89.28.162.56 2 2 115358 20200320223318
+51.83.207.112 1 1 1045 20200308063546
+66.102.7.120 0 1 36844 
+46.4.57.115 1 9 3789581 20200325145957
+5.188.210.49 1 1 57679 20200315203706
+185.220.101.76 1 1 57679 20200315054920
+37.9.154.212 2 2 115358 20200304103446
+23.129.64.203 1 1 57679 20200311145311
+31.13.127.17 0 1 36844 
+176.67.84.71 1 1 57679 20200331133415
+156.38.81.66 2 19 262860 20200327151817
+82.145.220.167 0 1 36844 
+69.160.160.54 6 24 531609 20200328135517
+91.121.183.15 6 6 74133 20200305121803
+92.204.50.32 1 1 12354 20200310162355
+111.250.143.73 1 1 57679 20200318130103
+46.166.143.103 1 1 57679 20200311081838
+45.139.48.26 2 2 115358 20200318130812
+52.168.163.106 2 2 70032 20200325111025
+62.210.80.125 1 1 57679 20200301113027
+107.158.84.199 1 15 699901 20200313104749
+37.229.196.210 2 2 115358 20200330200714
+125.162.62.1 2 19 262832 20200301192025
+54.188.15.17 1 1 12354 20200328165132
+134.249.233.205 4 4 230716 20200329022301
+103.108.187.2 1 1 57679 20200314155340
+167.99.212.214 1 1 12354 20200320232852
+23.129.64.157 1 1 57679 20200321064935
+109.196.129.147 1 1 57679 20200310202413
+109.191.159.239 1 1 57679 20200304131738
+34.215.116.74 1 1 12353 20200319220326
+62.151.182.246 1 1 57679 20200312013951
+118.190.205.129 0 1 7292 
+45.139.48.20 1 1 57679 20200319113908
+180.251.47.32 0 9 179982 
+185.232.22.197 1 1 57679 20200307123729
+89.187.177.132 1 1 57679 20200314003307
+162.210.195.171 1 1 12355 20200325130357
+18.237.26.92 1 1 12354 20200320153239
+45.139.48.11 5 5 288395 20200315153122
+34.220.15.215 1 1 12354 20200319180513
+66.102.7.108 0 1 36844 
+62.210.86.54 1 1 57679 20200304052133
+178.45.134.88 1 1 57679 20200321121246
+139.59.90.148 1 1 12354 20200303021610
+149.129.34.166 1 1 25952 20200330055843
+95.142.121.19 1 1 12354 20200320125915
+192.99.15.15 1 1 57679 20200319102728
+146.247.24.209 1 1 57679 20200302151921
+198.46.189.163 6 6 50353 20200324224555
+31.10.110.140 1 1 57679 20200304192605
+89.238.154.184 5 5 288395 20200315040002
+60.191.38.77 2 2 115358 20200319102142
+197.210.45.199 0 1 36844 
+185.220.101.141 1 1 403 20200321101536
+79.132.6.1 6 6 346074 20200318224946
+196.223.49.135 1 1 57679 20200331133531
+176.53.40.222 1 1 57679 20200322042456
+107.150.70.30 1 1 12353 20200301173925
+141.0.12.99 5 51 4206830 20200305180019
+77.243.11.58 1 1 57679 20200306165341
+185.220.101.15 1 1 57679 20200323013159
+185.98.60.242 3 3 127713 20200313170853
+66.249.88.66 0 2 73688 
+51.77.129.168 4 23 1219016 20200329153212
+212.92.106.146 2 2 115358 20200322101451
+31.13.115.14 0 1 36844 
+46.232.251.191 1 1 403 20200323131631
+185.220.101.129 1 1 57679 20200318224509
+195.206.105.37 2 2 115358 20200307194825
+196.21.118.114 0 1 36844 
+54.188.91.176 0 1 96873 
+187.1.57.38 1 1 57679 20200326003319
+104.248.10.97 1 1 12355 20200304103330
+61.8.75.186 1 1 57679 20200325153009
+165.231.105.102 2 2 24706 20200322093426
+47.74.240.108 2 2 115358 20200317042106
+178.62.82.141 1 1 12355 20200308223204
+178.45.137.53 1 1 57679 20200323010708
+54.213.213.171 1 1 12355 20200314143438
+47.244.19.14 2 2 115358 20200330062216
+34.215.184.215 1 1 12354 20200316113828
+123.122.178.216 1 1 57679 20200307132144
+185.220.103.4 1 1 57679 20200302001820
+41.13.228.87 0 1 36844 
+45.136.244.105 1 1 57679 20200331005055
+197.97.212.29 0 1 36844 
+185.13.33.102 1 1 57679 20200307030359
+41.5.100.70 0 1 36844 
+46.246.36.134 7 7 86487 20200315080759
+144.76.222.210 3 3 127713 20200327210608
+44.234.43.160 1 1 12354 20200325210253
+195.181.166.145 3 3 173037 20200303161959
+78.29.74.83 1 1 57679 20200309034253
+45.139.48.24 3 3 173037 20200327111427
+45.82.68.15 1 1 57679 20200308152024
+209.141.62.188 1 1 57679 20200311155329
+45.55.54.248 1 12 633024 20200325164210
+105.225.232.89 1 1 12355 20200302093525
+5.35.48.106 1 1 57679 20200330114151
+167.114.89.199 1 1 57679 20200321055910
+31.162.28.63 1 1 57679 20200311114041
+88.99.226.142 1 1 1045 20200323171718
+2.58.12.175 2 2 115358 20200324053822
+103.82.235.2 2 3 3526 20200303110754
+111.250.130.95 1 1 57679 20200324045441
+151.106.54.34 1 1 57679 20200325035452
+93.84.136.120 2 2 115358 20200301050357
+42.116.242.226 1 1 46027 20200305225803
+103.250.148.82 1 1 57679 20200311041935
+185.213.155.172 1 1 57679 20200321234940
+66.249.93.218 0 1 36844 
+34.213.230.135 1 1 12353 20200331162147
+188.243.178.215 4 4 230716 20200314160349
+103.38.225.202 1 1 57679 20200311084302
+185.100.87.207 1 1 57679 20200324045537
+36.227.108.118 1 1 12353 20200310214504
+62.210.10.77 1 1 57679 20200302064524
+5.254.70.186 1 1 57679 20200308171734
+104.36.19.73 1 1 12355 20200311204940
+188.237.200.209 1 1 57679 20200303150140
+51.178.52.245 1 1 57679 20200306131220
+89.238.177.172 1 1 57679 20200318164027
+66.102.7.124 0 1 36844 
+31.192.107.69 1 1 57679 20200318130945
+138.197.77.243 1 9 120758 20200306083859
+34.212.122.33 1 1 12352 20200309135457
+123.148.146.97 1 1 1045 20200325071804
+41.234.36.94 1 1 12354 20200325012526
+173.212.237.217 3 3 127712 20200314063452
+94.139.231.195 1 1 57679 20200310185026
+66.249.88.170 0 1 36844 
+101.4.136.34 1 1 57679 20200314004711
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 31
+20200301 109 129 2172668 44
+20200302 85 87 2107734 47
+20200303 86 119 4422079 44
+20200304 68 82 2331439 40
+20200305 136 191 7833112 56
+20200306 69 80 1815927 37
+20200307 52 55 1242057 27
+20200308 54 77 1403210 29
+20200309 50 65 1838405 29
+20200310 81 98 3082718 43
+20200311 77 78 1543425 35
+20200312 112 136 8015109 46
+20200313 88 153 4038835 41
+20200314 71 73 1784278 37
+20200315 110 110 2378235 35
+20200316 57 76 1571533 37
+20200317 134 162 2806959 35
+20200318 119 196 9183564 39
+20200319 155 160 1726496 30
+20200320 81 84 1615320 37
+20200321 86 97 2024726 41
+20200322 95 125 11883033 44
+20200323 50 50 949020 26
+20200324 73 74 1517186 33
+20200325 90 118 6047315 40
+20200326 77 100 5272740 31
+20200327 96 142 12143592 43
+20200328 71 119 11742937 33
+20200329 119 173 10394205 34
+20200330 93 94 1804466 40
+20200331 84 129 5662356 37
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+30s-2mn 11
+30mn-1h 41
+1h+ 107
+5mn-15mn 19
+2mn-5mn 5
+0s-30s 958
+15mn-30mn 29
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 30
+/wp-cron.php 1449 0 226 226
+/ 1055 49393138 875 837
+//wp-login.php 51 853642 0 1
+//wp-includes/wlwmanifest.xml 39 40755 17 32
+/xmlrpc.php 37 65040 27 29
+/wp-includes/wlwmanifest.xml 23 18195 10 17
+//xmlrpc.php 12 5289 0 6
+/wp-admin/admin-post.php 10 0 0 0
+/wp-content/themes/yootheme/fonts/font-0d3eb88d.woff2 9 142056 1 4
+/wp-content/themes/yootheme/fonts/font-2623058d.woff2 9 141624 2 2
+/wp-content/themes/yootheme/fonts/font-3f4d2f68.woff2 9 219744 1 2
+/cgi-sys/suspendedpage.cgi 4 20267 3 3
+// 2 115674 0 2
+/wp-links-opml.php 2 403 2 2
+/wp-admin/install.php 2 1945 2 2
+/wp-content/themes/yootheme/fonts/font-6c8e9eca.woff2 1 17448 0 0
+//wp-config.php 1 0 1 1
+/wp-content/themes/yootheme/fonts/font-786190cd.woff 1 20348 0 0
+/wp-content/themes/yootheme/fonts/font-d413966d.woff 1 29952 0 0
+/wp-load.php 1 0 1 1
+/wp-content/themes/yootheme/fonts/font-a2a46b04.woff 1 20368 0 1
+/wp-content/themes/yootheme/fonts/font-b540570b.woff2 1 15816 0 0
+/wp-content/themes/yootheme/fonts/font-492b0cd6.woff2 1 15808 0 0
+/wp-content/themes/yootheme/fonts/font-2306b239.woff 1 20268 0 0
+/wp-content/themes/yootheme/fonts/font-be9da157.woff2 1 24452 0 0
+/wp-content/themes/yootheme/fonts/font-ba8b64b9.woff 1 29904 0 0
+/wp-content/themes/yootheme/fonts/font-68e4d7b6.woff 1 22204 0 0
+/wp-content/index.php 1 0 1 1
+http://www.hlalanathi.com/ 1 57679 1 1
+/wp-content/themes/yootheme/fonts/font-bb2b19fa.woff 1 20356 0 0
+END_SIDER

@@ -1,0 +1,1031 @@
+AWSTATS DATA FILE 7.6 (build 20161204)
+# If you remove this file, all statistics for date 201807 will be lost/reset.
+# Last config file used to build this data file was /home/uxqveunr/tmp/awstats/awstats.hlalanathi.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2011                
+POS_TIME 2686                
+POS_VISITOR 28731               
+POS_DAY 35608               
+POS_DOMAIN 3598                
+POS_LOGIN 4121                
+POS_ROBOT 4276                
+POS_WORMS 4934                
+POS_EMAILSENDER 5065                
+POS_EMAILRECEIVER 5208                
+POS_SESSION 36458               
+POS_SIDER 36666               
+POS_FILETYPES 5343                
+POS_DOWNLOADS 5641                
+POS_OS 6689                
+POS_BROWSER 7030                
+POS_SCREENSIZE 8803                
+POS_UNKNOWNREFERER 8877                
+POS_UNKNOWNREFERERBROWSER 9922                
+POS_ORIGIN 10283               
+POS_SEREFERRALS 10422               
+POS_PAGEREFS 10608               
+POS_SEARCHWORDS 11003               
+POS_KEYWORDS 11176               
+POS_MISC 2350                
+POS_ERRORS 11256               
+POS_CLUSTER 3977                
+POS_SIDER_404 11421               
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20180801010200 8 1364 15743644749725
+FirstTime 20180701000448
+LastTime 20180731184800
+LastUpdate 20180801142328 8 0 7 0 0
+TotalVisits 353                 
+TotalUnique 130                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 194                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+JavaEnabled 0 0 0
+QuickTimeSupport 0 0 0
+JavascriptDisabled 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+DirectorSupport 0 0 0
+AddToFavourites 0 0 0
+PDFSupport 0 0 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 13 14 175481 21 48 2875753
+1 10 15 355047 21 41 2271761
+2 17 17 261543 11 35 2882272
+3 9 10 105167 13 47 1786457
+4 22 22 143933 29 62 1486623
+5 13 14 105660 19 51 1855900
+6 17 20 440338 219 237 805071
+7 20 22 554736 26933 26936 792940
+8 21 78 3165720 26921 26944 2882693
+9 21 112 14784285 27127 27142 137515
+10 27 73 10240250 22015 22042 765754
+11 47 306 37932099 18 28 620446
+12 47 465 61401698 35 79 2724829
+13 52 165 16153246 69 98 2388749
+14 24 159 12011496 22 36 2006713
+15 27 192 35700936 16 31 1356170
+16 23 131 25663081 77 105 1183570
+17 10 37 1354128 8 18 69974
+18 15 39 1249927 5468 5488 1190478
+19 28 192 8290036 11504 11534 2916122
+20 14 75 12759769 11268 11283 1478118
+21 16 120 7962593 11313 11327 991333
+22 9 18 881505 5211 5238 859088
+23 23 114 4409775 33 57 2428726
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 21
+us 324 672 52690082
+za 123 1490 194571087
+ua 17 17 647239
+ru 16 18 520693
+cn 11 55 1954290
+fr 9 9 224695
+gb 5 55 2214141
+bz 3 5 217364
+ca 3 3 171327
+ec 2 18 261162
+br 2 34 1103820
+dk 2 3 153589
+kr 1 1 6172
+nl 1 1 73433
+it 1 1 58099
+ro 1 2 97941
+no 1 22 974342
+se 1 1 6172
+id 1 1 57489
+in 1 1 62468
+pt 0 1 36844
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 13
+googlebot 134 7240181 20180718083839 0
+bingpreview 133 5393033 20180729120642 0
+bot[\s_+:,\.\;\/\\-] 78 8639499 20180728170943 0
+bingbot/ 38 14458702 20180731095643 0
+Googlebot/ 32 269427 20180729202954 0
+spider 13 1148171 20180716200714 0
+Baiduspider/ 9 299038 20180731161349 0
+DuckDuckGo\-Favicons\-Bot/ 9 119930 20180731161345 0
+MJ12bot/ 6 352150 20180731050428 0
+no_user_agent 3 649995 20180715155744 0
+netcraft 2 117676 20180704023139 0
+GrapeshotCrawler/ 1 10707 20180724211020 0
+MegaIndex\.ru/ 1 10705 20180722101723 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 12
+jpeg 692 156980316 0 0
+js 530 14098440 0 0
+xml 4 4180 0 0
+woff 4 128080 0 0
+txt 35 40422 0 0
+html 238 7293772 0 0
+php 279 10825277 0 0
+gif 56 43197 0 0
+png 312 10723449 0 0
+pdf 19 1549317 0 0
+jpg 68 42951045 0 0
+css 173 11464954 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 14
+/wp-content/uploads/Rental-Application-Form-Ocean-View.pdf 23 0 1875489
+/.well-known/pki-validation/EC2330D7908E9E8AEB9E6EE0ACAB1686.txt 12 0 945
+/.well-known/pki-validation/9AD5BD24AB201743E732F2CE80EAF521.txt 5 0 385
+/.well-known/pki-validation/314F4DE310D9B506C56007CDE17AFFC1.txt 4 0 308
+/.well-known/pki-validation/7AF2486595C1746D33EA78522B80ABE5.txt 3 0 231
+/wp-content/plugins/contact-form-7/license.txt 2 0 37938
+/.well-known/pki-validation/C617047AE3894DB0433FBBD5FF11FCB9.txt 2 0 154
+/.well-known/pki-validation/6BF62B330E873B3A858A95F0FA720D53.txt 1 0 64
+/.well-known/pki-validation/21D0D4A7D9C10C45325BA43222C60132.txt 1 0 64
+/.well-known/pki-validation/3421A302419D4FE0405AA0E00819869C.txt 1 0 77
+/.well-known/pki-validation/7F0F4EC1C913670CD71DCC01844F48DD.txt 1 0 64
+/.well-known/pki-validation/21665036E9220A14524865504618089C.txt 1 0 64
+/.well-known/pki-validation/42CD8A8FD0EA9FA2E4FF28E9698B3CF0.txt 1 0 64
+/.well-known/pki-validation/9451EF147DCF79B196C2D592181A15A9.txt 1 0 64
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 21
+win2003 4 2
+linuxubuntu 1 1
+win7 478 71
+macosx 68 14
+Unknown 373 255
+winnt 119 20
+macosx5 1 1
+ios_iphone 84 7
+winunknown 16 1
+win8.1 272 45
+win8 24 2
+win10 455 35
+linuxandroid 436 36
+winxp 13 11
+macosx12 7 7
+linux 26 6
+unix 1 1
+macosx6 3 3
+j2me 23 1
+winlong 5 5
+macosx10 1 1
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 85
+opera52.0.2871.64 2 2
+chrome31.0.1650.57 2 2
+opera46.0.2597.57 1 1
+chrome12.0.742.112 1 1
+msie9.0 51 15
+edge17 1 0
+chrome61.0.3163.100 15 15
+msie11.0 614 57
+chrome66.0.3359.158 35 4
+chrome46.0.2486.0 4 1
+chrome58.0.3029.83 2 0
+safari11.0 84 7
+chrome46.0.2754.75 2 2
+chrome43.0.2357.93 26 2
+chrome14.0.813.0 1 0
+chrome45.0.2454.94 1 1
+chrome67.0.3396.99 268 27
+Unknown 279 246
+chrome41.0.2272.96 3 3
+netscape 1 1
+firefox52.0 11 2
+chrome58.0.3029.81 1 1
+firefox55.0 1 1
+firefox48.0 1 1
+firefox3.0 2 2
+chrome36.0.1985.67 1 1
+chrome59.0.3071.115 2 2
+chrome49.0.2623.75 2 1
+chrome53.6.1139.6301 1 1
+firefox11.0 1 0
+firefox54.0 1 1
+firefox50.0 1 0
+chrome17.0.963.66 1 0
+chrome43.0.2357.124 4 1
+chrome59.0.3071.125 6 0
+edge16 4 0
+chrome45.0.2454.101 6 0
+mozilla 13 6
+chrome65.0.3325.181 1 1
+safari11.1.2 9 2
+chrome55.0.2883.95 2 0
+chrome34.0.1847.131 1 1
+chrome68.0.3440.70 2 0
+chrome67.0.3396.87 170 12
+chrome56.1.6302.1039 1 1
+firefox57.0 70 13
+opera8.50 7 7
+safari 22 3
+firefox27.0 1 1
+firefox44.1 2 2
+chrome65.0.3325.109 42 2
+firefox40.1 4 4
+firefox35.0 1 1
+chrome55.0.2883.91 67 6
+opera12.16 113 5
+safari5.0.5 1 1
+firefox34.0 2 2
+chrome64.0.3282.137 1 0
+chrome60.0.3112.113 1 0
+chrome56.0.2924.87 49 2
+msie6.0 1 1
+chrome64.0.3282.186 2 2
+opera54.0.2952.54 1 0
+chrome44.0.2403.133 88 6
+chrome52.0.2743.98 2 0
+chrome42.0.2311.111 46 7
+chrome58.0.3029.110 1 1
+safari11.1 1 0
+firefox52.57.04 1 1
+msie7.0 4 2
+chrome62.0.3202.94 3 3
+firefox56.0 2 2
+chrome36.0.1985.143 52 4
+chrome34.0.1847.116 2 2
+chrome63.0.3239.132 24 7
+chrome53.0.2785.104 4 1
+chrome38.0.1025.166 9 0
+safari5.1 2 2
+firefox38.0 16 1
+chrome50.0.2661.89 1 0
+chrome60.0.3112.101 1 1
+firefox59.0 2 2
+chrome57.0.2987.133 1 1
+chrome12.0.742.105 1 1
+firefox61.0 122 5
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 16
+Mozilla 20180720200950
+Opera/9.80_(Android;_Opera_Mini/21.0.2254/105.76;_U;_en)_Presto/2.12.423_Version/12.16 20180708150220
+python-requests/2.19.1 20180714122430
+AHC/2.1 20180723163432
+Opera/9.80_(Android;_Opera_Mini/7.5.35263/105.73;_U;_en)_Presto/2.12.423_Version/12.16 20180703193107
+Mozilla/5.0_(compatible;_ips-agent) 20180722061148
+WordPress/4.9.6;_https://www.hlalanathi.com 20180705145044
+Opera/9.80_(Tizen;_Opera_Mini/7.7.18/105.64;_U;_en)_Presto/2.12.423_Version/12.16 20180701153529
+Mozilla/5.0_(compatible;_Dataprovider.com;) 20180709071324
+Mozilla/5.0_Firefox/35.0 20180722143746
+Python/3.6_aiohttp/2.3.2 20180702081240
+Go-http-client/1.1 20180718114409
+COMODO_DCV 20180730231118
+Opera/9.80_(Android;_Opera_Mini/33.0.2254/107.62;_U;_en)_Presto/2.12.423_Version/12.16 20180710162257
+Opera/9.80_(Android;_Opera_Mini/35.1.2254/105.73;_U;_en)_Presto/2.12.423_Version/12.16 20180702121725
+WordPress/4.9.7;_https://www.hlalanathi.com 20180731184800
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 7
+python-requests/2.19.1 20180714122430
+Python/3.6_aiohttp/2.3.2 20180702081240
+COMODO_DCV 20180730231118
+Go-http-client/1.1 20180718114409
+WordPress/4.9.7;_https://www.hlalanathi.com 20180731184800
+WordPress/4.9.6;_https://www.hlalanathi.com 20180705145044
+AHC/2.1 20180723163432
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 147 334
+From1 7 8
+From2 1 5
+From3 9 9
+From4 361 2054
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 3
+images_google_com 0 2
+google 0 2
+bing 1 1
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 6
+https://www.cjb.net 3 3
+http://resell-seo-services.com/try.php 2 2
+http://seoservices2018.com 1 1
+https://m.facebook.com 1 1
+https://www.blog100.org/online-traffic-problems-are-now-a-thing-of-the-past/4337220/ 1 1
+http://%20www.hlalanathi.com 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 1
+www.hlalanathi.com 1
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 1
+www.hlalanathi.com 1
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 8
+403 7 3192
+302 36 0
+503 2 5674
+400 2 2
+404 148264 13799
+206 2 24486
+301 96 478
+405 5 210
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 360
+/wp-content/plugins/apikey/login.php 1 hlalanathi.com
+/wp-content/plugins/magic-fields/MF_Constant.php 1 -
+/jingyan/temp/a9233.php 1 -
+/wp-content/plugins/wp-editor/readme.txt 1 -
+/wp-json/wp/v2/users 3 -
+/wp-content/uploads/2018/07/wp-insert.php 1 hlalanathi.com
+/wp-content/themes/bueno/timthumb.php 1 -
+/wp-content/plugins/woocommerce/assets/fonts/star.woff 1 http://www.hlalanathi.com/wp-content/themes/yootheme/css/theme.1.css
+/sys.php.php 1 -
+/haces/temp/a9233.php 1 -
+/blog/robots.txt 1 -
+/FlashChat/temp/a9233.php 1 -
+/libraries/phputf8/xost-locale.php 1 -
+/wp-content/plugins/wp-db-ajax-made/wp-ajax.php 1 -
+/browserconfig.xml 1 -
+/wp-includes/class-wp-customize.php 1 hlalanathi.com
+/include/dialog/select_soft_post.php 1 -
+/dbs.php 6 -
+/wp-content/plugins/apikey/sup_wp.php 1 -
+/smf/chat/upload.php 2 -
+/wp-content/plugins/fcchat/default.png 1 -
+/exploit/description/upload.php 1 -
+/wp-includes/IXR/login.php 1 hlalanathi.com
+/chat-sem-registo/upload.php 1 -
+/forum/chat/temp/a9233.php 1 -
+/sfn.php 2 -
+/wp-content/plugins/user-photo/admin.css 1 -
+/public/chat/temp/a9233.php 1 -
+/Tobey.php 1 -
+/wp-content/themes/yootheme/vendor/plugins/woocommerce/assets/images/icons/credit-cards/diners.png 1 http://www.hlalanathi.com/wp-content/themes/yootheme/css/theme.1.css
+/wp-content/themes/yootheme/vendor/plugins/woocommerce/assets/images/icons/credit-cards/discover.png 1 http://www.hlalanathi.com/wp-content/themes/yootheme/css/theme.1.css
+/wp-includes/pomo/login.php 1 hlalanathi.com
+/smf/chat/temp/a9233.php 2 -
+/wp-content/themes/themorningafter/timthumb.php 1 -
+/wp-content/themes/TheStyle/thumb.php 1 -
+/forums/chat/temp/a9233.php 1 -
+/xfchat/upload.php 1 -
+/wp-content/plugins/formcraft/file-upload/server/php/upload.php 1 hlalanathi.com
+/~duchen/chat/temp/a9233.php 1 -
+/login.action 1 -
+/sites/all/libraries/elfinder/php/connector.minimal.php 2 -
+/wp-content/plugins/page-google-maps/css/default.css 1 http://www.hlalanathi.com/wp-content/plugins/page-google-maps/css/default.css
+/index.action 1 -
+/joomla/robots.txt 1 -
+/wp-content/plugins/woocommerce-product-options/includes/image-upload.php 2 -
+/sitemap.xml 1 -
+/tinybrowser/upload.php 1 -
+/wp-content/plugins/simple-forum/editors/tinymce/plugins/tinybrowser/upload.php 1 -
+/wp-content/themes/delicate/timthumb.php 1 -
+/editors/tinymce/jscripts/tiny_mce/plugins/tinybrowser/upload.php 2 -
+/wp-content/plugins/mac-dock-gallery/bugslist.txt 1 -
+/bd/search 1 -
+/license.php 5 -
+/blog-chat/temp/a9233.php 1 -
+/wwwroot/addons/tinymce/plugins/tinybrowser/upload.php 1 -
+/chat-stjepkovica/upload.php 1 -
+/login.php 2 http://www.hlalanathi.com/login.php
+/forums/chat/upload.php 1 -
+/m/upload.php 1 -
+/okolice-ilawa/chat/temp/a9233.php 1 -
+/board/chat/temp/a9233.php 1 -
+/vendor/phpunit/phpunit/src/Util/PHP/asd.php 1 -
+/plus/download.php 2 -
+/chat-stjepkovica/temp/a9233.php 1 -
+/wp-content/plugins/ckeditor-for-wordpress/ckeditor.config.js 1 -
+/wp-content/plugins/revslider/sfn.php 2 -
+/wp-includes/wp-simple.php 1 -
+/connectors/system/phpthumb.php 7 -
+/php/tinybrowser/upload.php 1 -
+/search/temp/a9233.php 1 -
+/chatroom/temp/a9233.php 1 -
+/wp-content/plugins/font-uploader/font-uploader-free.php 1 -
+/radio/radiochat/temp/a9233.php 1 -
+/tmp.php 1 -
+/websci/radio/radiochat/upload.php 1 -
+/Chat/temp/a9233.php 1 -
+/m/video/upload.php 1 -
+/radiopoljubac/posts/temp/a9233.php 1 -
+/wp-content/plugins/woocommerce-products-filter/css/front.css 1 http://www.hlalanathi.com/wp-content/plugins/woocommerce-products-filter/css/front.css
+/wp-content/plugins/wp-time-capsule/tc-ui.css 1 hlalanathi.com
+/search/upload.php 1 -
+/chat-bebica/upload.php 1 -
+/Chat/Chat/temp/a9233.php 1 -
+/wp-content/plugins/wp-filemanager/fm.php 1 -
+/wp-content/themes/irresistible/timthumb.php 1 -
+/wp-content/plugins/category-grid-view-gallery/cat_grid.php 1 -
+/music-search/temp/a9233.php 1 -
+/wp-admin/network/links-list-table.php 1 -
+/wp-content/plugins/jquery-html5-file-upload/jquery-html5-file-upload.php 2 -
+/FlashChat/upload.php 1 -
+/chat/FlashChat_v608/chat/upload.php 1 -
+/wp-admin/wp-insert.php 1 hlalanathi.com
+/wp-content/plugins/woocommerce/assets/fonts/star.eot 1 http://www.hlalanathi.com/wp-content/themes/yootheme/css/theme.1.css
+/Tchate/flashchat/temp/a9233.php 1 -
+/upload.php 1 -
+/temp/a9233.php 1 -
+/static/js/tiny_mce/plugins/tinybrowser/upload.php 2 -
+/radio/radiochat/upload.php 1 -
+/roommate/flash_chat/temp/a9233.php 1 -
+/wp-content/plugins/another-wordpress-classifieds-plugin/AWPCP.po 1 -
+/wp-dba.php 1 -
+/~duchen/chat/upload.php 1 -
+//wp-content/uploads/kc_extensions/reup/upload.php 1 -
+/wp-content/themes/typebased/timthumb.php 1 -
+/wp-uti.php 1 -
+/cms/chat/temp/a9233.php 1 -
+/wp-login.php 147641 -
+/wp-content/themes/bueno/thumb.php 1 -
+/wp-content/test.php 1 http://hlalanathi.com/wp-content/test.php
+/exploits/28709/temp/a9233.php 1 -
+/how-to-install-flashchat-free/temp/a9233.php 1 -
+/wp-content/plugins/user-meta/readme.txt 1 -
+/tag/flashchat-v6-0-8/temp/a9233.php 1 -
+/wp-content/plugins/cimy-user-extra-fields/README_OFFICIAL.txt 1 -
+/social/temp/a9233.php 1 -
+/wp-content/uploads/2018/04/sup_wp.php 1 -
+/wp-post.php 1 -
+/tiny_mce/plugins/tinybrowser/upload.php 2 -
+/wp-content/uploads/2018/06/wp-insert.php 1 hlalanathi.com
+//wp-content/plugins/cherry-plugin/admin/import-export/upload.php 1 -
+/wp-content/themes/SimplePress/timthumb.php 1 -
+/wp-content/plugins/apikey/apikey.php 1 http://hlalanathi.com/wp-content/plugins/apikey/apikey.php
+/wp-ontent/plugins/wp-db-ajax-made/login.php 1 hlalanathi.com
+/public/javascripts/tiny_mce/plugins/tinybrowser/upload.php 1 -
+/wp-content/themes/canvas/timthumb.php 1 -
+/wp-content/plugins/log.php 1 http://hlalanathi.com/wp-content/plugins/log.php
+/Chat/Chat/upload.php 1 -
+/en/temp/a9233.php 1 -
+/ldp.php 1 -
+/wp-includes/login.php 1 hlalanathi.com
+/wp-includes/sup_wp.php 1 -
+/baixar/upload.php 1 -
+/chat-bebica/temp/a9233.php 1 -
+/code.php.php 1 -
+/wp-content/uploads/settingsimages/68896.php 1 -
+/wp-content/themes/metamorphosis/thumb.php 1 -
+/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/shbt/upload.php 1 -
+/wp-content/plugins/front-end-upload/destination.php 2 -
+/wp-content/uploads/2018/05/login.php 1 hlalanathi.com
+/e107_plugins/onlineinfo_menuupload.php 1 -
+/flikQ/rocketeercms/blob/master/themes/admin/assets/js/tiny_mce/plugins/tinybrowser/upload.php 1 -
+/wp-content/plugins/three-column-screen-layout/sup_wp.php 1 -
+/wp-content/themes/RightNow/includes/uploadify/upload_settings_image.php 1 -
+/ 85 http://hlalanathi.com/
+/groupes/ 1 hlalanathi.com/groupes/
+/wp-content/plugins/custom-content-type-manager/index.html 1 -
+/js/tiny_mce/plugins/tinybrowser/upload.php 1 -
+/blog-chat/chat/upload.php 1 -
+/how-to-install-flashchat-free/upload.php 1 -
+/cms/chat/upload.php 1 -
+/wp-content/uploads/login.php 1 hlalanathi.com
+/wp-content/plugins/woocommerce/assets/images/icons/loader.svg 1 http://www.hlalanathi.com/wp-content/themes/yootheme/css/theme.1.css
+/wp-content/login.php 1 hlalanathi.com
+/e-dinar-chat/upload.php 1 -
+/wp-content/themes/delicate/thumb.php 1 -
+/chat/upload.php 1 -
+/modules/mod_simplefileuploadv1.3/elements/udd.php 2 -
+/forum.php 1 -
+/assets/components/gallery/connector.php 1 hlalanathi.com
+/wp-content/themes/yootheme/vendor/plugins/woocommerce/assets/images/icons/credit-cards/visa.png 1 http://www.hlalanathi.com/wp-content/themes/yootheme/css/theme.1.css
+/wp-content/plugins/simple-dropbox-upload-form/index.php 1 -
+/plus/moon.php 1 -
+/wp-content/themes/yootheme/vendor/plugins/woocommerce/assets/images/icons/credit-cards/jcb.png 1 http://www.hlalanathi.com/wp-content/themes/yootheme/css/theme.1.css
+/wp-content/themes/TheProfessional/timthumb.php 1 -
+/live/chat/upload.php 1 -
+/admin/lib/tiny_mce/plugins/tinybrowser/upload.php 2 -
+/wp-content/plugins/wpmarketplace/readme.txt 2 -
+/board/chat/upload.php 1 -
+/wp-content/plugins/wp-image-news-slider/functions.php 1 -
+/wp-content/plugins/mailpress/mp-admin/css/user.css 1 http://www.hlalanathi.com/wp-content/plugins/mailpress/mp-admin/css/user.css
+/mp3/list/upload.php 1 -
+/cchat/chat/temp/a9233.php 1 -
+/wp-content/uploads/2018/07/test.php 1 http://hlalanathi.com/wp-content/uploads/2018/07/test.php
+/administrator/index.php 2 -
+/o/BhGCe/forums.e-mpire.com/chat/temp/a9233.php 1 -
+/cat-bin/tools/login/lib/tiny_mce/plugins/tinybrowser/upload.php 1 -
+/wp-icoud.php 1 -
+/islamski-chat/upload.php 1 -
+/wp-content/plugins/formcraft/file-upload/server/content/upload.php 1 -
+/vid/watch/temp/a9233.php 1 -
+/exploits/28709/upload.php 1 -
+/roommate/flash_chat/upload.php 1 -
+/flashchat/chat/temp/a9233.php 1 -
+/wp-content/plugins/wp-property/action_hooks.php 1 -
+/plugins/editors/tinymce/jscripts/tiny_mce/plugins/tinybrowser/upload.php 1 -
+/install/index.php.bak 1 -
+/radiodalmatino/upload.php 1 -
+/exploit/description/temp/a9233.php 1 -
+/wp-content/themes/typebased/thumb.php 1 -
+/forum/chat/upload.php 1 -
+/wp-content/themes/yootheme/vendor/plugins/woocommerce/assets/images/icons/credit-cards/amex.png 1 http://www.hlalanathi.com/wp-content/themes/yootheme/css/theme.1.css
+/wp-dbs.php 1 -
+/wp-content/plugins/ubh/up.php 1 http://www.hlalanathi.com/wp-content/plugins/ubh/up.php
+/pictur.php 1 hlalanathi.com
+/Association/wp-content/plugins/simple-forum/editors/tinymce/plugins/tinybrowser/upload.php 1 -
+/FlashChat_v6.0.8_/chat/temp/a9233.php 1 -
+/media/system/js/calendar-setup.js 1 hlalanathi.com
+/wp-content/plugins/wp-easycart/inc/amfphp/administration/banneruploaderscript.php 1 -
+/wp-content/themes/SimplePress/thumb.php 1 -
+/flashchat-2/temp/a9233.php 1 -
+/jscripts/tiny_mce/plugins/tinybrowser/upload.php 1 -
+/wp-content/plugins/wp-e-commerce/license.txt 1 -
+/wp-content/themes/metamorphosis/timthumb.php 1 -
+/wp-content/themes/yootheme/cache/layoutb1-e35894de.png 2 -
+/topic/page/temp/a9233.php 1 -
+/chat/FlashChat_v608/chat/temp/a9233.php 1 -
+/wp-content/plugins/gallery-plugin/gallery-plugin.php 1 -
+/wp-content/plugins/wp-homepage-slideshow/functions.php 1 -
+/topic/page/upload.php 1 -
+/wp-content/plugins/woocommerce/assets/fonts/WooCommerce.ttf 1 http://www.hlalanathi.com/wp-content/themes/yootheme/css/theme.1.css
+/chat/chat/upload.php 1 -
+/wp-content/plugins/user-avatar/readme.txt 1 -
+/ads.txt 1 -
+/blog-chat/upload.php 1 -
+/wp-content/themes/pikture/login.php 1 hlalanathi.com
+/kickstart.php 1 -
+/foro/chat/upload.php 1 -
+/mp3/list/temp/a9233.php 1 -
+/plus/read.php 1 -
+/foro/chat/temp/a9233.php 1 -
+/islamski-chat/temp/a9233.php 1 -
+/search.php 1 -
+/deface_flashchat/upload.php 1 -
+/wp-content/themes/premiumnews/timthumb.php 1 -
+/wp-content/plugins/JumanNafis/Vand.php 1 http://www.hlalanathi.com/wp-content/plugins/JumanNafis/Vand.php
+/wp-content/plugins/delete-all-comments/readme.txt 1 http://hlalanathi.com/wp-content/plugins/delete-all-comments/readme.txt
+/wp-content/themes/yootheme/vendor/plugins/woocommerce/assets/images/ajax-loader.gif 1 http://www.hlalanathi.com/wp-content/themes/yootheme/css/theme.1.css
+/radiodalmatino/temp/a9233.php 1 -
+/Tchate/flashchat/upload.php 1 -
+/tag/flashchat-v6-0-8/upload.php 1 -
+/wp-content/themes/premiumnews/thumb.php 1 -
+/blog/administrator/index.php 1 -
+/wp-content/plugins/woocommerce-checkout-manager/includes/pickers/css/backend_css.css 1 hlalanathi.com
+/wp-content/plugins/nmedia-user-file-uploader/readme.txt 1 -
+/wp-content/plugins/woocommerce/assets/fonts/WooCommerce.woff 1 http://www.hlalanathi.com/wp-content/themes/yootheme/css/theme.1.css
+/live/chat/temp/a9233.php 1 -
+/cchat/chat/upload.php 1 -
+/wp-content/plugins/login.php 1 hlalanathi.com
+/chat55/upload.php 1 -
+/page/video/upload.php 1 -
+/wp-content/plugins/three-column-screen-layout/login.php 1 hlalanathi.com
+/wp-ajax.php 1 -
+/haces/upload.php 1 -
+/wp-content/themes/TheProfessional/thumb.php 1 -
+/wp-logos.php 1 -
+/m/video/temp/a9233.php 1 -
+/wp-content/plugins/cherry-plugin/admin/import-export/upload.php 1 -
+/wp-content/themes/skeptical/timthumb.php 1 -
+/blog-chat/chat/temp/a9233.php 1 -
+/wp-content/plugins/wp-easycart/products/banners/15cbf_1.php 1 -
+/chat-sem-registo/temp/a9233.php 1 -
+/wp-content/plugins/auto-attachments/a-a.css 1 -
+/wp-content/plugins/woocommerce/assets/fonts/WooCommerce.eot 1 http://www.hlalanathi.com/wp-content/themes/yootheme/css/theme.1.css
+/community/chat/upload.php 1 -
+/public/chat/upload.php 1 -
+/tinymce_pt/jscripts/tiny_mce/plugins/tinybrowser/upload.php 1 -
+/js/mage/cookies.js 1 hlalanathi.com
+/flashchat/chat/upload.php 1 -
+/wp-content/themes/yootheme/vendor/plugins/woocommerce/assets/images/icons/credit-cards/mastercard.png 1 http://www.hlalanathi.com/wp-content/themes/yootheme/css/theme.1.css
+/mobile_detect.php 1 -
+/wp-content/plugins/woocommerce/assets/fonts/WooCommerce.svg 1 http://www.hlalanathi.com/wp-content/themes/yootheme/css/theme.1.css
+/wp-content/plugins/woocommerce/assets/fonts/star.svg 1 http://www.hlalanathi.com/wp-content/themes/yootheme/css/theme.1.css
+/tiny_mce/plugins/tinybrowser/upload_file.php 2 -
+/wp-content/themes/skeptical/thumb.php 1 -
+/wp-content/uploads/sfn.php 2 -
+/sq52zr.php 1 -
+/wp-content/uploads/404.php 1 -
+/e-dinar-chat/temp/a9233.php 1 -
+/wp-content/themes/yootheme/cache/layoutpdf-2c3a8499.png 2 -
+/wp-content/plugins/Login-wall-etgFB/login_wall.php 2 -
+/wp-content/plugins/woocommerce/assets/fonts/star.ttf 1 http://www.hlalanathi.com/wp-content/themes/yootheme/css/theme.1.css
+/FlashChat_v6.0.8_/chat/upload.php 1 -
+/wp-content/plugins/ninja-forms/ninja_forms.php 1 -
+/scripts/tiny_mce/plugins/tinybrowser/upload.php 1 -
+/administrator/components/com_xcloner-backupandrestore/index2.php 1 -
+/wp-cahce.php 1 http://hlalanathi.com/wp-cahce.php
+/Chat/upload.php 1 -
+/wp-content/plugins/temp.php 1 http://hlalanathi.com/wp-content/plugins/temp.php
+/wp-content/plugins/zingiri-web-shop/admin.css 1 -
+/admin/ 1 -
+/wp-content/plugins/revslider/temp/update_extract/sfn.php 2 -
+/62305.php 1 -
+/wp-cson.php 1 -
+/tinybrowser/tree/tinybrowser/upload.php 1 -
+/wp-includes/generalwtemplate.php 1 hlalanathi.com
+/m/temp/a9233.php 1 -
+/e107_plugins/onlineinfo_menutemp/a9233.php 1 -
+/music-search/upload.php 1 -
+/painel/scripts/tiny_mce/plugins/tinybrowser/upload.php 1 -
+/deface_flashchat/temp/a9233.php 1 -
+/wp-content/themes/zwaters/login.php 1 hlalanathi.com
+/wp-content/sup_wp.php 1 -
+/joomla/administrator/index.php 1 -
+/social/upload.php 1 -
+/sohbet/upload.php 1 -
+/chat55/temp/a9233.php 1 -
+/wp-content/themes/twentyfourteen/404.php 1 -
+/page/video/temp/a9233.php 1 -
+/wp-includes/wp-insert.php 1 hlalanathi.com
+/sup_wp.php 1 -
+/wp-content/plugins/all-in-one-seo/aioseop_class.php 1 -
+/js/tinymce/plugins/tinybrowser/upload.php 1 -
+/uploadify/uploadify.php 3 -
+/wp-includes/Text/Tiff.php 2 -
+/vid/watch/upload.php 1 -
+/wp-content/plugins/asset-manager/upload.php 1 -
+/wp-content/themes/themorningafter/thumb.php 1 -
+/wp-includes/pomo/pictur.php 1 hlalanathi.com
+/.git/HEAD 1 -
+/wp-content/uploads/assets/temp/6e31c.php 1 -
+/wp-content/themes/yootheme/vendor/plugins/woocommerce/assets/images/icons/credit-cards/maestro.png 1 http://www.hlalanathi.com/wp-content/themes/yootheme/css/theme.1.css
+/projects/bilardII/resources/js/tiny_mce/plugins/tinybrowser/upload.php 1 -
+/wp-content/uploader.php.suspected 1 http://www.hlalanathi.com/wp-content/uploader.php.suspected
+/FlashChat_v608/chat/temp/a9233.php 1 -
+/o/BhGCe/forums.e-mpire.com/chat/upload.php 1 -
+/blog/xmlrpc.php 1 -
+/robots.txt 129 -
+/assets/modules/evogallery/js/uploadify/uploadify.php 1 -
+/wp-content/themes/TheStyle/timthumb.php 1 -
+/jingyan/upload.php 1 -
+/wp-content/themes/Nova/thumb.php 1 -
+/okolice-ilawa/chat/upload.php 1 -
+/baixar/temp/a9233.php 1 -
+/websci/radio/radiochat/temp/a9233.php 1 -
+/tutaf/upload.php 1 -
+/community/chat/temp/a9233.php 1 -
+/wp-content/yt.php 1 http://hlalanathi.com/wp-content/yt.php
+/wp-content/uploads/2018/06/login.php 1 hlalanathi.com
+/shbt/temp/a9233.php 1 -
+/wp-content/themes/irresistible/thumb.php 1 -
+/FlashChat_v608/chat/upload.php 1 -
+/user/password 3 -
+/radiopoljubac/posts/upload.php 1 -
+/wp-content/themes/canvas/thumb.php 1 -
+/wp-admin/includes/wp-insert.php 1 hlalanathi.com
+/tutaf/temp/a9233.php 1 -
+/chatroom/upload.php 1 -
+/wp-content/plugins/wpstorecart/lgpl.txt 1 -
+/wp-admin/includes/sup_wp.php 1 -
+/en/upload.php 1 -
+/wp-content/themes/Nova/timthumb.php 1 -
+/plus/ad_js.php 2 -
+/wp-content/themes/yootheme/vendor/plugins/woocommerce/assets/images/icons/credit-cards/laser.png 1 http://www.hlalanathi.com/wp-content/themes/yootheme/css/theme.1.css
+/wp-content/uploads/2018/05/sup_wp.php 1 -
+/chat/chat/temp/a9233.php 1 -
+/wp-content/plugins/shortcodes-ultimate/assets/css/rtl-admin.css 1 http://www.hlalanathi.com/wp-content/plugins/shortcodes-ultimate/assets/css/rtl-admin.css
+/data/cache/asd.php 1 -
+/user/register/ 4 -
+/sohbet/temp/a9233.php 1 -
+/xfchat/temp/a9233.php 1 -
+/flashchat-2/upload.php 1 -
+/wp-content/plugins/yana12/pictur.php 2 hlalanathi.com
+/public/js/tiny_mce/plugins/tinybrowser/upload.php 1 -
+/wp-content/plugins/nextgen-gallery/changelog.txt 1 -
+/404.php 1 -
+/wp-content/themes/zwater/login.php 1 hlalanathi.com
+/wp-content/plugins/zen-mobile-app-native/server/images.php 1 -
+/chat/temp/a9233.php 1 -
+/user/register 3 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 194
+192.249.121.134 243 273 24255 20180731184800
+41.13.246.66 25 36 10642656 20180716134033
+197.97.212.29 22 409 65277640 20180730125354
+52.53.201.78 13 13 433865 20180730052713
+105.247.242.2 9 48 2161532 20180716102748
+163.195.24.196 8 58 1546623 20180725151506
+185.234.217.34 6 6 157501 20180717234621
+66.249.93.4 6 43 2665951 20180714171917
+169.1.68.81 6 30 1721562 20180716141554
+66.249.93.6 5 40 2197033 20180714171914
+64.85.24.24 4 4 230198 20180726082049
+41.113.37.2 4 63 15660377 20180705122840
+193.169.252.83 4 4 51911 20180715134116
+105.247.200.190 3 76 11637464 20180710113229
+23.80.147.154 3 3 32160 20180725180425
+181.177.110.156 3 5 217364 20180702062040
+80.93.187.145 3 3 182950 20180717203951
+107.152.241.70 3 30 10517845 20180717110925
+139.199.186.116 3 3 18440 20180715222619
+197.229.0.106 3 34 992167 20180719212905
+192.99.44.141 3 3 171327 20180709071326
+196.15.164.146 3 30 1327589 20180725083739
+138.128.4.3 3 28 8808864 20180717154916
+94.231.110.193 2 2 153154 20180717101808
+104.192.74.38 2 2 21670 20180720200950
+69.171.240.253 0 1 14585 
+91.206.194.237 1 1 61097 20180719133539
+197.229.0.42 1 7 278862 20180704165729
+148.64.24.119 0 1 36844 
+82.145.221.184 0 2 73688 
+125.132.55.160 1 1 6172 20180713104751
+164.151.129.220 0 3 0 
+212.129.15.42 1 1 6172 20180714101936
+78.152.183.243 1 1 86558 20180716125032
+82.145.222.143 0 1 36844 
+212.83.177.250 1 1 6172 20180714084120
+41.114.183.20 0 1 36844 
+41.2.179.72 2 18 838776 20180711230607
+41.113.204.114 0 1 36844 
+82.145.223.32 0 1 36844 
+212.129.15.92 1 1 10836 20180720164647
+163.172.122.165 1 1 57489 20180730002319
+169.255.79.56 0 2 73688 
+193.106.30.99 2 2 63330 20180714040856
+141.0.13.19 1 21 892799 20180703193104
+41.87.199.2 0 1 36844 
+105.228.15.48 0 1 36844 
+41.145.75.128 0 2 36844 
+187.4.31.147 1 17 842659 20180717190905
+185.77.248.4 0 1 36844 
+41.13.224.133 2 62 12559230 20180711203635
+69.4.81.82 1 1 66596 20180717110743
+66.249.83.213 0 1 36844 
+134.249.50.5 1 1 58036 20180720102450
+41.114.245.64 2 42 2292669 20180711123218
+139.99.100.120 1 1 58857 20180703164619
+45.33.74.241 1 10 4889335 20180728165829
+134.249.50.185 2 2 114978 20180726031128
+66.249.93.2 2 40 1592302 20180708191824
+197.229.0.235 1 14 776369 20180718184207
+66.249.83.211 0 2 73688 
+37.1.204.92 2 2 133237 20180701113059
+45.33.72.115 1 1 58808 20180702062457
+105.228.194.26 0 1 36844 
+196.13.106.65 0 1 36844 
+89.151.179.227 2 2 12344 20180713072305
+212.237.33.125 0 1 435 
+124.206.180.180 1 1 57489 20180722143746
+101.226.113.53 1 8 375592 20180702143200
+106.201.133.235 1 1 62468 20180717234611
+82.145.222.162 1 21 892799 20180703193104
+209.236.116.247 1 16 834946 20180708170952
+69.58.178.57 1 1 57489 20180722061148
+120.92.11.152 1 1 66596 20180717113556
+79.137.69.80 1 1 58099 20180708000312
+201.6.128.215 1 17 261161 20180722211129
+41.180.1.122 0 4 110532 
+197.229.0.79 0 1 44722 
+164.151.5.19 0 1 36844 
+34.217.0.201 1 1 862 20180704174854
+141.0.13.191 0 1 36844 
+41.13.200.50 0 1 36844 
+120.92.11.91 0 1 10056 
+185.137.49.197 2 2 12344 20180716070236
+144.217.15.227 1 1 158 20180714130516
+52.56.238.24 1 1 57489 20180723163432
+107.172.245.121 1 1 6172 20180716094954
+105.249.148.151 0 1 36844 
+120.92.11.231 0 1 97184 
+94.23.20.139 1 1 10835 20180721042821
+62.109.28.203 1 1 0 20180726160801
+197.229.0.213 1 9 272816 20180718184215
+141.0.12.66 1 21 277666 20180730104140
+196.38.105.69 1 1 58808 20180703085831
+46.105.30.8 1 1 58808 20180701121832
+91.210.147.89 2 2 10932 20180729210433
+169.1.68.238 0 1 36844 
+197.97.116.162 0 1 36844 
+46.101.9.216 1 1 73433 20180716193141
+195.154.166.8 1 1 10704 20180722154829
+197.229.0.109 1 20 1200869 20180710132856
+64.246.178.34 1 1 10706 20180722154223
+163.172.4.153 1 1 10706 20180730025814
+61.151.178.177 2 16 758004 20180717113705
+197.229.0.24 0 1 36844 
+18.207.198.28 1 1 10834 20180720153745
+51.15.146.39 1 1 57489 20180723230011
+35.205.216.250 1 1 57489 20180727114337
+23.88.23.49 2 2 116221 20180707042605
+66.249.81.13 0 1 36844 
+178.32.147.150 1 1 6172 20180713002552
+82.145.221.154 1 22 974342 20180701153431
+197.229.0.46 0 1 36844 
+213.231.61.149 1 1 58808 20180703135742
+95.181.179.63 2 4 155554 20180703011848
+197.229.0.83 1 12 499773 20180719212759
+120.92.11.224 1 1 57109 20180710122700
+66.249.83.209 0 4 147376 
+69.171.240.251 0 1 5065 
+165.255.240.11 0 1 36844 
+169.1.68.245 0 1 36844 
+18.237.212.252 1 1 10835 20180720123709
+197.229.0.93 2 3 154293 20180710133027
+197.184.188.222 0 1 36844 
+105.255.227.194 2 21 1322491 20180725082045
+82.102.27.55 0 1 36844 
+91.199.212.132 0 3 252 
+34.243.243.119 1 1 58050 20180705093425
+66.102.7.6 0 1 36844 
+105.0.3.97 2 24 1200603 20180705085817
+41.13.212.57 2 39 11109839 20180709110157
+69.171.240.250 1 3 177672 20180714112725
+165.143.155.55 0 1 36844 
+197.97.29.82 0 2 36844 
+112.5.248.211 1 1 6172 20180714064345
+185.26.180.147 1 22 974342 20180703192111
+105.248.231.158 2 37 10293299 20180723154211
+105.255.228.193 1 42 6398670 20180704135645
+75.149.221.170 2 2 63661 20180722065658
+190.57.140.96 2 18 261162 20180726164304
+192.143.42.25 2 72 16873534 20180702145611
+196.23.173.225 0 2 36844 
+41.13.250.68 0 1 0 
+41.13.152.99 0 1 36844 
+197.97.117.34 0 1 36844 
+107.150.95.3 0 1 36844 
+66.249.88.133 0 1 36844 
+169.1.145.243 2 46 13419399 20180702090310
+107.172.245.122 2 2 117737 20180701024630
+41.114.218.158 2 47 2094825 20180725191112
+164.151.130.61 0 1 36844 
+209.203.21.162 0 1 36844 
+120.92.11.27 0 1 97184 
+193.15.16.4 1 1 6172 20180713002548
+41.114.212.119 2 23 661552 20180730141515
+120.92.11.56 0 1 11721 
+41.13.246.102 0 1 0 
+8.28.16.254 1 1 58050 20180705143326
+104.197.1.179 1 1 61656 20180718114409
+45.77.107.209 1 1 57109 20180708140828
+69.171.240.246 1 3 34422 20180714112722
+34.219.148.208 1 1 10705 20180724190140
+41.169.73.129 0 2 73688 
+46.60.254.27 0 1 36844 
+196.23.154.76 2 48 5024176 20180718125745
+92.243.28.45 1 1 57507 20180724160138
+120.92.11.170 0 1 11721 
+172.245.85.145 2 2 116221 20180705021551
+47.106.117.8 1 18 376966 20180726134118
+82.145.222.23 0 1 36844 
+196.25.19.21 0 1 36844 
+35.177.136.250 1 1 6172 20180713064836
+104.144.161.166 1 1 10705 20180726044748
+94.130.140.243 1 1 11399 20180719133618
+197.229.0.67 1 21 892808 20180710132725
+206.180.165.147 1 1 58050 20180708073017
+202.80.213.121 1 1 57489 20180723173812
+41.0.231.128 0 1 36844 
+41.0.230.228 0 1 36844 
+41.13.4.209 2 42 3102722 20180709233512
+64.246.165.210 1 1 58050 20180704185247
+120.92.11.147 0 1 10056 
+34.249.29.68 1 1 58808 20180702081240
+38.100.21.62 2 4 402609 20180706094105
+105.227.204.148 1 1 57489 20180730105927
+41.164.246.42 0 1 36844 
+178.159.100.148 1 1 58050 20180705161817
+41.114.230.54 0 1 36844 
+212.83.162.240 1 1 57489 20180722235940
+196.24.240.252 0 1 36844 
+196.21.118.161 2 48 6666629 20180729214153
+197.229.0.146 0 1 36844 
+41.13.200.111 2 14 10705 20180725114910
+197.229.0.14 1 18 1007855 20180704165935
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 31
+20180701 15 36 1343003 12
+20180702 17 143 31114037 10
+20180703 16 83 3298151 15
+20180704 16 123 10751076 15
+20180705 24 128 18575379 16
+20180706 10 15 559514 8
+20180707 8 8 116292 5
+20180708 22 81 3630646 16
+20180709 19 114 15395183 13
+20180710 21 184 16701481 12
+20180711 9 131 15874895 6
+20180712 9 11 86032 7
+20180713 16 20 161721 11
+20180714 23 36 506980 20
+20180715 10 10 64217 6
+20180716 51 86 12708888 16
+20180717 29 110 21290725 17
+20180718 16 87 6307205 14
+20180719 9 59 1830222 7
+20180720 14 18 222743 13
+20180721 6 9 132201 5
+20180722 17 38 623059 15
+20180723 19 59 10833279 15
+20180724 16 114 20942155 9
+20180725 29 213 15219130 16
+20180726 28 118 1836439 17
+20180727 11 50 734771 7
+20180728 4 13 4900041 4
+20180729 10 53 6091082 6
+20180730 23 252 34230490 14
+20180731 8 8 21412 6
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+0s-30s 290
+30mn-1h 27
+1h+ 7
+30s-2mn 5
+5mn-15mn 9
+2mn-5mn 6
+15mn-30mn 9
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 14
+/wp-cron.php 241 611 180 179
+/ 235 7153120 160 158
+/wp-admin/admin-ajax.php 26 10574069 1 2
+/index.php 6 248850 6 5
+/wp-content/plugins/maintenance/load/fonts/foundation-icons.woff 4 128080 2 3
+/wp-includes/wlwmanifest.xml 4 4180 1 1
+/xmlrpc.php 2 1089 1 2
+/wp-content/ 1 0 0 1
+/wp-content/plugins/hello.php 1 158 1 1
+/wp-content/themes/yootheme/header.php 1 167 0 0
+/wp-content/themes/yootheme/index.php 1 166 0 1
+/readme.html 1 7415 0 0
+/wp-content/themes/yootheme/footer.php 1 167 0 0
+/wp-content/uploads/ 1 133237 1 0
+END_SIDER

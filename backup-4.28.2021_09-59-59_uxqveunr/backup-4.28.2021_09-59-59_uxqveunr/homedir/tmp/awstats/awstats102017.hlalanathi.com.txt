@@ -1,0 +1,472 @@
+AWSTATS DATA FILE 7.4 (build 20140726)
+# If you remove this file, all statistics for date 201710 will be lost/reset.
+# Last config file used to build this data file was /home/uxqveunr/tmp/awstats/awstats.hlalanathi.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2011                
+POS_TIME 2689                
+POS_VISITOR 10500               
+POS_DAY 12535               
+POS_DOMAIN 3472                
+POS_LOGIN 3881                
+POS_ROBOT 4036                
+POS_WORMS 4434                
+POS_EMAILSENDER 4565                
+POS_EMAILRECEIVER 4708                
+POS_SESSION 13285               
+POS_SIDER 13476               
+POS_FILETYPES 4843                
+POS_DOWNLOADS 5067                
+POS_OS 5171                
+POS_BROWSER 5434                
+POS_SCREENSIZE 6280                
+POS_UNKNOWNREFERER 6354                
+POS_UNKNOWNREFERERBROWSER 6884                
+POS_ORIGIN 7119                
+POS_SEREFERRALS 7255                
+POS_PAGEREFS 7410                
+POS_SEARCHWORDS 7587                
+POS_KEYWORDS 7739                
+POS_MISC 2353                
+POS_ERRORS 7798                
+POS_CLUSTER 3737                
+POS_SIDER_404 7925                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20171101015539 19 3693 11633737017084
+FirstTime 20171001023448
+LastTime 20171031235415
+LastUpdate 20171101140602 19 0 18 0 0
+TotalVisits 181                 
+TotalUnique 47                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 51                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+JavaEnabled 0 0 0
+DirectorSupport 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+AddToFavourites 0 0 0
+FlashSupport 0 0 0
+TotalMisc 0 0 0
+QuickTimeSupport 0 0 0
+RealPlayerSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 9 9 90063 20 31 969812
+1 0 0 0 0 5 11454
+2 10 10 133527 14 102 16526679
+3 4 4 44509 3 44 8009113
+4 12 12 165684 9 12 95648
+5 11 11 178036 21 98 13158602
+6 9 48 7781116 7 70 11490050
+7 2 2 44509 1 5 1227700
+8 10 12 211898 6 12 153882
+9 14 57 8036028 6 23 1682475
+10 9 13 746836 9 19 1527376
+11 17 58 5333023 6 18 1220696
+12 9 48 7781116 8 14 1372935
+13 3 3 0 14 19 316696
+14 8 8 153288 5 47 7697944
+15 16 55 7915688 6 12 22548
+16 6 7 127681 5 6 149885
+17 11 11 90063 13 54 7685438
+18 14 14 223407 9 57 7971419
+19 8 53 9115672 10 16 194369
+20 8 11 708173 8 91 16288144
+21 15 56 7961604 25 89 8298237
+22 9 53 10773827 2 42 9094307
+23 5 5 45554 7 52 7758817
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 13
+us 153 204 12316429
+za 17 221 36741657
+ca 12 12 497008
+ua 10 10 227770
+ru 9 11 402171
+gb 6 51 9338217
+nl 3 3 133527
+ug 2 41 7736607
+cn 2 2 89018
+fr 2 2 45371
+ph 1 1 44509
+eu 1 1 44509
+ma 1 1 44509
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 7
+bingpreview 488 99237263 20171030212053 0
+bot[\s_+:,\.\;\/\\-] 93 18969250 20171031205514 0
+spider 38 2209631 20171031134343 0
+googlebot 30 2290040 20171031235437 0
+crawl 2 89018 20171027193758 0
+no_user_agent 1 44509 20171003044323 0
+slurp 1 44509 20171029210913 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 9
+js 62 2344502 0 0
+gif 7 5929 0 0
+html 78 3034021 0 0
+xml 6 6270 0 0
+txt 2 1590 0 0
+css 19 3193141 0 0
+php 135 1724 0 0
+jpg 148 49643436 0 0
+png 103 9430689 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 1
+/wp-content/plugins/contact-form-7/license.txt 2 0 1590
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 16
+macosx6 1 0
+linux 51 10
+j2me 47 3
+winxp 7 6
+linuxandroid 7 4
+blackberry 41 2
+winnt 23 20
+win8 1 1
+macosx7 2 2
+winlong 1 1
+macosx8 1 1
+win8.1 84 6
+Unknown 191 140
+win2003 4 2
+win7 11 8
+macosx 88 13
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 42
+chrome61.0.3163.100 88 7
+mozilla 9 9
+chrome46.0.2490.80 1 1
+android 2 2
+opera36.0.2130.32 1 1
+Unknown 134 134
+firefox48.0 2 2
+chrome61.0.3163.98 3 0
+firefox57.0 1 1
+chrome10.0.634.0 1 1
+firefox30.0 1 1
+safari7.1.0.907 41 2
+chrome57.0.2987.133 2 2
+opera45.0.2552.812 1 1
+chrome17.0.963.65 1 1
+chrome24.0.1290.1 1 1
+firefox36.0 1 1
+firefox50.0 8 8
+safari11.0 81 6
+msie11.0 1 1
+firefox42.0 2 2
+chrome50.0.2661.102 2 2
+safari10.1 1 1
+chrome56.0.2924.87 4 4
+chrome54.0.2840.71 1 1
+chrome49.0.2623.75 4 2
+chrome45.0.2454.94 2 2
+msie6.0 5 5
+opera12.16 93 4
+safari 47 2
+firefox53.0 1 1
+chrome34.0.1847.116 1 1
+firefox56.0 3 0
+opera44.0.2510.857 2 2
+msie7.0 4 2
+firefox2.0.0.11 1 1
+chrome10.0.648.134 1 0
+chrome11.0.696.71 2 2
+chrome12.0.704.0 1 0
+firefox40.0 1 1
+firefox3.0.7 1 1
+chrome26.0.1410.65 1 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 7
+Safari/11604.1.38.1.7_CFNetwork/760.6.5_Darwin/15.6.0_(x86_64) 20171026082619
+Opera/9.80_(Android;_Opera_Mini/29.0.2254/73.132;_U;_en)_Presto/2.12.423_Version/12.16 20171026192326
+Mozilla/5.0_(compatible;_Dataprovider.com;) 20171006185852
+Mozilla/5.0_(compatible;_ips-agent) 20171011023143
+WordPress/4.8.2;_https://www.hlalanathi.com 20171031181357
+WordPress/4.8.3;_https://www.hlalanathi.com 20171031235415
+Go_1.1_package_http 20171007112103
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 3
+Go_1.1_package_http 20171007112103
+WordPress/4.8.3;_https://www.hlalanathi.com 20171031235415
+WordPress/4.8.2;_https://www.hlalanathi.com 20171031181357
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 60 82
+From1 0 0
+From2 1 1
+From3 1 1
+From4 157 476
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+google 1 1
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 1
+http://www.phpdevops.com 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 5
+405 1 0
+503 13 37668
+301 59 0
+302 8 0
+404 175 2338
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 59
+/wp-content/plugins/wp-editor/readme.txt 1 -
+/wp-content/plugins/user-photo/admin.css 1 -
+/admin/dumper.php 1 -
+/temp/dumper.php 1 -
+/wp-content/plugins/ninja-forms/ninja_forms.php 1 -
+/a 1 -
+/wp-content/plugins/wp-property/action_hooks.php 1 -
+/wp-content/plugins/wpmarketplace/readme.txt 2 -
+/wp-content/plugins/fcchat/default.png 1 -
+/sypex/dumper.php 1 -
+/admin/index.php 2 -
+/user/ 2 -
+/wp-content/plugins/gallery-plugin/gallery-plugin.php 1 -
+/administrator/index.php 2 -
+/sitemap.xml 2 -
+/wp-content/plugins/auto-attachments/a-a.css 1 -
+/admin.php 6 -
+/dumper/dumper.php 1 -
+/manager/ 2 -
+/wp-content/plugins/font-uploader/font-uploader-free.php 1 -
+/db/dumper.php 1 -
+/typo3/ 2 -
+/wp-content/plugins/zingiri-web-shop/admin.css 1 -
+/components/com_foxcontact/ 1 -
+/wp-json/wp/v2/users/ 6 -
+/wp-content/plugins/wp-homepage-slideshow/functions.php 1 -
+/old/dumper.php 1 -
+/wp-content/plugins/user-avatar/readme.txt 1 -
+/wp-content/plugins/another-wordpress-classifieds-plugin/AWPCP.po 1 -
+/wp-content/themes/yootheme/vendor/assets/uikit/dist/js/'+o+' 1 -
+/wp-content/plugins/wpstorecart/lgpl.txt 1 -
+/administrator/dumper.php 1 -
+/backup/dumper.php 1 -
+/tkpublish/dumper.php 1 -
+/wp-content/plugins/front-end-upload/destination.php 2 -
+/wp-content/plugins/user-meta/readme.txt 1 -
+/wp-content/plugins/wp-image-news-slider/functions.php 1 -
+/wp-content/plugins/category-grid-view-gallery/cat_grid.php 1 -
+/feed/ 1 -
+/wp-content/plugins/cimy-user-extra-fields/README_OFFICIAL.txt 1 -
+/wp-content/plugins/custom-content-type-manager/index.html 1 -
+/robots.txt 83 -
+/wp-content/plugins/simple-dropbox-upload-form/index.php 1 -
+/wp-content/plugins/magic-fields/MF_Constant.php 1 -
+/dumper.php 1 -
+/xmlrpc.php 2 -
+/dump/dumper.php 1 -
+/wp-content/plugins/wp-filemanager/fm.php 1 -
+/sxd/dumper.php 1 -
+/wp-content/plugins/ckeditor-for-wordpress/ckeditor.config.js 1 -
+/admin/ 2 -
+/wp-content/plugins/nmedia-user-file-uploader/readme.txt 1 -
+/wp-content/plugins/resume-submissions-job-postings/installer.php 1 -
+/wp-json/wp/v2/users 1 -
+/wp-content/plugins/nextgen-gallery/changelog.txt 1 -
+/wp-content/plugins/wp-e-commerce/license.txt 1 -
+/ 15 -
+/wp-content/plugins/mac-dock-gallery/bugslist.txt 1 -
+/wp-content/themes/yootheme/vendor/assets/uikit/dist/js/'+t+' 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 51
+192.249.121.134 133 133 0 20171031235415
+169.1.114.57 10 91 12249017 20171026082617
+37.115.188.137 10 10 227770 20171012151411
+163.172.4.153 5 5 222545 20171027111316
+142.44.222.245 3 3 96405 20171021044618
+158.69.27.211 3 3 133527 20171004225428
+167.114.172.225 3 3 133527 20171006185853
+141.0.13.130 3 47 10640300 20171016221626
+41.208.11.201 2 41 7736607 20171004060105
+38.100.21.62 2 4 400169 20171005090659
+197.239.38.47 2 41 7736607 20171030211518
+218.241.108.76 2 2 89018 20171027054657
+185.213.209.34 2 4 90608 20171022211017
+104.239.149.11 2 2 89018 20171007215206
+46.161.9.3 2 2 89018 20171030212218
+146.185.223.25 2 2 89018 20171027153603
+41.13.204.97 2 41 7736607 20171010121806
+41.13.191.107 2 41 7736607 20171014153958
+196.36.218.55 1 1 44509 20171019153744
+165.227.105.146 1 1 44509 20171028042337
+66.249.93.2 1 3 354314 20171023105619
+146.185.203.101 1 1 44509 20171025092338
+34.228.238.248 1 1 44509 20171006104252
+46.105.30.8 1 1 44509 20171028182145
+93.190.141.162 1 1 44509 20171016041422
+169.0.170.118 0 3 619155 
+66.102.6.201 1 2 83172 20171022161047
+115.42.126.86 1 1 44509 20171025004945
+74.208.183.74 1 1 862 20171031213232
+41.142.22.158 1 1 44509 20171027022542
+206.180.165.147 1 1 44509 20171028161703
+188.226.129.55 1 1 44509 20171011145841
+66.249.93.6 0 1 36844 
+54.149.43.164 1 1 44509 20171026062410
+62.210.152.119 1 1 862 20171030182109
+54.37.104.38 1 1 44509 20171029181441
+5.39.223.68 1 1 44509 20171013092249
+192.99.88.236 1 1 44531 20171029042348
+54.184.92.246 1 1 44509 20171007112103
+185.198.164.208 1 1 44509 20171020075009
+173.239.216.3 1 1 0 20171015153652
+169.50.62.91 1 1 44509 20171029031741
+135.19.79.43 1 1 44509 20171025052956
+192.99.1.183 1 1 44509 20171028113121
+34.214.31.202 1 1 44509 20171006171504
+66.249.93.4 0 1 311169 
+69.58.178.58 1 1 44509 20171011023143
+169.0.173.186 0 3 619155 
+146.185.223.26 1 1 44509 20171024123023
+82.145.222.137 1 46 9115672 20171026192317
+139.162.246.62 1 1 44509 20171031112530
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 31
+20171001 5 5 44509 4
+20171002 1 1 0 1
+20171003 3 6 619155 3
+20171004 12 51 7870134 8
+20171005 2 4 400169 1
+20171006 9 9 222545 7
+20171007 12 12 178036 12
+20171008 2 2 0 2
+20171009 9 9 91108 6
+20171010 8 47 7736607 5
+20171011 9 49 7552687 8
+20171012 13 26 1765317 8
+20171013 5 5 89018 5
+20171014 6 45 7736607 4
+20171015 4 4 0 4
+20171016 10 78 13508814 7
+20171017 6 9 619155 6
+20171018 6 7 83172 5
+20171019 9 10 127681 6
+20171020 9 10 191951 8
+20171021 4 4 76644 4
+20171022 6 9 173780 5
+20171023 2 3 83172 2
+20171024 4 4 44509 4
+20171025 6 6 133527 6
+20171026 10 56 9243353 10
+20171027 12 12 267054 9
+20171028 11 11 178036 10
+20171029 8 8 133549 8
+20171030 10 49 7826487 7
+20171031 6 9 664526 6
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 5
+15mn-30mn 4
+0s-30s 171
+5mn-15mn 1
+30mn-1h 3
+30s-2mn 2
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 4
+/wp-cron.php 133 0 119 119
+/ 78 3034021 60 54
+/wp-includes/wlwmanifest.xml 6 6270 0 6
+/xmlrpc.php 2 1724 2 2
+END_SIDER
