@@ -1,0 +1,133 @@
+Return-Path: <oybfovun@xn--90abbh4almacbfls5k1a2c.xn--p1ai>
+Delivered-To: info+spam@hlalanathi.com
+Received: from connect.connectedi.co.za
+	by connect.connectedi.co.za with LMTP
+	id 7xQ4E6wAPmDGIgAA03Y0oA
+	(envelope-from <oybfovun@xn--90abbh4almacbfls5k1a2c.xn--p1ai>)
+	for <info+spam@hlalanathi.com>; Tue, 02 Mar 2021 11:09:00 +0200
+Return-path: <oybfovun@xn--90abbh4almacbfls5k1a2c.xn--p1ai>
+Envelope-to: info@hlalanathi.com
+Delivery-date: Tue, 02 Mar 2021 11:09:00 +0200
+Received: from om-star.ru ([89.108.87.179]:42403)
+	by connect.connectedi.co.za with esmtps  (TLS1.2) tls TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384
+	(Exim 4.93)
+	(envelope-from <oybfovun@xn--90abbh4almacbfls5k1a2c.xn--p1ai>)
+	id 1lH11U-0002Ez-QX
+	for info@hlalanathi.com; Tue, 02 Mar 2021 11:09:00 +0200
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed;
+	d=xn--90abbh4almacbfls5k1a2c.xn--p1ai; s=dkim; h=Date:Reply-To:To:Subject:
+	From:Sender:Message-ID:Cc:MIME-Version:Content-Type:Content-Transfer-Encoding
+	:Content-ID:Content-Description:Resent-Date:Resent-From:Resent-Sender:
+	Resent-To:Resent-Cc:Resent-Message-ID:In-Reply-To:References:List-Id:
+	List-Help:List-Unsubscribe:List-Subscribe:List-Post:List-Owner:List-Archive;
+	 bh=CBRhFNd2N8AScMuurDsrKLPIma+jCQ4W8a78xcXdqXo=; b=tP/Uo65lz+y/EXfJaUbmdSenB
+	Ux4Jl5bsg8bQwKiBj/OGKz02IzE1jeZEjsJARH+ChWSC6k/87AZNtlbQAm/OMJcauODrUxh8LJSma
+	jKyQFZc/4tk5ctLHpwBHugnaiQXZ58wOVX2qpQGL/0u7na1Ya5Er9a0vH/kvWmkS0ZtO4=;
+Received: from [192.3.15.165] (helo=mail.xn--90abbh4almacbfls5k1a2c.xn--p1ai)
+	by om-star.ru with esmtp (Exim 4.91)
+	(envelope-from <oybfovun@xn--90abbh4almacbfls5k1a2c.xn--p1ai>)
+	id 1lH10V-0005QU-M4; Tue, 02 Mar 2021 12:07:58 +0300
+From: "BOOM OF SALES" <oybfovun@xn--90abbh4almacbfls5k1a2c.xn--p1ai>
+To: info@hk-water.com
+Reply-To: contactardados@gmail.com
+Date: Tue, 2 Mar 2021 01:07:55 -0800
+X-Spam-Status: Yes, score=11.2
+X-Spam-Score: 112
+X-Spam-Bar: +++++++++++
+X-Spam-Report: Spam detection software, running on the system "connect.connectedi.co.za",
+ has identified this incoming email as possible spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ Content preview:  Advertise up to 200 MILLION EMAILS WITH THE LOWEST PRICE!
+   Immediate BOOM OF SALES! TALK TO US on WhatsApp: +55 22 99788 1694 You can
+    advertise all over the world, or you can choose the countries and areas of
+    your interest. The greatest advertisement in the whole world, and you can
+    watch the results ONLINE in real time, with [...] 
+ Content analysis details:   (11.2 points, 2.5 required)
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+  0.1 LOW_PRICE              BODY: Lowest Price
+  1.5 NA_DOLLARS             BODY: Talks about a million North American dollars
+  0.0 URIBL_BLOCKED          ADMINISTRATOR NOTICE: The query to URIBL was
+                             blocked.  See
+                             http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+                              for more information.
+                             [URIs: xn--90abbh4almacbfls5k1a2c.xn--p1ai]
+  0.0 T_SPF_HELO_PERMERROR   SPF: test of HELO record failed (permerror)
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+  0.1 PP_MIME_FAKE_ASCII_TEXT BODY: MIME text/plain claims to be ASCII
+                              but isn't
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily
+                             valid
+ -0.1 DKIM_VALID_EF          Message has a valid DKIM or DK signature from
+                             envelope-from domain
+ -0.1 DKIM_VALID_AU          Message has a valid DKIM or DK signature from
+                             author's domain
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+  2.0 PYZOR_CHECK            Listed in Pyzor
+                             (https://pyzor.readthedocs.io/en/latest/)
+  0.8 KAM_ASCII_DIVIDERS     Spam that uses ascii formatting tricks
+  2.1 BIGNUM_EMAILS_MANY     Lots of email addresses/leads, over and over
+  2.3 BIGNUM_EMAILS_FREEM    Lots of email addresses/leads, free email
+                             account
+  0.0 FSL_BULK_SIG           Bulk signature with no Unsubscribe
+  2.5 FREEMAIL_FORGED_REPLYTO Freemail in Reply-To, but not From
+X-Spam-Flag: YES
+Subject:  ***SPAM***  Advertise up to 200 MILLION EMAILS
+
+
+Advertise up to 200 MILLION EMAILS WITH THE LOWEST PRICE! Immediate BOOM OF SALES!
+
+TALK TO US on WhatsApp: +55 22 99788 1694
+
+You can advertise all over the world, or you can choose the countries and areas of your interest.
+The greatest advertisement in the whole world, and you can watch the results ONLINE in real time, with our Exclusive Online Panel !
+
+See the details:
+
+- We do all the work for you.
+- We send your ad up to 200 million emails.
+- You can choose the areas of your best interest to direct the email sending.
+- Your can watch online all the results in real time.
+- If you don´t have the ad ready, we can create it for you at no extra cost.
+
+To start your BOOM OF SALES, answer this email with the information below:
+
+----------------------------------------------------
+Name:
+Email:
+WhatsApp:
+Choose the best option for you below:
+
+(  ) US$ 99 - Advertise to 1 MILLION EMAILS
+(  ) US$ 150 - Advertise to 5 MILLION EMAILS
+(  ) US$ 200 - Advertise to 25 MILLION EMAILS
+(  ) US$ 300 - Advertise to 50 MILLION EMAILS
+(  ) US$ 500 - Advertise to 100 MILLION EMAILS
+(  ) US$ 750 - Advertise to 200 MILLION EMAILS
+-----------------------------------------------------
+
+Or talk to us:
+
+WhatsApp:
++55 22 99788 1694
+
+Skype:
+corbettsoftware
+
+----------------------------------------------------------------------------------
+
+Best regards,
+
+BOOM OF SALES
+
+
+C O R B E T T
+ S I N C E 1 9 9 8
+
+WhatsApp:
++55 22 99788 1694
+
+Skype:
+corbettsoftware

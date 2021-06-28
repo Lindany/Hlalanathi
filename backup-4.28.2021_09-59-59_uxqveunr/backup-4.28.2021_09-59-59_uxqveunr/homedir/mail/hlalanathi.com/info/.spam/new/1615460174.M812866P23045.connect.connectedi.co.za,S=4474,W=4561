@@ -1,0 +1,87 @@
+Return-Path: <wkfwj@jinxsgroup.com>
+Delivered-To: info+spam@hlalanathi.com
+Received: from connect.connectedi.co.za
+	by connect.connectedi.co.za with LMTP
+	id 8N7YL073SWAFWgAA03Y0oA
+	(envelope-from <wkfwj@jinxsgroup.com>)
+	for <info+spam@hlalanathi.com>; Thu, 11 Mar 2021 12:56:14 +0200
+Return-path: <wkfwj@jinxsgroup.com>
+Envelope-to: info@hlalanathi.com
+Delivery-date: Thu, 11 Mar 2021 12:56:14 +0200
+Received: from [202.105.151.181] (port=41568 helo=mail.jinxsgroup.com)
+	by connect.connectedi.co.za with esmtps  (TLS1.2) tls TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384
+	(Exim 4.93)
+	(envelope-from <wkfwj@jinxsgroup.com>)
+	id 1lKIzA-0005nS-KC
+	for info@hlalanathi.com; Thu, 11 Mar 2021 12:56:14 +0200
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by mail.jinxsgroup.com (Postfix) with ESMTP id 933392AE6762;
+	Mon,  8 Mar 2021 19:30:01 +0800 (CST)
+Received: from mail.jinxsgroup.com ([127.0.0.1])
+	by localhost (mail.jinxsgroup.com [127.0.0.1]) (amavisd-new, port 10032)
+	with ESMTP id R_1vbbxitxLY; Mon,  8 Mar 2021 19:30:01 +0800 (CST)
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by mail.jinxsgroup.com (Postfix) with ESMTP id DAD9928E400B;
+	Mon,  8 Mar 2021 02:01:10 +0800 (CST)
+X-Virus-Scanned: amavisd-new at mail.jinxsgroup.com
+Received: from mail.jinxsgroup.com ([127.0.0.1])
+	by localhost (mail.jinxsgroup.com [127.0.0.1]) (amavisd-new, port 10026)
+	with ESMTP id XvDYIx8WNlaO; Mon,  8 Mar 2021 02:01:10 +0800 (CST)
+Received: from mail.jinxsgroup.com (gateway [192.168.42.1])
+	by mail.jinxsgroup.com (Postfix) with ESMTP id DAB9B271EDF1;
+	Sun,  7 Mar 2021 14:04:48 +0800 (CST)
+From: "Soothing Music" <wkfwj@jinxsgroup.com>
+To: info@hk-water.com
+Content-Type: text/plain
+Reply-To: acessenossositeabaixo@gmail.com
+Date: Sat, 6 Mar 2021 22:07:08 -0800
+Message-Id: <20210307060448.DAB9B271EDF1@mail.jinxsgroup.com>
+X-Spam-Status: Yes, score=13.1
+X-Spam-Score: 131
+X-Spam-Bar: +++++++++++++
+X-Spam-Report: Spam detection software, running on the system "connect.connectedi.co.za",
+ has identified this incoming email as possible spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ Content preview:  Looking for people interested in relaxation and soothing music.
+    https://youtube.com/channel/UCwmShe7KK6cE13hOPdfnoDw In this period of global
+    pandemic, having mental health and being relaxed is essential. Therefore,
+    listening soothing music and relaxation is something that will bring you
+   countless benefits. 
+ Content analysis details:   (13.1 points, 2.5 required)
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+  0.6 HK_RANDOM_ENVFROM      Envelope sender username looks random
+  1.0 HK_RANDOM_FROM         From username looks random
+  4.0 RCVD_IN_SORBS_DUL      RBL: SORBS: sent directly from dynamic IP
+                             address
+                             [202.105.151.181 listed in dnsbl.sorbs.net]
+  2.0 PYZOR_CHECK            Listed in Pyzor
+                             (https://pyzor.readthedocs.io/en/latest/)
+  1.0 KAM_LAZY_DOMAIN_SECURITY Sending domain does not have any
+                             anti-forgery methods
+  2.0 RDNS_NONE              Delivered to internal network by a host with no rDNS
+  0.0 FSL_BULK_SIG           Bulk signature with no Unsubscribe
+  2.5 FREEMAIL_FORGED_REPLYTO Freemail in Reply-To, but not From
+X-Spam-Flag: YES
+Subject:  ***SPAM***  Relaxation and Soothing Music
+
+
+Looking for people interested in relaxation and soothing music.
+
+https://youtube.com/channel/UCwmShe7KK6cE13hOPdfnoDw
+
+In this period of global pandemic, having mental health and being relaxed is essential. Therefore, listening soothing music and relaxation is something that will bring you countless benefits. 
+
+ASMR Soul Soothing Music by IPP (Innovative Products | Portal) is an online channel aimed at providing you with meditation and various kinds of music for relaxation. 
+
+https://youtube.com/channel/UCwmShe7KK6cE13hOPdfnoDw
+
+Our key aim is to link your body and mind through music.
+
+Our channel provides you with the best music for meditation, relaxation and healing to develop your meditation and relaxation skills. 
+You will find various kinds of music for relaxation, sleep, healing and meditation on our channel. 
+ 
+Click below to listen:
+https://youtube.com/channel/UCwmShe7KK6cE13hOPdfnoDw

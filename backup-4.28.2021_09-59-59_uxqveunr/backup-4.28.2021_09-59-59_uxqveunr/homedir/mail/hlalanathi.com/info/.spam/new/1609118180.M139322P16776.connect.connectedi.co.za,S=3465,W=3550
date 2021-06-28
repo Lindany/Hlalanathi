@@ -1,0 +1,85 @@
+Return-Path: <qhyaiya@lte15e.tokyo>
+Delivered-To: info+spam@hlalanathi.com
+Received: from connect.connectedi.co.za
+	by connect.connectedi.co.za with LMTP
+	id 6Gk8COQx6V+IQQAA03Y0oA
+	(envelope-from <qhyaiya@lte15e.tokyo>)
+	for <info+spam@hlalanathi.com>; Mon, 28 Dec 2020 03:16:20 +0200
+Return-path: <qhyaiya@lte15e.tokyo>
+Envelope-to: info@hlalanathi.com
+Delivery-date: Mon, 28 Dec 2020 03:16:20 +0200
+Received: from [139.59.226.20] (port=7469 helo=mail.hotlove4u.com)
+	by connect.connectedi.co.za with esmtp (Exim 4.93)
+	(envelope-from <qhyaiya@lte15e.tokyo>)
+	id 1kth8x-0003vZ-Pu
+	for info@hlalanathi.com; Mon, 28 Dec 2020 03:16:20 +0200
+Received: from mail.lte15e.tokyo (unknown [198.46.189.171])
+	by mail.hotlove4u.com (Postfix) with ESMTP id 81D723DB4F3;
+	Sun, 27 Dec 2020 21:23:27 +0000 (UTC)
+From: "Custom Solar" <qhyaiya@lte15e.tokyo>
+To: info@hk-water.com
+Content-Type: text/plain
+Reply-To: contactarinfos@gmail.com
+Date: Sun, 27 Dec 2020 13:23:29 -0800
+X-Spam-Status: Yes, score=11.5
+X-Spam-Score: 115
+X-Spam-Bar: +++++++++++
+X-Spam-Report: Spam detection software, running on the system "connect.connectedi.co.za",
+ has identified this incoming email as possible spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ Content preview:  If you live in Florida, we have the best Solar Power solution.
+    Custom Solar is a full service solar provider. Solar Power can benefit Florida
+    Homeowners in many ways: 
+ Content analysis details:   (11.5 points, 2.5 required)
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+  0.6 HK_RANDOM_ENVFROM      Envelope sender username looks random
+  1.0 HK_RANDOM_FROM         From username looks random
+  1.2 RCVD_IN_BL_SPAMCOP_NET RBL: Received via a relay in
+                             bl.spamcop.net
+              [Blocked - see <https://www.spamcop.net/bl.shtml?198.46.189.171>]
+  1.3 RCVD_IN_RP_RNBL        RBL: Relay in RNBL,
+                             https://senderscore.org/blacklistlookup/
+                             [139.59.226.20 listed in bl.score.senderscore.com]
+  0.0 T_SPF_PERMERROR        SPF: test of record failed (permerror)
+  2.0 PYZOR_CHECK            Listed in Pyzor
+                             (https://pyzor.readthedocs.io/en/latest/)
+  2.0 RDNS_NONE              Delivered to internal network by a host with no rDNS
+  0.8 KAM_ASCII_DIVIDERS     Spam that uses ascii formatting tricks
+  0.0 FSL_BULK_SIG           Bulk signature with no Unsubscribe
+  2.5 FREEMAIL_FORGED_REPLYTO Freemail in Reply-To, but not From
+  0.0 T_FILL_THIS_FORM_SHORT Fill in a short form with personal
+                             information
+X-Spam-Flag: YES
+Subject:  ***SPAM***  The Best Solar Power Solution
+
+
+If you live in Florida, we have the best Solar Power solution.
+
+Custom Solar is a full service solar provider.
+
+Solar Power can benefit Florida Homeowners in many ways: 
+
+- Federal Tax Credits. 
+- Money savings over power company rate increases. 
+- Battery storage for power outages. 
+- Independence from power company monopoly. 
+- Harness free energy from our Sun.
+
+To learn more, answer this email with the following data:
+
+-----------------------------------------------
+Name:
+Email:
+Phone:
+WhatsApp:
+-----------------------------------------------
+
+We are waiting for you!
+
+Best regards,
+
+Custom Solar
+

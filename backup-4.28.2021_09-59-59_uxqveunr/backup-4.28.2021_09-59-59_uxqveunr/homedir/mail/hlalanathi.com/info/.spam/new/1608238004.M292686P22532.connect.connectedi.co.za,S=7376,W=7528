@@ -1,0 +1,152 @@
+Return-Path: <mggseaj@jharkhand.gov.in>
+Delivered-To: info+spam@hlalanathi.com
+Received: from connect.connectedi.co.za
+	by connect.connectedi.co.za with LMTP
+	id IqsDEbTD218EWAAA03Y0oA
+	(envelope-from <mggseaj@jharkhand.gov.in>)
+	for <info+spam@hlalanathi.com>; Thu, 17 Dec 2020 22:46:44 +0200
+Return-path: <mggseaj@jharkhand.gov.in>
+Envelope-to: info@hlalanathi.com
+Delivery-date: Thu, 17 Dec 2020 22:46:44 +0200
+Received: from [103.97.108.103] (port=36806 helo=mail.jharkhand.gov.in)
+	by connect.connectedi.co.za with esmtps  (TLS1.2) tls TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384
+	(Exim 4.93)
+	(envelope-from <mggseaj@jharkhand.gov.in>)
+	id 1kq0AY-0004Lm-Hp
+	for info@hlalanathi.com; Thu, 17 Dec 2020 22:46:44 +0200
+Received: from localhost (localhost [127.0.0.1])
+	by mail.jharkhand.gov.in (Postfix) with ESMTP id 6EB8C282AB70;
+	Thu, 17 Dec 2020 20:39:52 +0530 (IST)
+Received: from mail.jharkhand.gov.in ([127.0.0.1])
+	by localhost (mail.jharkhand.gov.in [127.0.0.1]) (amavisd-new, port 10032)
+	with ESMTP id 6X5admEayJUM; Thu, 17 Dec 2020 20:39:51 +0530 (IST)
+Received: from localhost (localhost [127.0.0.1])
+	by mail.jharkhand.gov.in (Postfix) with ESMTP id E1827282AB68;
+	Thu, 17 Dec 2020 20:11:52 +0530 (IST)
+DKIM-Filter: OpenDKIM Filter v2.10.3 mail.jharkhand.gov.in E1827282AB68
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=jharkhand.gov.in;
+	s=96E8B8D4-403E-11EB-8641-CA213C2C7938; t=1608216112;
+	bh=nmxGEoAecIe7zloVXncvxunwJloXrs+lntyAQB1M0G4=;
+	h=From:To:Date:Message-Id;
+	b=EbqyPtH8rVXdtv1i/WcbNJoxWBpzpOazzEZ5tYWhmGj0oJvsD7KzPOr11MsE6hkQE
+	 BkYIpktmGFMlPfj3j2Fs6FSfXrIjTGUeC9wakiCw/OVKgLLFQeGcLdRZDX7POPMW0r
+	 Z6ddRuJN8mT+aqjthFf5f25T08Bx6Y2q+g3VvG14pz0kxCETD+4z6G8GorXPVKuW6K
+	 7EbbWYnM8TcrPD4P/AzFd+7SLogqcoA0CCmbghB7WcidO69NWyOyGa+HxDiyw9CtPV
+	 Ltp+e1NERQB08h/SB68rtEaFK6Rj4JxX4fjnwwU14ye1yBD+24m/wpDytZTzPOGnXj
+	 QVgSvfZYOakmA==
+X-Amavis-Modified: Mail body modified (using disclaimer) -
+	mail.jharkhand.gov.in
+X-Virus-Scanned: amavisd-new at jharkhand.gov.in
+Received: from mail.jharkhand.gov.in ([127.0.0.1])
+	by localhost (mail.jharkhand.gov.in [127.0.0.1]) (amavisd-new, port 10026)
+	with ESMTP id iYTyu-YW3X0Z; Thu, 17 Dec 2020 20:11:52 +0530 (IST)
+Received: from mail.jharkhand.gov.in (unknown [107.175.31.231])
+	by mail.jharkhand.gov.in (Postfix) with ESMTP id AE51B259C5BC;
+	Thu, 17 Dec 2020 19:51:54 +0530 (IST)
+From: "BOOM OF SALES" <mggseaj@jharkhand.gov.in>
+To: apkpreschool@aol.com
+Reply-To: contactardados@gmail.com
+Date: Thu, 17 Dec 2020 06:22:16 -0800
+Message-Id: <20201217142154.AE51B259C5BC@mail.jharkhand.gov.in>
+X-Spam-Status: Yes, score=10.8
+X-Spam-Score: 108
+X-Spam-Bar: ++++++++++
+X-Spam-Report: Spam detection software, running on the system "connect.connectedi.co.za",
+ has identified this incoming email as possible spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ Content preview:  Advertise up to 200 MILLION EMAILS WITH THE LOWEST PRICE!
+   Immediate BOOM OF SALES! TALK TO US on WhatsApp: +55 22 99788 1694 You can
+    advertise all over the world, or you can choose the countries and areas of
+    your interest. The greatest advertisement in the whole world, and you can
+    watch the results ONLINE in real time, with [...] 
+ Content analysis details:   (10.8 points, 2.5 required)
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+  0.1 LOW_PRICE              BODY: Lowest Price
+  1.5 NA_DOLLARS             BODY: Talks about a million North American dollars
+  0.0 URIBL_BLOCKED          ADMINISTRATOR NOTICE: The query to URIBL was
+                             blocked.  See
+                             http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+                              for more information.
+                             [URIs: jharkhand.gov.in]
+  1.2 RCVD_IN_BL_SPAMCOP_NET RBL: Received via a relay in
+                             bl.spamcop.net
+              [Blocked - see <https://www.spamcop.net/bl.shtml?107.175.31.231>]
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+  0.8 PP_MIME_FAKE_ASCII_TEXT BODY: MIME text/plain claims to be ASCII
+                              but isn't
+ -0.1 DKIM_VALID_EF          Message has a valid DKIM or DK signature from
+                             envelope-from domain
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily
+                             valid
+ -0.1 DKIM_VALID_AU          Message has a valid DKIM or DK signature from
+                             author's domain
+  2.0 PYZOR_CHECK            Listed in Pyzor
+                             (https://pyzor.readthedocs.io/en/latest/)
+  2.0 RDNS_NONE              Delivered to internal network by a host with no rDNS
+  0.8 KAM_ASCII_DIVIDERS     Spam that uses ascii formatting tricks
+  0.0 FSL_BULK_SIG           Bulk signature with no Unsubscribe
+  2.5 FREEMAIL_FORGED_REPLYTO Freemail in Reply-To, but not From
+X-Spam-Flag: YES
+Subject:  ***SPAM***  Advertise up to 200 MILLION EMAILS
+
+
+Advertise up to 200 MILLION EMAILS WITH THE LOWEST PRICE! Immediate BOOM OF SALES!
+
+TALK TO US on WhatsApp: +55 22 99788 1694
+
+You can advertise all over the world, or you can choose the countries and areas of your interest.
+The greatest advertisement in the whole world, and you can watch the results ONLINE in real time, with our Exclusive Online Panel !
+
+See the details:
+
+- We do all the work for you.
+- We send your ad up to 200 million emails.
+- You can choose the areas of your best interest to direct the email sending.
+- Your can watch online all the results in real time.
+- If you don´t have the ad ready, we can create it for you at no extra cost.
+
+To start your BOOM OF SALES, answer this email with the information below:
+
+----------------------------------------------------
+Name:
+Email:
+WhatsApp:
+Choose the best option for you below:
+
+(  ) US$ 99 - Advertise to 1 MILLION EMAILS
+(  ) US$ 150 - Advertise to 5 MILLION EMAILS
+(  ) US$ 200 - Advertise to 25 MILLION EMAILS
+(  ) US$ 300 - Advertise to 50 MILLION EMAILS
+(  ) US$ 500 - Advertise to 100 MILLION EMAILS
+(  ) US$ 750 - Advertise to 200 MILLION EMAILS
+-----------------------------------------------------
+
+Or talk to us:
+
+WhatsApp:
++55 22 99788 1694
+
+Skype:
+corbettsoftware
+
+----------------------------------------------------------------------------------
+
+Best regards,
+
+BOOM OF SALES
+
+
+C O R B E T T
+ S I N C E 1 9 9 8
+
+WhatsApp:
++55 22 99788 1694
+
+Skype:
+corbettsoftware
+The contents of the e-mail and its attachment(s) send/receive through this website are confidential and intended for the named recipient(s) only. This website is governed by IT Policy of Government of India and is intended for the use of registered users of Government of Jharkhand. and its subsidiaries only. Any unauthorized access is prohibited and is liable to be prosecuted under IT Act. The information transmitted is intended only for the person or entity to which it is addressed and may contain confidential and/or privileged material. Any review, retransmission, dissemination or other use of, or taking of any action in reliance upon, this information by persons or entities other than the intended recipient is prohibited.
+

@@ -1,0 +1,123 @@
+Return-Path: <prvs=06016fabc5=mrbfhmsrc@stockmanssupplies.com>
+Delivered-To: info+spam@hlalanathi.com
+Received: from connect.connectedi.co.za
+	by connect.connectedi.co.za with LMTP
+	id 50b6JHtHwl89bAAA03Y0oA
+	(envelope-from <prvs=06016fabc5=mrbfhmsrc@stockmanssupplies.com>)
+	for <info+spam@hlalanathi.com>; Sat, 28 Nov 2020 14:50:03 +0200
+Return-path: <prvs=06016fabc5=mrbfhmsrc@stockmanssupplies.com>
+Envelope-to: info@hlalanathi.com
+Delivery-date: Sat, 28 Nov 2020 14:50:03 +0200
+Received: from bne01.mailcleaner.email ([58.171.217.2]:29751)
+	by connect.connectedi.co.za with esmtps  (TLS1.2) tls TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384
+	(Exim 4.93)
+	(envelope-from <prvs=06016fabc5=mrbfhmsrc@stockmanssupplies.com>)
+	id 1kizfq-0006Ot-IM
+	for info@hlalanathi.com; Sat, 28 Nov 2020 14:50:03 +0200
+Received: from 61-69-72-134.bri.static-ipl.aapt.com.au ([61.69.72.134] helo=SS-DC01.STOCKMANS.local)
+	by bne01.mailcleaner.email stage1 with esmtp 
+	(Exim MailCleaner) 
+	id 1kizgQ-000Mx3-9K  
+	from <mrbfhmsrc@stockmanssupplies.com>; Sat, 28 Nov 2020 22:50:34 +1000
+Received: from SS-DC01.STOCKMANS.local (10.0.0.10) by SS-DC01.STOCKMANS.local
+ (10.0.0.10) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.1979.3; Sat, 28 Nov
+ 2020 22:49:07 +1000
+Received: from mail.stockmanssupplies.com (193.142.59.17) by
+ SS-DC01.STOCKMANS.local (10.0.0.10) with Microsoft SMTP Server id 15.1.1979.3
+ via Frontend Transport; Sat, 28 Nov 2020 22:49:06 +1000
+X-MailCleaner-return_path: mrbfhmsrc@stockmanssupplies.com
+X-MailCleaner-sender_address: mrbfhmsrc@stockmanssupplies.com
+X-MailCleaner-recipients: info@hlalanathi.com, huiliss08@163.com
+From: Cottonia <mrbfhmsrc@stockmanssupplies.com>
+To: <info@hlalanathi.com>
+Content-Type: text/plain
+Reply-To: <cottonia@cottonia.com>
+Date: Sat, 28 Nov 2020 04:49:07 -0800
+Message-ID: <290e4b5b-6a11-420d-bb4d-35384348975f@SS-DC01.STOCKMANS.local>
+MIME-Version: 1.0
+X-MailCleaner-TrustedIPs: Ok
+X-Spam-Status: Yes, score=6.1
+X-Spam-Score: 61
+X-Spam-Bar: ++++++
+X-Spam-Report: Spam detection software, running on the system "connect.connectedi.co.za",
+ has identified this incoming email as possible spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ Content preview:  Hello, My name is Nector Maris, I am one of the owners of
+   Cottonia Products 2000 inc. I am writing to you today to announce that we
+   are selling level III (the highest grade) disposable 3 ply masks as you see
+    [...] 
+ Content analysis details:   (6.1 points, 2.5 required)
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+  1.2 RCVD_IN_BL_SPAMCOP_NET RBL: Received via a relay in
+                             bl.spamcop.net
+               [Blocked - see <https://www.spamcop.net/bl.shtml?193.142.59.17>]
+  0.0 URIBL_BLOCKED          ADMINISTRATOR NOTICE: The query to URIBL was
+                             blocked.  See
+                             http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+                              for more information.
+                             [URIs: costco.ca]
+  0.9 PP_MIME_FAKE_ASCII_TEXT BODY: MIME text/plain claims to be ASCII
+                              but isn't
+  2.0 PYZOR_CHECK            Listed in Pyzor
+                             (https://pyzor.readthedocs.io/en/latest/)
+  1.0 KAM_LAZY_DOMAIN_SECURITY Sending domain does not have any
+                             anti-forgery methods
+  1.0 CTE_8BIT_MISMATCH      Header says 7bits but body disagrees
+  0.0 FSL_BULK_SIG           Bulk signature with no Unsubscribe
+X-Spam-Flag: YES
+Subject:  ***SPAM***  Masks level III (highest level)
+
+
+Hello,
+
+My name is Nector Maris, I am one of the owners of Cottonia Products 2000 inc. I am writing to you today to announce that we are selling level III (the highest grade) disposable 3 ply masks as you see in the picture below for $.10 a mask or $5.00 a box of 50. Where Costco is selling inferior level masks for $.23 a mask or $11.49 a box.   For our US customers this translates to $.08 a mask or $4.00 a box. Please keep in mind that there is a 10% duty for all masks made in China coming into the USA.
+
+https://www.costco.ca/disposable-3-layer-face-mask---50-pack.product.100662546.html
+
+We have sold over 20 million namely to companies and government establishments like SAQ (the Quebec liquor board), STM (the Montreal transit authority), federal prisons as well as large retailers like Amazon. We have independent tests showing that they respect the European and the American disposable mask standards. Give us a call and let us help provide you these high-quality masks at the best price possible.
+
+
+Bonjour,
+
+Je m'appelle Nector Maris, je suis l'un des propriétaires de Produits Cottonia 2000 Inc. Je vous écris aujourd'hui pour vous annoncer que nous vendons des masques jetables 3 plis de niveau III (la plus haute qualité) comme vous le voyez dans l'image ci-dessous pour $. 10 un masque ou 5,00 $ la boîte de 50. Là où Costco vend des masques de niveau inférieur à 0,23 $ le masque ou 11,49 $ la boîte.
+
+https://www.costco.ca/disposable-3-layer-face-mask---50-pack.product.100662546.html
+
+Nous en avons vendu plus de 20 millions, notamment à des entreprises et des établissements gouvernementaux comme la SAQ (la Régie des alcools du Québec), la STM (la société de transport de Montréal), les prisons fédérales ainsi que les gros detailants comme AMAZON. Nous avons des tests indépendants démontrant qu'ils respectent les normes européennes et américaines des masques jetables. Appelez-nous et laissez-nous vous aider à vous fournir ces masques de haute qualité au meilleur prix possible.
+
+
+Hola,
+
+Mi nombre es Nector Maris, soy uno de los propietarios de Cottonia Products 2000 inc. Le escribo hoy para anunciarle que estamos vendiendo máscaras desechables de 3 capas de nivel III (el grado más alto), como puede ver en la imagen a continuación, por $ .10 la máscara o $ 5.00 la caja de 50. Donde Costco vende máscaras de nivel inferior por $ .23 la máscara o $ 11.49 la caja. Para nuestros clientes de Estados Unidos. Esto se traduce en $ .08 por máscara o $ 4.00 por caja. Tenga en cuenta que existe un impuesto del 10% para todas las máscaras fabricadas en China que ingresan a los Estados Unidos.
+
+https://www.costco.ca/disposable-3-layer-face-mask---50-pack.product.100662546.html
+
+Hemos vendido más de 20 millones a empresas y establecimientos gubernamentales como SAQ (la junta de licor de Quebec), STM (la autoridad de tránsito de Montreal), prisiones federales y grandes minoristas como Amazon. Tenemos pruebas independientes que demuestran que respetan los estándares de mascarillas desechables europeos y estadounidenses. Llámenos y permítanos ayudarlo a proporcionarle estas máscaras de alta calidad al mejor precio posible.
+
+
+
+
+Daily Disposable 3-Ply Face Mask FDA CE Earloop Nose Mouth Cover Buy  Wholesale
+
+Thank you / Merci / Gracias
+
+Nector Maris
+
+Cottonia Products 2000 Inc / Les Produits Cottonia 2000 Inc.
+
+2995 Sartelon,
+
+Montréal, Québéc,
+
+H4R 1E6  
+
+Office/bureau: 514-385-1221 ext 220
+
+
+
+cottonia@cottonia.com
+

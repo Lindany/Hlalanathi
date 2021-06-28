@@ -1,0 +1,76 @@
+Return-Path: <systp@v-europe.org>
+Delivered-To: info+spam@hlalanathi.com
+Received: from connect.connectedi.co.za
+	by connect.connectedi.co.za with LMTP
+	id 4ECiI8zBEmCGJQAA03Y0oA
+	(envelope-from <systp@v-europe.org>)
+	for <info+spam@hlalanathi.com>; Thu, 28 Jan 2021 15:53:16 +0200
+Return-path: <systp@v-europe.org>
+Envelope-to: info@hlalanathi.com
+Delivery-date: Thu, 28 Jan 2021 15:53:16 +0200
+Received: from ip1.ip-217-182-214.eu ([217.182.214.1]:50218 helo=mail.odoo.colisea.fr)
+	by connect.connectedi.co.za with esmtps  (TLS1.2) tls TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384
+	(Exim 4.93)
+	(envelope-from <systp@v-europe.org>)
+	id 1l57jS-0002WL-8v
+	for info@hlalanathi.com; Thu, 28 Jan 2021 15:53:16 +0200
+X-Virus-Scanned: Yes
+Received: from mail.v-europe.org (unknown [172.245.124.12])
+	by mail.odoo.colisea.fr (Postfix) with ESMTP id 74E638F9BB5;
+	Thu, 28 Jan 2021 13:52:24 +0000 (UTC)
+Authentication-Results: mail.odoo.colisea.fr; dmarc=none (p=none dis=none) header.from=v-europe.org
+From: "Advanced Smart Mask" <systp@v-europe.org>
+To: info@tusurgical.com
+Content-Type: text/plain
+Date: Thu, 28 Jan 2021 05:52:24 -0800
+Message-Id: <20210128135225.EE52E8F9BB9@mail.odoo.colisea.fr>
+X-Spam-Status: Yes, score=3.2
+X-Spam-Score: 32
+X-Spam-Bar: +++
+X-Spam-Report: Spam detection software, running on the system "connect.connectedi.co.za",
+ has identified this incoming email as possible spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ Content preview:  The most technologically Advanced Smart Mask http://bit.ly/2Mj9wzX
+    Ultramasx Technologies is launching on the market the most technologically
+    advanced electrically ventilated The Ultramasx UltraOneTM respirator mask
+    on earth. 
+ Content analysis details:   (3.2 points, 2.5 required)
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+  0.0 URIBL_BLOCKED          ADMINISTRATOR NOTICE: The query to URIBL was
+                             blocked.  See
+                             http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+                              for more information.
+                             [URIs: bit.ly]
+  1.2 RCVD_IN_BL_SPAMCOP_NET RBL: Received via a relay in
+                             bl.spamcop.net
+              [Blocked - see <https://www.spamcop.net/bl.shtml?172.245.124.12>]
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+  2.0 PYZOR_CHECK            Listed in Pyzor
+                             (https://pyzor.readthedocs.io/en/latest/)
+  0.0 KAM_SHORT              Use of a URL Shortener for very short URL
+  0.0 FSL_BULK_SIG           Bulk signature with no Unsubscribe
+X-Spam-Flag: YES
+Subject:  ***SPAM***  Your Ultimate Protection against COVID-19. US FDA Registered
+
+
+The most technologically Advanced Smart Mask
+
+http://bit.ly/2Mj9wzX
+
+Ultramasx Technologies is launching on the market the most technologically advanced electrically ventilated  The Ultramasx UltraOneTM respirator mask on earth.
+
+http://bit.ly/2Mj9wzX
+
+Excellent for everyday use or even for sports activities, especially in warm and humid climates.
+No more vapor fogging your glasses. 
+Re-chargeable via USB and re-usable,the mask lasts years.
+
+OUR MISSION WAS TO DESIGN THE MOST TECHNOLOGICALLY ADVANCED
+VENTILATED MASK ON EARTH. WE SUCCEEDED.
+
+Click below and protect yourself:
+http://bit.ly/2Mj9wzX
+

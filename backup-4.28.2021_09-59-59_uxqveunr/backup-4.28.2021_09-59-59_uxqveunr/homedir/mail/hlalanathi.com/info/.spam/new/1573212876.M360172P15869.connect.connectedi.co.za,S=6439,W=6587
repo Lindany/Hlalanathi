@@ -1,0 +1,148 @@
+Return-Path: <info@vahta-na-severe1.ru>
+Delivered-To: info+spam@hlalanathi.com
+Received: from connect.connectedi.co.za
+	by connect.connectedi.co.za with LMTP
+	id cHdsFcxSxV39PQAA03Y0oA
+	(envelope-from <info@vahta-na-severe1.ru>)
+	for <info+spam@hlalanathi.com>; Fri, 08 Nov 2019 13:34:36 +0200
+Return-path: <info@vahta-na-severe1.ru>
+Envelope-to: info@hlalanathi.com
+Delivery-date: Fri, 08 Nov 2019 13:34:36 +0200
+Received: from vahta-na-severe1.ru ([80.249.145.203]:57135)
+	by connect.connectedi.co.za with esmtp (Exim 4.92)
+	(envelope-from <info@vahta-na-severe1.ru>)
+	id 1iT2X6-0004Ug-96
+	for info@hlalanathi.com; Fri, 08 Nov 2019 13:34:36 +0200
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; s=mail; d=vahta-na-severe1.ru;
+ h=To:Subject:Message-ID:Date:From:Reply-To:MIME-Version:List-Unsubscribe:
+ Content-Type:Content-Transfer-Encoding;
+ bh=YFYghiaHWBZw4ZaldOaKXF1g3Q/sDfh2zw64iylbGms=;
+ b=P5eYVacRi9xL7932ONkS9WJj8fG8ZPfXiWNVKwEfGEzutttU8o62BCRqEXZyqFA2OkfNwmD7saTx
+   uTsDelKtZJFLdjQGNlgAkxySqMTW7zBeCVvtQt3/ExA7dofjQ/p+vJGZ8evK/+VaqsFJ6V+unGf1
+   OGVTv7UM/kLTniR6WRE=
+To: info@hlalanathi.com
+Message-ID: <05jmmw7664939m2812ir40455lj195w1@getcourse.ru>
+Date: Fri, 8 Nov 2019 14:33:44 +0300
+From: Navneet Rathod <info@vahta-na-severe1.ru>
+Reply-To: 
+MIME-Version: 1.0
+X-Mailer-LID: 8
+List-Unsubscribe: <https://getcourse.ru/i984J938089-UreZ14o8u44r9718x4q9n2sq08371724889y/vUfK0-kgMW631.html>
+X-Mailer-RecptId: 268060
+X-Mailer-SID: 380
+X-Mailer-Sent-By: 8
+Content-Type: multipart/alternative; boundary="a95315d39e4a67b4686d249f0bdfb6805c3e"
+Content-Transfer-Encoding: quoted-printable
+X-Spam-Status: Yes, score=7.8
+X-Spam-Score: 78
+X-Spam-Bar: +++++++
+X-Spam-Report: Spam detection software, running on the system "connect.connectedi.co.za",
+ has identified this incoming email as possible spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ Content preview:  We suggest Sending your business proposition through the Contact
+    us form which can be found on the sites in the contact section. Feedback
+   forms are filled in by our application and the captcha is solved. The pro
+   [...] 
+ Content analysis details:   (7.8 points, 2.5 required)
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+  0.0 URIBL_BLOCKED          ADMINISTRATOR NOTICE: The query to URIBL was
+                             blocked.  See
+                             http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+                              for more information.
+                             [URIs: vahta-na-severe1.ru]
+  4.0 RCVD_IN_SORBS_DUL      RBL: SORBS: sent directly from dynamic IP
+                             address
+                             [80.249.145.203 listed in dnsbl.sorbs.net]
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+ -0.0 SPF_HELO_PASS          SPF: HELO matches SPF record
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+ -0.1 DKIM_VALID_AU          Message has a valid DKIM or DK signature from
+                             author's domain
+ -0.1 DKIM_VALID_EF          Message has a valid DKIM or DK signature from
+                             envelope-from domain
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily
+                             valid
+  2.0 PYZOR_CHECK            Listed in Pyzor
+                             (https://pyzor.readthedocs.io/en/latest/)
+  2.0 HK_SCAM                No description available.
+  0.0 LOTS_OF_MONEY          Huge... sums of money
+X-Spam-Flag: YES
+Subject:  ***SPAM***  Good day! info@hlalanathi.com
+
+--a95315d39e4a67b4686d249f0bdfb6805c3e
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+We suggest
+
+Sending your business proposition through the Contact us form which can b=
+e found on the sites in the contact section. Feedback forms are filled in=
+ by our application and the captcha is solved. The profit of this method =
+is that messages sent through feedback forms are whitelisted. This techni=
+que improve the chances that your message will be read.
+
+Our database contains more than 35 million sites around the world to whic=
+h we can send your message.
+
+The cost of one million messages 49 USD
+
+FREE TEST mailing to any country of your choice.
+
+(We also provide other services.
+1. Mailing email message to corporate addresses of any country
+2. Selling the email database of any country in the world)
+
+This message is automatically generated. Use our contacts for communicati=
+on.
+
+Contact us.
+Telegram - @FeedbackMessages
+Skype =E2=80=93 Feedback_Messages
+Email - feedback.messages@mail.ru
+
+--a95315d39e4a67b4686d249f0bdfb6805c3e
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<HTML><HEAD>
+<META http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8">
+</HEAD>
+<BODY bgColor=3D#ffffff>
+<DIV align=3Dleft></DIV>
+<DIV align=3Dleft>We suggest</DIV>
+<DIV>&nbsp;</DIV>
+<DIV align=3Dleft>Sending your business proposition through the Contact u=
+s form which can be=20
+found on the sites in the contact section.=20
+Feedback forms are filled in by our=20
+application and the captcha is solved. The=20
+profit of this method is that messages sent through=20
+feedback forms are whitelisted. This technique=20
+improve the chances that your=20
+message will be read.</DIV>
+<DIV>&nbsp;</DIV>
+<DIV align=3Dleft>Our database contains more than 35 million sites around=
+ the=20
+world to which we can send your message.</DIV>
+<DIV>&nbsp;</DIV>
+<DIV align=3Dleft>The cost of one million messages 49 USD</DIV>
+<DIV>&nbsp;</DIV>
+<DIV align=3Dleft>FREE TEST mailing to any country of your choice.</DIV>
+<DIV>&nbsp;</DIV>
+<DIV align=3Dleft>(We also provide other services.<BR>1. Mailing email me=
+ssage to=20
+corporate addresses of any country<BR>2. Selling the email database of an=
+y=20
+country in the world)</DIV>
+<DIV><BR>This message is automatically generated. Use our contacts for=20
+communication.</DIV>
+<DIV><BR>Contact us.<BR>Telegram - @FeedbackMessages<BR>Skype =E2=80=93=20
+Feedback_Messages<BR>Email - <A=20
+href=3D"mailto:feedback.messages@mail.ru">feedback.messages@mail.ru</A><B=
+R></DIV></BODY></HTML>
+
+--a95315d39e4a67b4686d249f0bdfb6805c3e--

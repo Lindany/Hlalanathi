@@ -1,0 +1,221 @@
+Return-Path: <harsh@freshconsulting.tech>
+Delivered-To: info@hlalanathi.com
+Received: from connect.connectedi.co.za
+	by connect.connectedi.co.za with LMTP
+	id 8JggH+nUhV7vZgAA03Y0oA
+	(envelope-from <harsh@freshconsulting.tech>)
+	for <info@hlalanathi.com>; Thu, 02 Apr 2020 14:04:57 +0200
+Return-path: <harsh@freshconsulting.tech>
+Envelope-to: info@hlalanathi.com
+Delivery-date: Thu, 02 Apr 2020 14:04:57 +0200
+Received: from mail-pj1-f68.google.com ([209.85.216.68]:51842)
+	by connect.connectedi.co.za with esmtps  (TLS1.2) tls TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256
+	(Exim 4.93)
+	(envelope-from <harsh@freshconsulting.tech>)
+	id 1jJyaa-000311-7T
+	for info@hlalanathi.com; Thu, 02 Apr 2020 14:04:57 +0200
+Received: by mail-pj1-f68.google.com with SMTP id w9so1457954pjh.1
+        for <info@hlalanathi.com>; Thu, 02 Apr 2020 05:04:31 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=freshconsulting.tech; s=google;
+        h=from:to:subject:date:message-id:mime-version:thread-index
+         :content-language;
+        bh=o85of9sOHmCLLnkb3E6UqKtRZuT0tm5YhEYpyWMTXZw=;
+        b=Z9Oe7+8nEKdjb0Xnxs+qswFNQ6edKX09J844scMyK6XtrzuE45k1gWoFigK6tUd15I
+         DVuhTstlU7d7h7/m7U2ijyDaJPbCXiqngsNxS/7p9fDXKr/CTW5OdhsdCHIwZUX+3X6M
+         OeGs3CvnsYTg2Qitg6vwS3rjriZPcwoVu52raTexFaYSNS5YL1ZSbVshxWk+febmOB0j
+         kJZc2JUYW0QJQIGZspHcUpuqF+bzIQ+TCZeBw3+wAGL+T8+eETWIyFFv5XDWpTs+GHl8
+         npUC57qGLdKVhBE5jUmdlRkF53xuOgu1r6EeCdOO8BpTgSiq+y4hXLHFLNDhCbp1DpZQ
+         EmFg==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:from:to:subject:date:message-id:mime-version
+         :thread-index:content-language;
+        bh=o85of9sOHmCLLnkb3E6UqKtRZuT0tm5YhEYpyWMTXZw=;
+        b=D11+qqTdpRQAMfPjd7vkS/SwAfcoLqdEuC0JtxKuRJiBr+SH4uJsRnWjyrK472oOab
+         lgKzq6QmNxmF70UK2wQXUc5Nmc/50In9Sw6idDuEgVL+puK3xYtwitoHMdLmCibWAKae
+         JP+5odr2DTrbM0AQRfEz6AVARwleEV2AKRDfXoqoyH5l+QLiHOyT8VohtbBsPFv/xSgF
+         usUsuWy1vVpzRqGlbxspBfGjoWntXeVHOQEqV1uI0NhL+//2Gla4Ow5g0LCfVLSGN2vn
+         H2ednIkM1wl5lQFrQkoTccSiGit7piFgJXPDBcGixNxIBChDShM0pIhWrGv3gJipOoHK
+         sT2g==
+X-Gm-Message-State: AGi0PuanmN54MJTDtDyme8Ja0+ei7ObShFGoOWKvCGvJD5maPhK045xL
+	WUunX6Cg7FYcY0ib8axD9oO9OcweIU0=
+X-Google-Smtp-Source: APiQypK+yja31UfxWW0zePqgiXSBlkK4CfU0NTL0VhL7foogeIkoqhojQyB+P5JNDXU64csPFZPZRA==
+X-Received: by 2002:a17:90a:10c1:: with SMTP id b1mr3501583pje.142.1585829047161;
+        Thu, 02 Apr 2020 05:04:07 -0700 (PDT)
+Received: from omPC ([196.207.114.140])
+        by smtp.gmail.com with ESMTPSA id nu13sm3831227pjb.22.2020.04.02.05.04.05
+        for <info@hlalanathi.com>
+        (version=TLS1 cipher=ECDHE-RSA-AES128-SHA bits=128/128);
+        Thu, 02 Apr 2020 05:04:06 -0700 (PDT)
+From: "Harsh" <harsh@freshconsulting.tech>
+To: <info@hlalanathi.com>
+Subject: Web Design Services...
+Date: Thu, 2 Apr 2020 17:33:53 +0530
+Message-ID: <532501d608e6$d05833f0$71089bd0$@tech>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_5326_01D60914.EA106FF0"
+X-Mailer: Microsoft Office Outlook 12.0
+Thread-Index: AdYI4nPxQVlmXo7vTDyln3aBFZB4YQ==
+Content-Language: en-us
+X-Spam-Status: No, score=-0.2
+X-Spam-Score: -1
+X-Spam-Bar: /
+X-Ham-Report: Spam detection software, running on the system "connect.connectedi.co.za",
+ has NOT identified this incoming email as spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ Content preview:  Hi info@hlalanathi.com, I found your web contact email from
+    Google "info@hlalanathi.com". I am Harsh, and I work with experienced IT
+   professionals who are into: 1. Website Designing 2. Web Development 3. Responsive
+    Websites 4. PHP Development 5. E-Commerce Solutions 
+ Content analysis details:   (-0.2 points, 2.5 required)
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+ -0.0 RCVD_IN_DNSWL_NONE     RBL: Sender listed at https://www.dnswl.org/,
+                              no trust
+                             [209.85.216.68 listed in list.dnswl.org]
+  0.0 URIBL_BLOCKED          ADMINISTRATOR NOTICE: The query to URIBL was
+                             blocked.  See
+                             http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+                              for more information.
+                             [URIs: freshconsulting.tech]
+  0.0 RCVD_IN_MSPIKE_H3      RBL: Good reputation (+3)
+                             [209.85.216.68 listed in wl.mailspike.net]
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily
+                             valid
+ -0.1 DKIM_VALID_AU          Message has a valid DKIM or DK signature from
+                             author's domain
+ -0.1 DKIM_VALID_EF          Message has a valid DKIM or DK signature from
+                             envelope-from domain
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+  0.0 RCVD_IN_MSPIKE_WL      Mailspike good senders
+X-Spam-Flag: NO
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_000_5326_01D60914.EA106FF0
+Content-Type: text/plain;
+	charset="us-ascii"
+Content-Transfer-Encoding: 7bit
+
+Hi info@hlalanathi.com,
+I found your web contact email from Google "info@hlalanathi.com".
+
+I am Harsh, and I work with experienced IT professionals who are into:
+1. Website Designing
+2. Web Development
+3. Responsive Websites
+4. PHP Development
+5. E-Commerce Solutions
+
+If you are interested, then I can send you our past work details, company
+information and an affordable quotation with the best offer.
+
+Thanks & Regards,
+Harsh
+Web Development Manager
+
+ 
+
+
+------=_NextPart_000_5326_01D60914.EA106FF0
+Content-Type: text/html;
+	charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml" =
+xmlns:o=3D"urn:schemas-microsoft-com:office:office" =
+xmlns:w=3D"urn:schemas-microsoft-com:office:word" =
+xmlns:m=3D"http://schemas.microsoft.com/office/2004/12/omml" =
+xmlns=3D"http://www.w3.org/TR/REC-html40"><head><META =
+HTTP-EQUIV=3D"Content-Type" CONTENT=3D"text/html; =
+charset=3Dus-ascii"><meta name=3DGenerator content=3D"Microsoft Word 12 =
+(filtered medium)"><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0in;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:purple;
+	text-decoration:underline;}
+p
+	{mso-style-priority:99;
+	mso-margin-top-alt:auto;
+	margin-right:0in;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.xmsonormal, li.xmsonormal, div.xmsonormal
+	{mso-style-name:x_msonormal;
+	margin-top:0in;
+	margin-right:0in;
+	margin-bottom:10.0pt;
+	margin-left:0in;
+	line-height:115%;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";}
+.MsoChpDefault
+	{mso-style-type:export-only;}
+.MsoPapDefault
+	{mso-style-type:export-only;
+	margin-bottom:10.0pt;
+	line-height:115%;}
+@page WordSection1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext=3D"edit" spidmax=3D"1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext=3D"edit">
+<o:idmap v:ext=3D"edit" data=3D"1" />
+</o:shapelayout></xml><![endif]--></head><body lang=3DEN-US link=3Dblue =
+vlink=3Dpurple><div class=3DWordSection1><p =
+style=3D'margin-bottom:0in;margin-bottom:.0001pt;background:white'><span =
+style=3D'font-size:13.0pt;font-family:"Calibri","sans-serif";color:#33336=
+6'>Hi info@hlalanathi.com,<br>I found your web contact email from Google =
+&#8220;info@hlalanathi.com&#8221;.<o:p></o:p></span></p><p =
+style=3D'margin-bottom:0in;margin-bottom:.0001pt;background:white'><span =
+style=3D'font-size:13.0pt;font-family:"Calibri","sans-serif";color:#33336=
+6'>I am Harsh</span><span =
+style=3D'font-family:"Calibri","sans-serif";color:black'>, and I work =
+with experienced IT professionals who are into:<br>1. Website =
+Designing<br>2. Web Development<br>3. Responsive Websites<br>4. PHP =
+Development<br>5. E-Commerce Solutions<o:p></o:p></span></p><p =
+style=3D'margin-bottom:0in;margin-bottom:.0001pt;background:white'><b><sp=
+an =
+style=3D'font-family:"Calibri","sans-serif";color:black;background:lime'>=
+If you are interested, then I can send you our past work details, =
+company information and an affordable quotation with the best =
+offer</span></b><b><span =
+style=3D'font-family:"Calibri","sans-serif";color:black'>.</span></b><spa=
+n =
+style=3D'font-family:"Calibri","sans-serif";color:black'><o:p></o:p></spa=
+n></p><p =
+style=3D'margin-bottom:0in;margin-bottom:.0001pt;background:white'><span =
+style=3D'font-family:"Calibri","sans-serif";color:black'>Thanks &amp; =
+Regards,<br>Harsh<br>Web Development Manager<o:p></o:p></span></p><p =
+class=3DMsoNormal><o:p>&nbsp;</o:p></p></div></body></html>
+------=_NextPart_000_5326_01D60914.EA106FF0--
+

@@ -1,0 +1,116 @@
+Return-Path: <dikolindisipho@gmail.com>
+Delivered-To: info@hlalanathi.com
+Received: from connect.connectedi.co.za
+	by connect.connectedi.co.za with LMTP
+	id IN/jJt1Ic16cJQAA03Y0oA
+	(envelope-from <dikolindisipho@gmail.com>)
+	for <info@hlalanathi.com>; Thu, 19 Mar 2020 12:26:37 +0200
+Return-path: <dikolindisipho@gmail.com>
+Envelope-to: info@hlalanathi.com
+Delivery-date: Thu, 19 Mar 2020 12:26:37 +0200
+Received: from mail-il1-f172.google.com ([209.85.166.172]:47077)
+	by connect.connectedi.co.za with esmtps  (TLS1.2) tls TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256
+	(Exim 4.93)
+	(envelope-from <dikolindisipho@gmail.com>)
+	id 1jEsNn-0003C2-IW
+	for info@hlalanathi.com; Thu, 19 Mar 2020 12:26:37 +0200
+Received: by mail-il1-f172.google.com with SMTP id e8so1653749ilc.13
+        for <info@hlalanathi.com>; Thu, 19 Mar 2020 03:26:14 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20161025;
+        h=mime-version:from:date:message-id:subject:to;
+        bh=hFxeOQfrcknG4f8XKaLd9ZJVaLW7JWjaKSClAc9sn00=;
+        b=QgZ0AGRxssqakvaYY/mO2XUx5X5YUkzpM5ZV8XUhKqCIlnKi1SuAK8TuM7i3dKsc8f
+         byVZN0f39anBQJXdG5wP8y4eK8I9MUBxhJfPnQ4rEr7mVcJFjdM8J0f9c+RJHQTfLUuq
+         ua9IXoEWfeXji4VO4AG641KmbqM0T9jz4OR5W4cEDIYcNvAlWfFBYYGxtLE2vmiqyvQO
+         oPwDhYkO9ulrU4j/AOWJG3Tm+AEHNgnUOZwNng54y4Sb7xcljw7EIMU2rW0BwxdxLE29
+         mzvd1Bf9NQDbM7ueRG1N+YSzKj2el1swMaHPWeHAQxYsRVbuVF8JdQgNf5fy5nBmQ2xk
+         mjTQ==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:from:date:message-id:subject:to;
+        bh=hFxeOQfrcknG4f8XKaLd9ZJVaLW7JWjaKSClAc9sn00=;
+        b=COtXuErNC1ffUf8ixIKt826Hn/ZCR+wHae2dSxXzQkTSWC85hhR5+z+8s35dosLRa8
+         grZS23n/bifPLQv7soAYrAkfT/DijO9hLc8AzobC0NJxMCHjjXDo/o55IW8ajin7R+cs
+         yqucasnBHnswgVNq3zN7Y6WZIsVrWBCs5f8vlNPIc8nKdMcYj/2u/X+TDnBMVQoZyi4V
+         0WvVQWmvkHu4r7FJtkQIeNN88a2LL0GlSNAxS6G7O1dnMiNZun8AF9QcWAiQ8AxdO5L7
+         77Zq/j6h6c0Rlre6BB+AE+37UuIrHXhLk7K/S1Gkj3VqWQ1TObu6yxlUObfBF52uEH4b
+         qHkw==
+X-Gm-Message-State: ANhLgQ2m+6vCU4HQRkJRbsZdlASUM19gq3S2bPE0aPecJpztW9/rsADi
+	u74j3oNGhMcPFWnzDpI9fGcGRxbY/PTKem068ybGKw==
+X-Google-Smtp-Source: ADFU+vvWr4VnktCw5MdQVSkEyxlk1epAua7/0CLKptM86KwZ36+HMdoKecjC7cgWG7mQOk60vc76TYifzQNznwdW7x0=
+X-Received: by 2002:a92:d0d2:: with SMTP id y18mr2328647ila.245.1584613551509;
+ Thu, 19 Mar 2020 03:25:51 -0700 (PDT)
+MIME-Version: 1.0
+From: Lindisipho Diko <dikolindisipho@gmail.com>
+Date: Thu, 19 Mar 2020 12:25:41 +0200
+Message-ID: <CAKrehiuL132pa5v3nTPvZAuXWmzYraL+79a6qCXEuv3ABjfGCA@mail.gmail.com>
+Subject: Rental
+To: info@hlalanathi.com
+Content-Type: multipart/alternative; boundary="000000000000d8143705a132971c"
+X-Spam-Status: No, score=0.8
+X-Spam-Score: 8
+X-Spam-Bar: /
+X-Ham-Report: Spam detection software, running on the system "connect.connectedi.co.za",
+ has NOT identified this incoming email as spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ Content preview:  Hi. I would like to know if the apartments are available now
+    or still not available *Regards* *Lindisipho Diko* 
+ Content analysis details:   (0.8 points, 2.5 required)
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+  0.0 FREEMAIL_FROM          Sender email is commonly abused enduser mail
+                             provider
+                             [dikolindisipho[at]gmail.com]
+  0.0 RCVD_IN_DNSWL_BLOCKED  RBL: ADMINISTRATOR NOTICE: The query to
+                             DNSWL was blocked.  See
+                             http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+                              for more information.
+                             [209.85.166.172 listed in list.dnswl.org]
+ -0.0 RCVD_IN_MSPIKE_H2      RBL: Average reputation (+2)
+                             [209.85.166.172 listed in wl.mailspike.net]
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+ -0.1 DKIM_VALID_AU          Message has a valid DKIM or DK signature from
+                             author's domain
+ -0.1 DKIM_VALID_EF          Message has a valid DKIM or DK signature from
+                             envelope-from domain
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily
+                             valid
+  1.0 FREEMAIL_REPLY         From and body contain different freemails
+X-Spam-Flag: NO
+
+--000000000000d8143705a132971c
+Content-Type: text/plain; charset="UTF-8"
+
+Hi.
+
+I would like to know if the apartments are available now or still not
+available
+
+*Regards*
+*Lindisipho Diko*
+
+*Mobile: +27 (83) 512 6413 *|
+*Personal Email:* *dikolindisipho@gmail.com <dikolindisipho@gmail.com>*
+
+--000000000000d8143705a132971c
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr">Hi.<div><br></div><div>I would like to know if the apartme=
+nts are available now or still not available<br clear=3D"all"><div><div dir=
+=3D"ltr" data-smartmail=3D"gmail_signature"><div dir=3D"ltr"><div><div dir=
+=3D"ltr"><div dir=3D"ltr"><div dir=3D"ltr"><div dir=3D"ltr"><div><b><u><br>=
+</u></b></div><div><b><u>Regards</u></b></div><div><b>Lindisipho Diko</b></=
+div><div><br></div><div><div style=3D"font-size:small"><b>Mobile: +27 (83) =
+512 6413=C2=A0</b>|</div><div style=3D"font-size:12.8px"><span style=3D"fon=
+t-size:12.8px"><b>Personal Email:</b>=C2=A0</span><b style=3D"font-size:12.=
+8px"><a href=3D"mailto:dikolindisipho@gmail.com" style=3D"font-size:12.8px"=
+ target=3D"_blank">dikolindisipho@gmail.com</a></b></div></div></div></div>=
+</div></div></div></div></div></div></div></div>
+
+--000000000000d8143705a132971c--

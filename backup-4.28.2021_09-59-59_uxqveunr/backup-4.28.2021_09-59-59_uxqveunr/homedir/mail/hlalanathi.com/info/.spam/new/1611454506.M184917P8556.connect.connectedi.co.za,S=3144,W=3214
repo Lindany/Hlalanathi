@@ -1,0 +1,70 @@
+Return-Path: <nkcrwabt@asdh.wang>
+Delivered-To: info+spam@hlalanathi.com
+Received: from connect.connectedi.co.za
+	by connect.connectedi.co.za with LMTP
+	id 8FyoCirYDGBsIQAA03Y0oA
+	(envelope-from <nkcrwabt@asdh.wang>)
+	for <info+spam@hlalanathi.com>; Sun, 24 Jan 2021 04:15:06 +0200
+Return-path: <nkcrwabt@asdh.wang>
+Envelope-to: info@hlalanathi.com
+Delivery-date: Sun, 24 Jan 2021 04:15:06 +0200
+Received: from [221.226.118.110] (port=61748 helo=mail.asail.net)
+	by connect.connectedi.co.za with smtp (Exim 4.93)
+	(envelope-from <nkcrwabt@asdh.wang>)
+	id 1l3Uvb-0006In-Sm
+	for info@hlalanathi.com; Sun, 24 Jan 2021 04:15:06 +0200
+Received: from mail.asdh.wang ([172.245.124.12])
+	(envelope-sender <nkcrwabt@asdh.wang>)
+	by 192.168.0.218 with ESMTP
+	for <info@hk-water.com>; Sun, 24 Jan 2021 10:14:11 +0800
+From: "Advanced Smart Mask" <nkcrwabt@asdh.wang>
+To: info@hk-water.com
+Content-Type: text/plain
+Date: Sat, 23 Jan 2021 18:14:11 -0800
+X-Spam-Status: Yes, score=4.6
+X-Spam-Score: 46
+X-Spam-Bar: ++++
+X-Spam-Report: Spam detection software, running on the system "connect.connectedi.co.za",
+ has identified this incoming email as possible spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ Content preview:  The most technologically Advanced Smart Mask http://bit.ly/2Mj9wzX
+    Ultramasx Technologies is launching on the market the most technologically
+    advanced electrically ventilated The Ultramasx UltraOneTM respirator mask
+    on earth. 
+ Content analysis details:   (4.6 points, 2.5 required)
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+  0.0 URIBL_BLOCKED          ADMINISTRATOR NOTICE: The query to URIBL was
+                             blocked.  See
+                             http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+                              for more information.
+                             [URIs: bit.ly]
+  0.6 HK_RANDOM_ENVFROM      Envelope sender username looks random
+  1.0 HK_RANDOM_FROM         From username looks random
+  2.0 RDNS_NONE              Delivered to internal network by a host with no rDNS
+  0.0 KAM_SHORT              Use of a URL Shortener for very short URL
+  1.0 KAM_LAZY_DOMAIN_SECURITY Sending domain does not have any
+                             anti-forgery methods
+X-Spam-Flag: YES
+Subject:  ***SPAM***  Your Ultimate Protection against COVID-19. US FDA Registered
+
+
+The most technologically Advanced Smart Mask
+
+http://bit.ly/2Mj9wzX
+
+Ultramasx Technologies is launching on the market the most technologically advanced electrically ventilated  The Ultramasx UltraOneTM respirator mask on earth.
+
+http://bit.ly/2Mj9wzX
+
+Excellent for everyday use or even for sports activities, especially in warm and humid climates.
+No more vapor fogging your glasses. 
+Re-chargeable via USB and re-usable,the mask lasts years.
+
+OUR MISSION WAS TO DESIGN THE MOST TECHNOLOGICALLY ADVANCED
+VENTILATED MASK ON EARTH. WE SUCCEEDED.
+
+Click below and protect yourself:
+http://bit.ly/2Mj9wzX

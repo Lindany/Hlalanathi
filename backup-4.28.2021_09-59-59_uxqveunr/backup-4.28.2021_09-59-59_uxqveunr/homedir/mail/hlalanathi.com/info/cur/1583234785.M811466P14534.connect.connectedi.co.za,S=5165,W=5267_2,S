@@ -1,0 +1,102 @@
+Return-Path: <lungumxokwana@gmail.com>
+Delivered-To: info@hlalanathi.com
+Received: from connect.connectedi.co.za
+	by connect.connectedi.co.za with LMTP
+	id eKY4MOE+Xl7GOAAA03Y0oA
+	(envelope-from <lungumxokwana@gmail.com>)
+	for <info@hlalanathi.com>; Tue, 03 Mar 2020 13:26:25 +0200
+Return-path: <lungumxokwana@gmail.com>
+Envelope-to: info@hlalanathi.com
+Delivery-date: Tue, 03 Mar 2020 13:26:25 +0200
+Received: from mail-yw1-f50.google.com ([209.85.161.50]:37097)
+	by connect.connectedi.co.za with esmtps  (TLS1.2) tls TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256
+	(Exim 4.93)
+	(envelope-from <lungumxokwana@gmail.com>)
+	id 1j95gs-0006vG-LX
+	for info@hlalanathi.com; Tue, 03 Mar 2020 13:26:25 +0200
+Received: by mail-yw1-f50.google.com with SMTP id g206so1130276ywb.4
+        for <info@hlalanathi.com>; Tue, 03 Mar 2020 03:26:02 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20161025;
+        h=mime-version:from:date:message-id:subject:to;
+        bh=JWLlNTV4L8SqltW824CrzmdB+j91VQoHZ/CdTyeT+IM=;
+        b=BmL/zOsd3MLbrJenwzGMqYNWW2cpYuxA7jZZrxomJAvGOUw/9Ldw9VJ2RIpoXUMVxm
+         4wMy1D+ok70OS8kjpU5aKb8vB7sjnVComp3lRYg/yb2+7wDYYLZTs9zUDXJ4aO/4CkbF
+         IY0Blv0GXWgKB2aqrWiKSZYOR/bOnBDz48uMdo3zZagJAmwcLU5bZg3ERq3yMi8HH4Xt
+         aKinK3Sa9jTv5iH+rmcEBcd7dqrExfB+3X0W7x6dm2ruSMoePNhXG9tuwFd7XXrMoHQ5
+         AssBbTblbPFc9YIV7DwJ3KOH+1508juxtjXYeqMBEwIJUoy+/qhlIJc06D3Hbi8YY/WO
+         Py7w==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:from:date:message-id:subject:to;
+        bh=JWLlNTV4L8SqltW824CrzmdB+j91VQoHZ/CdTyeT+IM=;
+        b=jMf0FF2EenA7nqQfAxfVEQ0XIAMBxUaZlJZ55hYT/+oTdtEnsZouLIlpbBjqja2HGB
+         UWdTArPDHviGQ7DurhR0QsX83d47dLcRYt+tsMGtptLL73SPL04ukYd+WG+5Ez4M/GG3
+         vXCrcB4yQqvoDFsRxll3TzogjoLeCC05Vdkey6Qg8iN0yjlupkM4SyuqG6+YizQtK7ng
+         hqTUNvkTEwLkZx6WU+y9RwssyjRHB9kbWV4QbziJueE1tbgwqcML0s2AXtKvF5oC6qli
+         2iS8cfZj/omzVyvMCJt/GHZUxbxLItbUthmWHxUQv7X91AlizotPmT9NveEnKVYGL1dR
+         G2QQ==
+X-Gm-Message-State: ANhLgQ0hD2E1Mn+2lIGTSge0z3gk2C1dlAVOO4CdHjlUo2fArw1Wxi2F
+	HoXaD6CUewCotCpISB9AES7dyNzKD4nGw7MaiDaXXg==
+X-Google-Smtp-Source: ADFU+vuNJje1/66emLk6SPn9k9jVEfWFoM0MtnVcxBmpNReRji+D597g0L5pl6vygsXov1KT/oddD1Nt9S8Bu5D9g+Y=
+X-Received: by 2002:a25:8381:: with SMTP id t1mr3321524ybk.266.1583234738227;
+ Tue, 03 Mar 2020 03:25:38 -0800 (PST)
+MIME-Version: 1.0
+From: lunguwe mxokwana <lungumxokwana@gmail.com>
+Date: Tue, 3 Mar 2020 13:25:25 +0200
+Message-ID: <CAJpyTF3AHN6z41ShpqwQnZDSgMWC5mK2qcZ-Ec0bqB+vRr9xXQ@mail.gmail.com>
+Subject: 
+To: info@hlalanathi.com
+Content-Type: multipart/alternative; boundary="0000000000002b2931059ff1901d"
+X-Spam-Status: No, score=-0.2
+X-Spam-Score: -1
+X-Spam-Bar: /
+X-Ham-Report: Spam detection software, running on the system "connect.connectedi.co.za",
+ has NOT identified this incoming email as spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ Content preview:  Good day I have applied for flats last year with no response
+    ..your phone number does not work. Good day 
+ Content analysis details:   (-0.2 points, 2.5 required)
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+  0.0 RCVD_IN_DNSWL_BLOCKED  RBL: ADMINISTRATOR NOTICE: The query to
+                             DNSWL was blocked.  See
+                             http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+                              for more information.
+                             [209.85.161.50 listed in list.dnswl.org]
+  0.0 RCVD_IN_MSPIKE_H3      RBL: Good reputation (+3)
+                             [209.85.161.50 listed in wl.mailspike.net]
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+  0.0 FREEMAIL_FROM          Sender email is commonly abused enduser mail
+                             provider
+                             [lungumxokwana[at]gmail.com]
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily
+                             valid
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+ -0.1 DKIM_VALID_AU          Message has a valid DKIM or DK signature from
+                             author's domain
+ -0.1 DKIM_VALID_EF          Message has a valid DKIM or DK signature from
+                             envelope-from domain
+  0.0 RCVD_IN_MSPIKE_WL      Mailspike good senders
+X-Spam-Flag: NO
+
+--0000000000002b2931059ff1901d
+Content-Type: text/plain; charset="UTF-8"
+
+Good day
+
+I have applied for flats last year  with no response ..your phone number
+does not work.
+
+--0000000000002b2931059ff1901d
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"auto">Good day=C2=A0<div dir=3D"auto"><br></div><div dir=3D"aut=
+o">I have applied for flats last year=C2=A0 with no response ..your phone n=
+umber does not work.</div></div>
+
+--0000000000002b2931059ff1901d--

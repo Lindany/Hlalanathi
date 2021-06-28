@@ -1,0 +1,111 @@
+Return-Path: <tmkfgnxnywa@fmlcloud.com>
+Delivered-To: info+spam@hlalanathi.com
+Received: from connect.connectedi.co.za
+	by connect.connectedi.co.za with LMTP
+	id EEaQN7bWLGDMVwAA03Y0oA
+	(envelope-from <tmkfgnxnywa@fmlcloud.com>)
+	for <info+spam@hlalanathi.com>; Wed, 17 Feb 2021 10:41:26 +0200
+Return-path: <tmkfgnxnywa@fmlcloud.com>
+Envelope-to: info@hlalanathi.com
+Delivery-date: Wed, 17 Feb 2021 10:41:26 +0200
+Received: from [153.231.209.83] (port=24716 helo=mail.fmlcloud.com)
+	by connect.connectedi.co.za with esmtps  (TLS1.2) tls TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384
+	(Exim 4.93)
+	(envelope-from <tmkfgnxnywa@fmlcloud.com>)
+	id 1lCIOg-0005sn-7U
+	for info@hlalanathi.com; Wed, 17 Feb 2021 10:41:26 +0200
+Received: from mail.fmlcloud.com ([10.130.166.18])
+	by mail.fmlcloud.com  with ESMTP id 11H8eXFu029220-11H8eXFw029220;
+	Wed, 17 Feb 2021 17:40:33 +0900
+Message-Id: <202102170840.11H8eXFu029220-11H8eXFw029220@mail.fmlcloud.com>
+From: "Untouchable Streams" <tmkfgnxnywa@fmlcloud.com>
+To: info@hlalanathi.com
+Content-Type: text/plain
+Reply-To: acessenossositeabaixo@gmail.com
+Date: Wed, 17 Feb 2021 00:40:34 -0800
+X-FE-Policy-ID: 1:1:0:SYSTEM
+X-Spam-Status: Yes, score=10.7
+X-Spam-Score: 107
+X-Spam-Bar: ++++++++++
+X-Spam-Report: Spam detection software, running on the system "connect.connectedi.co.za",
+ has identified this incoming email as possible spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ Content preview:  Looking for a reliable and buffer free IPTV service? www.untouchableiptv.com
+    Untouchable Streams is one of the leading IPTV services 
+ Content analysis details:   (10.7 points, 2.5 required)
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+  1.0 HK_RANDOM_FROM         From username looks random
+  0.6 HK_RANDOM_ENVFROM      Envelope sender username looks random
+  0.5 FROM_LOCAL_NOVOWEL     From: localpart has series of non-vowel
+                             letters
+  0.0 URIBL_BLOCKED          ADMINISTRATOR NOTICE: The query to URIBL was
+                             blocked.  See
+                             http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+                              for more information.
+                             [URIs: untouchableiptv.com]
+  2.7 RCVD_IN_PSBL           RBL: Received via a relay in PSBL
+                             [153.231.209.83 listed in psbl.surriel.com]
+  0.0 T_SPF_PERMERROR        SPF: test of record failed (permerror)
+  0.4 PP_MIME_FAKE_ASCII_TEXT BODY: MIME text/plain claims to be ASCII
+                              but isn't
+  1.0 CTE_8BIT_MISMATCH      Header says 7bits but body disagrees
+  2.0 RDNS_NONE              Delivered to internal network by a host with no rDNS
+  2.5 FREEMAIL_FORGED_REPLYTO Freemail in Reply-To, but not From
+X-Spam-Flag: YES
+Subject:  ***SPAM***  IPTV service
+
+
+Looking for a reliable and buffer free IPTV service?
+
+www.untouchableiptv.com
+
+Untouchable Streams is one of the leading IPTV services 
+
+15% OFF when purchasing on website just add 15deal in discount/coupons section
+
+www.untouchableiptv.com
+
+With over 7000+ channels we cater for all your needs.
+
+U.K.- USA - Canada - Mexico - France - Spain - Germany - India - Pakistan and many other countries.
+
+All our channels are from a local source which means 100% high quality service.
+
+We cover all Football matches from Premier League to iFollow
+
+All PPV events covered from Boxing to UFC
+
+Our service also offers a large selection of Movies and TV shows which are updates daily.
+
+We also have a request site, where customers can login and request for a movie or tv show and even 
+
+sports events to be added to the collection and within days it’s added!
+
+We also have 24/7 channels and Adult channels 
+
+We also offer 5 day catchup on selected channels. If you want any channel added to the catchup just let 
+
+us know and it will be added straight away.
+
+Try our service today for 24 hours only  £2 / $3
+
+Or for 1 month £10 / $14
+
+Our service can not be beaten in quality.
+
+All our customers get a link to our closed group for support.
+
+Are you a IPTV Reseller? And want a service for your customers that is reliable and affordable? Contact 
+
+us today!
+
+15% OFF when purchasing on website just add 
+
+15deal 
+
+in discount/coupons section
+
+www.untouchableiptv.com
