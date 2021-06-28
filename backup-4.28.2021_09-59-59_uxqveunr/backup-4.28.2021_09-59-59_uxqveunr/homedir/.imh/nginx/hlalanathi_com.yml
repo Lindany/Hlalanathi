@@ -1,0 +1,50 @@
+# vim: set ts=2 sw=2 expandtab syntax=yaml:
+# Default user configuration
+---
+_mtime: 1541704325
+accel_static_content: true
+allow_compat_ciphers: false
+bypass_cookies:
+- _logged_in_
+- items_in_cart
+- jsid
+cache_bypass_paths:
+- .*/wp-admin
+- .*/administrator
+- /admin
+- /user
+- .*/wp-cron\.php
+- /.*login\.php
+- /opcache\.php
+- .*/xmlrpc\.php
+- .*/phpinfo\.php
+cache_convert_head: true
+cache_honor_cc: false
+cache_honor_cookies: true
+cache_honor_expires: false
+cache_lock_enable: true
+cache_time_404: 10
+cache_time_default: 14400
+cache_time_modsec: 0
+enable_hsts: false
+enable_http2: true
+enable_tlsv1: true
+enable_tlsv1_1: true
+error_page: null
+fast_sending: false
+force_https: false
+force_passthru: []
+gzip: 3
+http2_idle_timeout: 5
+pass_all: false
+proxy_proto: https
+ratelimit: 15
+ratelimit_paths:
+- /.*login\.php
+- .*/xmlrpc\.php
+set_default: false
+ssl_certificate: /var/nginx/certs/hlalanathi-com.pem
+ssl_certificate_key: /var/nginx/certs/hlalanathi-com.key
+ssl_enabled: true
+static_content_paths:
+- /wp-content/uploads
